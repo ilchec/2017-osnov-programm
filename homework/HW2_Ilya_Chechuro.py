@@ -18,7 +18,7 @@ for i in sys.stdin.read():
 	characters += 1
 words += 1
 
-
-avg = (len(s.split(". "))+len(s.split("\n")))/len(s.split("\n"))
+#count ".\n" as well because sentences in the ends of paragraphs are not counted by ". "
+avg = (len(s.split(". "))+len(s.split(".\n")))/len(s.split("\n"))
 
 print ('lines: ' + str(lines) + ', words: ' + str(words) + ', characters: ' + str(characters) + ', average: ' + str(avg) + " sent/par.")
