@@ -19,6 +19,6 @@ for i in sys.stdin.read():
 words += 1
 
 
-avg = len(s.split(". "))/len(s.split("\n"))
+avg = (len(s.split(". "))+len(s.split("\n")))/len(s.split("\n"))
 
 print ('lines: ' + str(lines) + ', words: ' + str(words) + ', characters: ' + str(characters) + ', average: ' + str(avg) + " sent/par.")
