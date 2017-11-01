@@ -1,248 +1,728 @@
-sent_id = 1
-text = Hłowna strona:
-1	Hłowna	_	_	ADJ	_	_	_	_	_
-2	strona:	_	_	NOUN	_	_	_	_	_
+##sent_id = 1
+##text = Hłowna strona
+1	Hłowna	_	ADJ	_	_	_	_	_	Translit=ɦwɔwna
+2	strona:	_	NOUN	_	_	_	_	_	Translit=strɔna:
 
-sent_id = 2
-text = Benedikt XVI.:
-1	Benedikt	_	_	NOUN	_	_	_	_	_
-2	XVI	_	_	NUM	_	_	_	_	_
-3	.:	_	_	PUNCT	_	_	_	_	_
+#sent_id = 2
+#text = Benedikt XVI.:
+1	Benedikt	_	PROPN	_	_	_	_	_	Translit=bɛnɛdɪkt
+2	XVI	_	NUM	_	_	_	_	_	Translit=Xvɪ
+3	.:	_	PUNCT	_	_	_	_	_	Translit=.:
 
-sent_id = 3
-text = Benedikt XVI.
-1	Benedikt	_	_	NOUN	_	_	_	_
-2	XVI	_	_	NUM	_	_	_	_	_
-3	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 3
+#text = Benedikt XVI.
+1	Benedikt	_	PROPN	_	_	_	_	_	Translit=bɛnɛdɪkt
+2	XVI	_	NUM	_	_	_	_	_	Translit=Xvɪ
+3	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 4
-text = (łaćonsce "Benedictus PP.
-1		_	_	PUNCT	_	_	_	_	_
-2	(łaćonsce	_	_	NOUN	_	_	_	_	_
-3	"Benedictus	_	_	NOUN	_	_	_	_	_
-4	PP	_	_	X	_	_	_	_	_
-5	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 4
+#text = (łaćonsce "Benedictus PP.
+1		_	PUNCT	_	_	_	_	_	Translit=
+2	(łaćonsce	_	ADJ	_	_	_	_	_	Translit=(watʃɔnstsɛ
+3	"Benedictus	_	PROPN	_	_	_	_	_	Translit="bɛnɛdɪtstʊs
+4	PP	_	X	_	_	_	_	_	Translit=pp
+5	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 5
-text = XVI"), z byrgarskim mjenom Josef Alois Ratzinger (* 16.
-1	XVI"	_	_	NUM	_	_	_	_	_
-2	)	_	_	PUNCT	_	_	_	_	_
-3	,	_	_	PUNCT	_	_	_	_	_
-4	z	_	_	ADP	_	_	_	_	_
-5	byrgarskim	_	_	ADJ	_	_	_	_	_
-6	mjenom	_	_	NOUN	_	_	_	_	_
-7	Josef	_	_	PROPN	_	_	_	_	_
-8	Alois	_	_	PROPN	_	_	_	_	_
-9	Ratzinger	_	_	PROPN	_	_	_	_	_
-10		_	_	PUNCT	_	_	_	_	_
-11	(*	_	_	PUNCT	_	_	_	_	_
-12	16	_	_	NUM	_	_	_	_	_
-13	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 5
+#text = XVI"), z byrgarskim mjenom Josef Alois Ratzinger (* 16.
+1	XVI"	_	NUM	_	_	_	_	_	Translit=Xvɪ"
+2	)	_	PUNCT	_	_	_	_	_	Translit=)
+3	,	_	PUNCT	_	_	_	_	_	Translit=,
+4	z	_	ADP	_	_	_	_	_	Translit=z
+5	byrgarskim	_	ADJ	_	_	_	_	_	Translit=bɨrgarskɪm
+6	mjenom	_	NOUN	_	_	_	_	_	Translit=mjɛnɔm
+7	Josef	_	PROPN	_	_	_	_	_	Translit=Jɔsɛf
+8	Alois	_	PROPN	_	_	_	_	_	Translit=alɔɪs
+9	Ratzinger	_	PROPN	_	_	_	_	_	Translit=ratzɪngɛr
+10		_	PUNCT	_	_	_	_	_	Translit=
+11	(*	_	PUNCT	_	_	_	_	_	Translit=(*
+12	16	_	NUM	_	_	_	_	_	Translit=16
+13	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 6
-text = apryla 1927 w Marktl am Inn), běše wot 19.
-1	apryla	_	_	NOUN	_	_	_	_	_
-2	1927	_	_	NUM	_	_	_	_	_
-3	w	_	_	_	ADP	_	_	_	_
-4	Marktl	_	_	PROPN	_	_	_	_	_
-5	am	_	_	_	PROPN	_	_	_	_
-6	Inn	_	_	_	PROPN	_	_	_	_
-7	)	_	_	_	PUNCT	_	_	_	_
-8	,	_	_	_	PUNCT	_	_	_	_
-9	běše	_	_	VERB	_	_	_	_	_
-10	wot	_	_	ADP	_	_	_	_	_
-11	19	_	_	NUM	_	_	_	_	_
-12	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 6
+#text = apryla 1927 w Marktl am Inn), běše wot 19.
+1	apryla	_	NOUN	_	_	_	_	_	Translit=aprɨla
+2	1927	_	NUM	_	_	_	_	_	Translit=1927
+3	w	_	ADP	_	_	_	_	_	Translit=w
+4	Marktl	_	PROPN	_	_	_	_	_	Translit=marktl
+5	am	_	PROPN	_	_	_	_	_	Translit=am
+6	Inn	_	PROPN	_	_	_	_	_	Translit=ɪnn
+7	)	_	PUNCT	_	_	_	_	_	Translit=)
+8	,	_	PUNCT	_	_	_	_	_	Translit=,
+9	běše	_	VERB	_	_	_	_	_	Translit=bɛʃɛ
+10	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+11	19	_	NUM	_	_	_	_	_	Translit=19
+12	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 7
-text = apryla 2005 do 28.
-1	apryla	_	_	NOUN	_	_	_	_	_
-2	2005	_	_	NUM	_	_	_	_	_
-3	do	_	_	_	ADP	_	_	_	_
-4	28	_	_	_	NUM	_	_	_	_
-5	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 7
+#text = apryla 2005 do 28.
+1	apryla	_	NOUN	_	_	_	_	_	Translit=aprɨla
+2	2005	_	NUM	_	_	_	_	_	Translit=2005
+3	do	_	ADP	_	_	_	_	_	Translit=dɔ
+4	28	_	NUM	_	_	_	_	_	Translit=28
+5	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 8
-text = februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a Watikana.
-1	februara	_	_	NOUN	_	_	_	_	_
-2	2013	_	_	NUM	_	_	_	_	_
-3	bamž	_	_	VERB	_	_	_	_	_
-4	a	_	_	CCONJ	_	_	_	_	_
-5	z	_	_	ADP	_	_	_	_	_
-6	tym	_	_	PRON	_	_	_	_	_
-7	nawoda	_	_	NOUN	_	_	_	_	_
-8	romsko-katolskeje	_	_	ADJ	_	_	_	_
-9	cyrkwje	_	_	NOUN	_	_	_	_	_
-10	a	_	_	ADP	_	_	_	_	_
-11	Watikana	_	_	PROPN	_	_	_	_	_
-12	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 8
+#text = februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a Watikana.
+1	februara	_	NOUN	_	_	_	_	_	Translit=fɛbrʊara
+2	2013	_	NUM	_	_	_	_	_	Translit=2013
+3	bamž	_	VERB	_	_	_	_	_	Translit=bamʒ
+4	a	_	CCONJ	_	_	_	_	_	Translit=a
+5	z	_	ADP	_	_	_	_	_	Translit=z
+6	tym	_	PRON	_	_	_	_	_	Translit=tɨm
+7	nawoda	_	NOUN	_	_	_	_	_	Translit=nawɔda
+8	romsko-katolskeje	_	ADP	_	_	_	_	Translit=rɔmskɔ-katɔlskɛjɛ
+9	cyrkwje	_	NOUN	_	_	_	_	_	Translit=tsɨrkwjɛ
+10	a	_	CCONJ	_	_	_	_	_	Translit=a
+11	Watikana	_	PROPN	_	_	_	_	_	Translit=watɪkana
+12	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 9
-text = Wón bě hakle třeći bamž w cyrkwinskich stawiznach, kiž wotstupi.
-1	Wón	_	_	PRON	_	_	_	_	_
-2	bě	_	_	VERB	_	_	_	_	_
-3	hakle	_	_	_	_	_	_	_	_
-4	třeći	_	_	NUM	_	_	_	_	_
-5	bamž	_	_	VERB	_	_	_	_	_
-6	w	_	_	ADP	_	_	_	_	_
-7	cyrkwinskich	_	_	ADJ	_	_	_	_	_
-8	stawiznach	_	_	NOUN	_	_	_	_	_
-9	,	_	_	PUNCT	_	_	_	_	_
-10	kiž	_	_	PUNCT	_	_	_	_	_
-11	wotstupi	_	_	VERB	_	_	_	_	_
-12	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 9
+#text = Wón bě hakle třeći bamž w cyrkwinskich stawiznach, kiž wotstupi.
+1	Wón	_	PRON	_	_	_	_	_	Translit=won
+2	bě	_	VERB	_	_	_	_	_	Translit=be
+3	hakle	_	ADV	_	_	_	_	_	Translit=ɦaklɛ
+4	třeći	_	ADJ	_	_	_	_	_	Translit=tʃɛtʃɪ
+5	bamž	_	VERB	_	_	_	_	_	Translit=bamʒ
+6	w	_	ADP	_	_	_	_	_	Translit=w
+7	cyrkwinskich	_	ADJ	_	_	_	_	_	Translit=tsɨrkwɪnskɪx
+8	stawiznach	_	NOUN	_	_	_	_	_	Translit=stawɪznax
+9	,	_	PUNCT	_	_	_	_	_	Translit=,
+10	kiž	_	PRON	_	_	_	_	_	Translit=kɪʒ
+11	wotstupi	_	NOUN	_	_	_	_	_	Translit=wɔtstʊpɪ
+12	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 10
-text = Wón wuzwoli so 19.
-1	Wón	_	_	PRON	_	_	_	_	_
-2	wuzwoli	_	_	VERB	_	_	_	_	_
-3	so	_	_	PREP	_	_	_	_	_
-4	19	_	_	NUM	_	_	_	_	_
-5	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 10
+#text = Wón wuzwoli so 19.
+1	Wón	_	PRON	_	_	_	_	_	Translit=won
+2	wuzwoli	_	VERB	_	_	_	_	_	Translit=wʊzwɔlɪ
+3	so	_	ADP	_	_	_	_	_	Translit=sɔ
+4	19	_	NUM	_	_	_	_	_	Translit=19
+5	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 11
-text = apryla 2005 wot 115 wobdźělenych kardinalow w štwórtym wólbnym kole po jenož 26 hodźin trajacej konklawje za naslědnika Jana Pawoła II..
-1	apryla	_	_	NOUN	_	_	_	_	_
-2	2005	_	_	NUM	_	_	_	_	_
-3	wot	_	_	ADP	_	_	_	_	_
-4	115	_	_	NUM	_	_	_	_	_
-5	wobdźělenych	_	_	ADJ	_	_	_	_	_
-6	kardinalow	_	_	NOUN	_	_	_	_	_
-7	w	_	_	ADP	_	_	_	_	_
-8	štwórtym	_	_	ADJ	_	_	_	_	_
-9	wólbnym	_	_	ADJ	_	_	_	_	_
-10	kole	_	_	SCONJ	_	_	_	_	_
-11	po	_	_	ADP	_	_	_	_	_
-12	jenož	_	_	PRON	_	_	_	_	_
-13	26	_	_	NUM	_	_	_	_	_
-14	hodźin	_	_	NOUN	_	_	_	_	_
-15	trajacej	_	_	NOUN	_	_	_	_	_
-16	konklawje	_	_	NOUN	_	_	_	_	_
-17	za	_	_	ADP	_	_	_	_	_
-18	naslědnika	_	_	NOUN	_	_	_	_	_
-19	Jana	_	_	PROPN	_	_	_	_	_
-20	Pawoła	_	_	PROPN	_	_	_	_	_
-21	II	_	_	NUM	_	_	_	_	_
-22	.	_	_	PUNCT	_	_	_	_	_
-23	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 11
+#text = apryla 2005 wot 115 wobdźělenych kardinalow w štwórtym wólbnym kole po jenož 26 hodźin trajacej konklawje za naslědnika Jana Pawoła II..
+1	apryla	_	NOUN	_	_	_	_	_	Translit=aprɨla
+2	2005	_	NUM	_	_	_	_	_	Translit=2005
+3	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+4	115	_	NUM	_	_	_	_	_	Translit=115
+5	wobdźělenych	_	ADJ	_	_	_	_	_	Translit=wɔbdʒɛlɛnɨx
+6	kardinalow	_	NOUN	_	_	_	_	_	Translit=kardɪnalɔw
+7	w	_	ADP	_	_	_	_	_	Translit=w
+8	štwórtym	_	ADJ	_	_	_	_	_	Translit=ʃtwortɨm
+9	wólbnym	_	ADJ	_	_	_	_	_	Translit=wolbnɨm
+10	kole	_	SCONJ	_	_	_	_	_	Translit=kɔlɛ
+11	po	_	ADP	_	_	_	_	_	Translit=pɔ
+12	jenož	_	PRON	_	_	_	_	_	Translit=jɛnɔʒ
+13	26	_	NUM	_	_	_	_	_	Translit=26
+14	hodźin	_	NOUN	_	_	_	_	_	Translit=ɦɔdʒɪn
+15	trajacej	_	NOUN	_	_	_	_	_	Translit=trajatsɛj
+16	konklawje	_	NOUN	_	_	_	_	_	Translit=kɔnklawjɛ
+17	za	_	ADP	_	_	_	_	_	Translit=za
+18	naslědnika	_	NOUN	_	_	_	_	_	Translit=naslednɪka
+19	Jana	_	PROPN	_	_	_	_	_	Translit=Jana
+20	Pawoła	_	PROPN	_	_	_	_	_	Translit=pawɔwa
+21	II	_	NUM	_	_	_	_	_	Translit=ɪɪ
+22	.	_	PUNCT	_	_	_	_	_	Translit=.
+23	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 12
-text = Wón wobsedźi němske a watikanske staćanstwo.
-1	Wón	_	_	PRON	_	_	_	_	_
-2	wobsedźi	_	_	VERB	_	_	_	_	_
-3	němske	_	_	ADJ	_	_	_	_	_
-4	a	_	_	ADP	_	_	_	_	_
-5	watikanske	_	_	ADJ	_	_	_	_	_
-6	staćanstwo	_	_	NOUN	_	_	_	_	_
-7	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 12
+#text = Wón wobsedźi němske a watikanske staćanstwo.
+1	Wón	_	PRON	_	_	_	_	_	Translit=won
+2	wobsedźi	_	NOUN	_	_	_	_	_	Translit=wɔbsɛdʒɪ
+3	němske	_	ADJ	_	_	_	_	_	Translit=nɛmskɛ
+4	a	_	CCONJ	_	_	_	_	_	Translit=a
+5	watikanske	_	ADJ	_	_	_	_	_	Translit=watɪkanskɛ
+6	staćanstwo	_	NOUN	_	_	_	_	_	Translit=statʃanstwɔ
+7	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 13
-text = Do swojeho wuzwolenja na bamža bě Benedikt XVI.
-1	Do	_	_	ADP	_	_	_	_	_
-2	swojeho	_	_	ADJ	_	_	_	_	_
-3	wuzwolenja	_	_	NOUN	_	_	_	_	_
-4	na	_	_	ADP	_	_	_	_	_
-5	bamža	_	_	VERB	_	_	_	_	_
-6	bě	_	_	VERB	_	_	_	_	_
-7	Benedikt	_	_	PROPN	_	_	_	_	_
-8	XVI	_	_	NUM	_	_	_	_	_
-9	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 13
+#text = Do swojeho wuzwolenja na bamža bě Benedikt XVI.
+1	Do	_	ADP	_	_	_	_	_	Translit=dɔ
+2	swojeho	_	PRON	_	_	_	_	_	Translit=swɔjɛɦɔ
+3	wuzwolenja	_	NOUN	_	_	_	_	_	Translit=wʊzwɔlɛnja
+4	na	_	ADP	_	_	_	_	_	Translit=na
+5	bamža	_	VERB	_	_	_	_	_	Translit=bamʒa
+6	bě	_	VERB	_	_	_	_	_	Translit=be
+7	Benedikt	_	PROPN	_	_	_	_	_	Translit=bɛnɛdɪkt
+8	XVI	_	NUM	_	_	_	_	_	Translit=Xvɪ
+9	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 14
-text = dekan kardinalskeho kolegija a prefekt kongregacije za wučbu wěry.
-1	dekan	_	_	NOUN	_	_	_	_	_
-2	kardinalskeho	_	_	ADJ	_	_	_	_	_
-3	kolegija	_	_	NOUN	_	_	_	_	_
-4	a	_	_	ADP	_	_	_	_	_
-5	prefekt	_	_	NOUN	_	_	_	_	_
-6	kongregacije	_	_	NOUN	_	_	_	_	_
-7	za	_	_	ADP	_	_	_	_	_
-8	wučbu	_	_	NOUN	_	_	_	_	_
-9	wěry	_	_	NOUN	_	_	_	_	_
-10	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 14
+#text = dekan kardinalskeho kolegija a prefekt kongregacije za wučbu wěry.
+1	dekan	_	NOUN	_	_	_	_	_	Translit=dɛkan
+2	kardinalskeho	_	ADJ	_	_	_	_	_	Translit=kardɪnalskɛɦɔ
+3	kolegija	_	NOUN	_	_	_	_	_	Translit=kɔlɛgɪja
+4	a	_	CCONJ	_	_	_	_	_	Translit=a
+5	prefekt	_	NOUN	_	_	_	_	_	Translit=prɛfɛkt
+6	kongregacije	_	NOUN	_	_	_	_	_	Translit=kɔngrɛgatsɪjɛ
+7	za	_	ADP	_	_	_	_	_	Translit=za
+8	wučbu	_	NOUN	_	_	_	_	_	Translit=wʊtʃbʊ
+9	wěry	_	NOUN	_	_	_	_	_	Translit=werɨ
+10	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 15
-text = Płaćeše jako jedyn z najwuznamnišich kardinalow a wopisowaše so husto jako teologiska a cyrkwinopolitiska prawa ruka bamža Jana Pawoła II.
-1	Płaćeše	_	_	VERB	_	_	_	_	_
-2	jako	_	_	CCONJ	_	_	_	_	_
-3	jedyn	_	_	NUM	_	_	_	_	_
-4	z	_	_	ADP	_	_	_	_	_
-5	najwuznamnišich	_	_	ADJ	_	_	_	_	_
-6	kardinalow	_	_	NOUN	_	_	_	_	_
-7	a	_	_	ADP	_	_	_	_	_
-8	wopisowaše	_	_	VERB	_	_	_	_	_
-9	so	_	_	ADP	_	_	_	_	_
-10	husto	_	_	ADV	_	_	_	_	_
-11	jako	_	_	CCONJ	_	_	_	_	_
-12	teologiska	_	_	ADJ	_	_	_	_	_
-13	a	_	_	ADP	_	_	_	_	_
-14	cyrkwinopolitiska	_	_	ADJ	_	_	_	_
-15	prawa	_	_	ADJ	_	_	_	_	_
-16	ruka	_	_	NOUN	_	_	_	_	_
-17	bamža	_	_	VERB	_	_	_	_	_
-18	Jana	_	_	PROPN	_	_	_	_	_
-19	Pawoła	_	_	PROPN	_	_	_	_	_
-20	II	_	_	NUM	_	_	_	_	_
-21	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 15
+#text = Płaćeše jako jedyn z najwuznamnišich kardinalow a wopisowaše so husto jako teologiska a cyrkwinopolitiska prawa ruka bamža Jana Pawoła II.
+1	Płaćeše	_	VERB	_	_	_	_	_	Translit=pwatʃɛʃɛ
+2	jako	_	SCONJ	_	_	_	_	_	Translit=jakɔ
+3	jedyn	_	NUM	_	_	_	_	_	Translit=jɛdɨn
+4	z	_	ADP	_	_	_	_	_	Translit=z
+5	najwuznamnišich	_	ADJ	_	_	_	_	_	Translit=najwʊznamnɪʃɪx
+6	kardinalow	_	NOUN	_	_	_	_	_	Translit=kardɪnalɔw
+7	a	_	CCONJ	_	_	_	_	_	Translit=a
+8	wopisowaše	_	VERB	_	_	_	_	_	Translit=wɔpɪsɔwaʃɛ
+9	so	_	ADP	_	_	_	_	_	Translit=sɔ
+10	husto	_	ADV	_	_	_	_	_	Translit=ɦʊstɔ
+11	jako	_	SCONJ	_	_	_	_	_	Translit=jakɔ
+12	teologiska	_	ADJ	_	_	_	_	_	Translit=tɛɔlɔgɪska
+13	a	_	CCONJ	_	_	_	_	_	Translit=a
+14	cyrkwinopolitiska	_	ADJ	_	_	_	_	Translit=tsɨrkwɪnɔpɔlɪtɪska
+15	prawa	_	ADJ	_	_	_	_	_	Translit=prawa
+16	ruka	_	NOUN	_	_	_	_	_	Translit=rʊka
+17	bamža	_	VERB	_	_	_	_	_	Translit=bamʒa
+18	Jana	_	PROPN	_	_	_	_	_	Translit=Jana
+19	Pawoła	_	PROPN	_	_	_	_	_	Translit=pawɔwa
+20	II	_	NUM	_	_	_	_	_	Translit=ɪɪ
+21	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 16
-text = W zjawnosći płaći Benedikt XVI.
-1	W	_	_	ADP	_	_	_	_	_
-2	zjawnosći	_	_	NOUN	_	_	_	_	_
-3	płaći	_	_	VERB	_	_	_	_	_
-4	Benedikt	_	_	PROPN	_	_	_	_	_
-5	XVI	_	_	NUM	_	_	_	_	_
-6	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 16
+#text = W zjawnosći płaći Benedikt XVI.
+1	W	_	ADP	_	_	_	_	_	Translit=w
+2	zjawnosći	_	ADV	_	_	_	_	_	Translit=zjawnɔstʃɪ
+3	płaći	_	VERB	_	_	_	_	_	Translit=pwatʃɪ
+4	Benedikt	_	PROPN	_	_	_	_	_	Translit=bɛnɛdɪkt
+5	XVI	_	NUM	_	_	_	_	_	Translit=Xvɪ
+6	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 17
-text = jako konserwatiwny.
-1	jako	_	_	CCONJ	_	_	_	_	_
-2	konserwatiwny	_	_	ADJ	_	_	_	_	_
-3	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 17
+#text = jako konserwatiwny.
+1	jako	_	SCONJ	_	_	_	_	_	Translit=jakɔ
+2	konserwatiwny	_	ADJ	_	_	_	_	_	Translit=kɔnsɛrwatɪwnɨ
+3	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 18
-text = Budyšin:
-1	Budyšin:	_	_	PROPN	_	_	_	_	_
+#sent_id = 18
+#text = Budyšin:
+1	Budyšin:	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪn:
 
-sent_id = 19
-text = Budyšin ma něhdźe 40.000 wobydlerjow, z čimž je zdobom najwjetše město wokrjesa a druhe najwjetše w Hornjej Łužicy.
-1	Budyšin	_	_	PROPN	_	_	_	_	_
-2	ma	_	_	VERB	_	_	_	_	_
-3	něhdźe	_	_	ADV	_	_	_	_	_
-4	40	_	_	NUM	_	_	_	_	_
-5	.000	_	_	NUM	_	_	_	_	_
-6	wobydlerjow	_	_	NOUN	_	_	_	_	_
-7	,	_	_	PUNCT	_	_	_	_	_
-8	z	_	_	ADP	_	_	_	_	_
-9	čimž	_	_	PRON	_	_	_	_	_
-10	je	_	_	_	VERB	_	_	_	_
-11	zdobom	_	_	ADV	_	_	_	_	_
-12	najwjetše	_	_	VERB	_	_	_	_	_
-13	město	_	_	NOUN	_	_	_	_	_
-14	wokrjesa	_	_	VERB	_	_	_	_	_
-15	a	_	_	ADP	_	_	_	_	_
-16	druhe	_	_	ADJ	_	_	_	_	_
-17	najwjetše	_	_	ADJ	_	_	_	_	_
-18	w	_	_	ADP	_	_	_	_	_
-19	Hornjej	_	_	ADJ	_	_	_	_	_
-20	Łužicy	_	_	PROPN	_	_	_	_	_
-21	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 19
+#text = Budyšin ma něhdźe 40.000 wobydlerjow, z čimž je zdobom najwjetše město wokrjesa a druhe najwjetše w Hornjej Łužicy.
+1	Budyšin	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪn
+2	ma	_	VERB	_	_	_	_	_	Translit=ma
+3	něhdźe	_	ADV	_	_	_	_	_	Translit=nɛɦdʒɛ
+4	40	_	NUM	_	_	_	_	_	Translit=40
+5	.000	_	NUM	_	_	_	_	_	Translit=.000
+6	wobydlerjow	_	NOUN	_	_	_	_	_	Translit=wɔbɨdlɛrjɔw
+7	,	_	PUNCT	_	_	_	_	_	Translit=,
+8	z	_	ADP	_	_	_	_	_	Translit=z
+9	čimž	_	PRON	_	_	_	_	_	Translit=tʃɪmʒ
+10	je	_	VERB	_	_	_	_	_	Translit=jɛ
+11	zdobom	_	ADV	_	_	_	_	_	Translit=zdɔbɔm
+12	najwjetše	_	ADJ	_	_	_	_	_	Translit=najwjɛtʃɛ
+13	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+14	wokrjesa	_	ADJ	_	_	_	_	_	Translit=wɔkrjɛsa
+15	a	_	CCONJ	_	_	_	_	_	Translit=a
+16	druhe	_	ADJ	_	_	_	_	_	Translit=drʊɦɛ
+17	najwjetše	_	ADJ	_	_	_	_	_	Translit=najwjɛtʃɛ
+18	w	_	ADP	_	_	_	_	_	Translit=w
+19	Hornjej	_	PROPN	_	_	_	_	_	Translit=ɦɔrnjɛj
+20	Łužicy	_	PROPN	_	_	_	_	_	Translit=wʊʒɪtsɨ
+21	.	_	PUNCT	_	_	_	_	_	Translit=.
 
-sent_id = 20
-text = Něhdyša stolica Hornjeje Łužicy płaći jako kulturelne srjedźišćo Serbow a leži w serbskim sydlenskim rumje.
-1	Něhdyša	_	_	ADJ	_	_	_	_	_
-2	stolica	_	_	NOUN	_	_	_	_	_
-3	Hornjeje	_	_	ADJ	_	_	_	_	_
-4	Łužicy	_	_	PROPN	_	_	_	_	_
-5	płaći	_	_	VERB	_	_	_	_	_
-6	jako	_	_	CCONJ	_	_	_	_	_
-7	kulturelne	_	_	ADJ	_	_	_	_	_
-8	srjedźišćo	_	_	NOUN	_	_	_	_	_
-9	Serbow	_	_	NOUN	_	_	_	_	_
-10	a	_	_	ADP	_	_	_	_	_
-11	leži	_	_	VERB	_	_	_	_	_
-12	w	_	_	ADP	_	_	_	_	_
-13	serbskim	_	_	ADJ	_	_	_	_	_
-14	sydlenskim	_	_	ADJ	_	_	_	_	_
-15	rumje	_	_	NOUN	_	_	_	_	_
-16	.	_	_	PUNCT	_	_	_	_	_
+#sent_id = 20
+#text = Něhdyša stolica Hornjeje Łužicy płaći jako kulturelne srjedźišćo Serbow a leži w serbskim sydlenskim rumje.
+1	Něhdyša	_	ADJ	_	_	_	_	_	Translit=neɦdɨʃa
+2	stolica	_	NOUN	_	_	_	_	_	Translit=stɔlɪtsa
+3	Hornjeje	_	PROPN	_	_	_	_	_	Translit=ɦɔrnjɛjɛ
+4	Łužicy	_	PROPN	_	_	_	_	_	Translit=wʊʒɪtsɨ
+5	płaći	_	VERB	_	_	_	_	_	Translit=pwatʃɪ
+6	jako	_	SCONJ	_	_	_	_	_	Translit=jakɔ
+7	kulturelne	_	ADJ	_	_	_	_	_	Translit=kʊltʊrɛlnɛ
+8	srjedźišćo	_	ADP	_	_	_	_	_	Translit=srjɛdʒɪʃtʃɔ
+9	Serbow	_	PROPN	_	_	_	_	_	Translit=sɛrbɔw
+10	a	_	CCONJ	_	_	_	_	_	Translit=a
+11	leži	_	VERB	_	_	_	_	_	Translit=lɛʒɪ
+12	w	_	ADP	_	_	_	_	_	Translit=w
+13	serbskim	_	ADJ	_	_	_	_	_	Translit=sɛrbskɪm
+14	sydlenskim	_	ADJ	_	_	_	_	_	Translit=sɨdlɛnskɪm
+15	rumje	_	NOUN	_	_	_	_	_	Translit=rʊmjɛ
+16	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 21
+#text = Stawizny Budyšina.
+1	Stawizny	_	NOUN	_	_	_	_	_	Translit=stawɪznɨ
+2	Budyšina	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪna
+3	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 22
+#text = Zažne stawizny.
+1	Zažne	_	ADJ	_	_	_	_	_	Translit=zaʒnɛ
+2	stawizny	_	NOUN	_	_	_	_	_	Translit=stawɪznɨ
+3	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 23
+#text = Prěni raz naspomni so město w lěće 1002 w chronice biskopa Thietmara z Mjezyborja jako "civitas Budusin".
+1	Prěni	_	ADJ	_	_	_	_	_	Translit=prenɪ
+2	raz	_	NOUN	_	_	_	_	_	Translit=raz
+3	naspomni	_	VERB	_	_	_	_	_	Translit=naspɔmnɪ
+4	so	_	ADP	_	_	_	_	_	Translit=sɔ
+5	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+6	w	_	ADP	_	_	_	_	_	Translit=w
+7	lěće	_	VERB	_	_	_	_	_	Translit=lɛtʃɛ
+8	1002	_	NUM	_	_	_	_	_	Translit=1002
+9	w	_	ADP	_	_	_	_	_	Translit=w
+10	chronice	_	NOUN	_	_	_	_	_	Translit=xrɔnɪtsɛ
+11	biskopa	_	NOUN	_	_	_	_	_	Translit=bɪskɔpa
+12	Thietmara	_	PROPN	_	_	_	_	_	Translit=tɦɪɛtmara
+13	z	_	ADP	_	_	_	_	_	Translit=z
+14	Mjezyborja	_	PROPN	_	_	_	_	_	Translit=mjɛzɨbɔrja
+15	jako	_	SCONJ	_	_	_	_	_	Translit=jakɔ
+16	"civitas	_	PROPN	_	_	_	_	_	Translit="tsɪvɪtas
+17	Budusin"	_	PROPN	_	_	_	_	_	Translit=bʊdʊsɪn"
+18	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 24
+#text = Dla połoženja při wikowanskej dróze Via regia, kotraž wjedźeše wot Lipska do Šleskeje, měješe město w srjedźowěku wulku wažnosć.
+1	Dla	_	ADP	_	_	_	_	_	Translit=dla
+2	połoženja	_	NOUN	_	_	_	_	_	Translit=pɔwɔʒɛnja
+3	při	_	ADP	_	_	_	_	_	Translit=pʃɪ
+4	wikowanskej	_	ADP	_	_	_	_	_	Translit=wɪkɔwanskɛj
+5	dróze	_	NOUN	_	_	_	_	_	Translit=drozɛ
+6	Via	_	X	_	_	_	_	_	Translit=vɪa
+7	regia	_	X	_	_	_	_	_	Translit=rɛgɪa
+8	,	_	PUNCT	_	_	_	_	_	Translit=,
+9	kotraž	_	PRON	_	_	_	_	_	Translit=kɔtraʒ
+10	wjedźeše	_	VERB	_	_	_	_	_	Translit=wjɛdʒɛʃɛ
+11	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+12	Lipska	_	PROPN	_	_	_	_	_	Translit=lɪpska
+13	do	_	ADP	_	_	_	_	_	Translit=dɔ
+14	Šleskeje	_	PROPN	_	_	_	_	_	Translit=ʃlɛskɛjɛ
+15	,	_	PUNCT	_	_	_	_	_	Translit=,
+16	měješe	_	ADJ	_	_	_	_	_	Translit=mɛjɛʃɛ
+17	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+18	w	_	ADP	_	_	_	_	_	Translit=w
+19	srjedźowěku	_	NOUN	_	_	_	_	_	Translit=srjɛdʒɔwɛkʊ
+20	wulku	_	ADJ	_	_	_	_	_	Translit=wʊlkʊ
+21	wažnosć	_	NOUN	_	_	_	_	_	Translit=waʒnɔstʃ
+22	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 25
+#text = Do juha wjedźeše tak mjenowana Čěska šćežka přez Łužiske hory do Prahi.
+1	Do	_	ADP	_	_	_	_	_	Translit=dɔ
+2	juha	_	NOUN	_	_	_	_	_	Translit=jʊɦa
+3	wjedźeše	_	VERB	_	_	_	_	_	Translit=wjɛdʒɛʃɛ
+4	tak	_	PRON	_	_	_	_	_	Translit=tak
+5	mjenowana	_	ADJ	_	_	_	_	_	Translit=mjɛnɔwana
+6	Čěska	_	ADJ	_	_	_	_	_	Translit=tʃeska
+7	šćežka	_	NOUN	_	_	_	_	_	Translit=ʃtʃɛʒka
+8	přez	_	ADP	_	_	_	_	_	Translit=pʃɛz
+9	Łužiske	_	ADJ	_	_	_	_	_	Translit=wʊʒɪskɛ
+10	hory	_	NOUN	_	_	_	_	_	Translit=ɦɔrɨ
+11	do	_	ADP	_	_	_	_	_	Translit=dɔ
+12	Prahi	_	PROPN	_	_	_	_	_	Translit=praɦɪ
+13	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 26
+#text = W lěće 1018 podpisa so tu „Budyski měr“ mjezy Němcami a Polakami.
+1	W	_	ADP	_	_	_	_	_	Translit=w
+2	lěće	_	VERB	_	_	_	_	_	Translit=lɛtʃɛ
+3	1018	_	NUM	_	_	_	_	_	Translit=1018
+4	podpisa	_	VERB	_	_	_	_	_	Translit=pɔdpɪsa
+5	so	_	ADP	_	_	_	_	_	Translit=sɔ
+6	tu	_	PRON	_	_	_	_	_	Translit=tʊ
+7	„Budyski	_	PROPN	_	_	_	_	_	Translit=„bʊdɨskɪ
+8	měr“	_	PROPN	_	_	_	_	_	Translit=mer“
+9	mjezy	_	ADP	_	_	_	_	_	Translit=mjɛzɨ
+10	Němcami	_	NOUN	_	_	_	_	_	Translit=nemtsamɪ
+11	a	_	CCONJ	_	_	_	_	_	Translit=a
+12	Polakami	_	NOUN	_	_	_	_	_	Translit=pɔlakamɪ
+13	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 27
+#text = 1231 jewi so w dokumentach prěni raz měšćanske prawo, 1250 dósta město prawo swobodneje komuny.
+1	1231	_	NUM	_	_	_	_	_	Translit=1231
+2	jewi	_	NOUN	_	_	_	_	_	Translit=jɛwɪ
+3	so	_	ADP	_	_	_	_	_	Translit=sɔ
+4	w	_	ADP	_	_	_	_	_	Translit=w
+5	dokumentach	_	NOUN	_	_	_	_	_	Translit=dɔkʊmɛntax
+6	prěni	_	NOUN	_	_	_	_	_	Translit=prenɪ
+7	raz	_	NOUN	_	_	_	_	_	Translit=raz
+8	měšćanske	_	ADJ	_	_	_	_	_	Translit=mɛʃtʃanskɛ
+9	prawo	_	NOUN	_	_	_	_	_	Translit=prawɔ
+10	,	_	PUNCT	_	_	_	_	_	Translit=,
+11	1250	_	NUM	_	_	_	_	_	Translit=1250
+12	dósta	_	VERB	_	_	_	_	_	Translit=dosta
+13	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+14	prawo	_	NOUN	_	_	_	_	_	Translit=prawɔ
+15	swobodneje	_	ADJ	_	_	_	_	_	Translit=swɔbɔdnɛjɛ
+16	komuny	_	NOUN	_	_	_	_	_	Translit=kɔmʊnɨ
+17	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 28
+#text = W lěće 1346 wutwori so Zwjazk šesćiměstow, ke kotremuž słušachu nimo Budyšina tež Zhorjelc, Kamjenc, Lubań, Lubij a Žitawa.
+1	W	_	ADP	_	_	_	_	_	Translit=w
+2	lěće	_	VERB	_	_	_	_	_	Translit=lɛtʃɛ
+3	1346	_	NUM	_	_	_	_	_	Translit=1346
+4	wutwori	_	NOUN	_	_	_	_	_	Translit=wʊtwɔrɪ
+5	so	_	ADP	_	_	_	_	_	Translit=sɔ
+6	Zwjazk	_	PROPN	_	_	_	_	_	Translit=zwjazk
+7	šesćiměstow	_	NOUN	_	_	_	_	_	Translit=ʃɛstʃɪmɛstɔw
+8	,	_	PUNCT	_	_	_	_	_	Translit=,
+9	ke	_	ADP	_	_	_	_	_	Translit=kɛ
+10	kotremuž	_	PRON	_	_	_	_	_	Translit=kɔtrɛmʊʒ
+11	słušachu	_	VERB	_	_	_	_	_	Translit=swʊʃaxʊ
+12	nimo	_	PRON	_	_	_	_	_	Translit=nɪmɔ
+13	Budyšina	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪna
+14	tež	_	PRON	_	_	_	_	_	Translit=tɛʒ
+15	Zhorjelc	_	PROPN	_	_	_	_	_	Translit=zɦɔrjɛlts
+16	,	_	PUNCT	_	_	_	_	_	Translit=,
+17	Kamjenc	_	PROPN	_	_	_	_	_	Translit=kamjɛnts
+18	,	_	PUNCT	_	_	_	_	_	Translit=,
+19	Lubań	_	PROPN	_	_	_	_	_	Translit=lʊbanʲ
+20	,	_	PUNCT	_	_	_	_	_	Translit=,
+21	Lubij	_	PROPN	_	_	_	_	_	Translit=lʊbɪj
+22	a	_	CCONJ	_	_	_	_	_	Translit=a
+23	Žitawa	_	PROPN	_	_	_	_	_	Translit=ʒɪtawa
+24	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 29
+#text = 1391 dóstachu Budyšenjo prawo, měšćansku radu swobodnje wolić.
+1	1391	_	NUM	_	_	_	_	_	Translit=1391
+2	dóstachu	_	VERB	_	_	_	_	_	Translit=dostaxʊ
+3	Budyšenjo	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɛnjɔ
+4	prawo	_	NOUN	_	_	_	_	_	Translit=prawɔ
+5	,	_	PUNCT	_	_	_	_	_	Translit=,
+6	měšćansku	_	ADJ	_	_	_	_	_	Translit=meʃtʃanskʊ
+7	radu	_	NOUN	_	_	_	_	_	Translit=radʊ
+8	swobodnje	_	ADJ	_	_	_	_	_	Translit=swɔbɔdnjɛ
+9	wolić	_	VERB	_	_	_	_	_	Translit=wɔlɪtʃ
+10	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 30
+#text = 1400 do 1700.
+1	1400	_	NUM	_	_	_	_	_	Translit=1400
+2	do	_	ADP	_	_	_	_	_	Translit=dɔ
+3	1700	_	NUM	_	_	_	_	_	Translit=1700
+4	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 31
+#text = W lětomaj 1400 a 1408 dóńdźe k zběžkomaj rjemjeslnikow.
+1	W	_	ADP	_	_	_	_	_	Translit=w
+2	lětomaj	_	NOUN	_	_	_	_	_	Translit=letɔmaj
+3	1400	_	NUM	_	_	_	_	_	Translit=1400
+4	a	_	ADP	_	_	_	_	_	Translit=a
+5	1408	_	NUM	_	_	_	_	_	Translit=1408
+6	dóńdźe	_	VERB	_	_	_	_	_	Translit=donʲdʒɛ
+7	k	_	ADP	_	_	_	_	_	Translit=k
+8	zběžkomaj	_	NOUN	_	_	_	_	_	Translit=zbeʒkɔmaj
+9	rjemjeslnikow	_	NOUN	_	_	_	_	_	Translit=rjɛmjɛslnɪkɔw
+10	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 32
+#text = Mjez 1429 a 1431 so město wospjet njewuspěšnje wot Husitow woblěhowaše.
+1	Mjez	_	ADP	_	_	_	_	_	Translit=mjɛz
+2	1429	_	NUM	_	_	_	_	_	Translit=1429
+3	a	_	CCONJ	_	_	_	_	_	Translit=a
+4	1431	_	NUM	_	_	_	_	_	Translit=1431
+5	so	_	ADP	_	_	_	_	_	Translit=sɔ
+6	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+7	wospjet	_	VERB	_	_	_	_	_	Translit=wɔspjɛt
+8	njewuspěšnje	_	ADV	_	_	_	_	_	Translit=njɛwʊspɛʃnjɛ
+9	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+10	Husitow	_	PROPN	_	_	_	_	_	Translit=ɦʊsɪtɔw
+11	woblěhowaše	_	VERB	_	_	_	_	_	Translit=wɔblɛɦɔwaʃɛ
+12	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 33
+#text = 1524 załoži so w Budyšinje w běhu reformacije ewangelska cyrkej.
+1	1524	_	NUM	_	_	_	_	_	Translit=1524
+2	załoži	_	VERB	_	_	_	_	_	Translit=zawɔʒɪ
+3	so	_	ADP	_	_	_	_	_	Translit=sɔ
+4	w	_	ADP	_	_	_	_	_	Translit=w
+5	Budyšinje	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪnjɛ
+6	w	_	ADP	_	_	_	_	_	Translit=w
+7	běhu	_	VERB	_	_	_	_	_	Translit=beɦʊ
+8	reformacije	_	NOUN	_	_	_	_	_	Translit=rɛfɔrmatsɪjɛ
+9	ewangelska	_	ADJ	_	_	_	_	_	Translit=ɛwangɛlska
+10	cyrkej	_	NOUN	_	_	_	_	_	Translit=tsɨrkɛj
+11	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 34
+#text = Tachantska cyrkej je z tutoho časa simultana a wužiwa so wot katolskich křesćanow runje tak kaž wot ewangelskich.
+1	Tachantska	_	ADJ	_	_	_	_	_	Translit=taxantska
+2	cyrkej	_	NOUN	_	_	_	_	_	Translit=tsɨrkɛj
+3	je	_	VERB	_	_	_	_	_	Translit=jɛ
+4	z	_	ADP	_	_	_	_	_	Translit=z
+5	tutoho	_	ADJ	_	_	_	_	_	Translit=tʊtɔɦɔ
+6	časa	_	NOUN	_	_	_	_	_	Translit=tʃasa
+7	simultana	_	ADJ	_	_	_	_	_	Translit=sɪmʊltana
+8	a	_	CCONJ	_	_	_	_	_	Translit=a
+9	wužiwa	_	VERB	_	_	_	_	_	Translit=wʊʒɪwa
+10	so	_	ADP	_	_	_	_	_	Translit=sɔ
+11	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+12	katolskich	_	ADJ	_	_	_	_	_	Translit=katɔlskɪx
+13	křesćanow	_	NOUN	_	_	_	_	_	Translit=kʃɛstʃanɔw
+14	runje	_	NOUN	_	_	_	_	_	Translit=rʊnjɛ
+15	tak	_	PRON	_	_	_	_	_	Translit=tak
+16	kaž	_	PRON	_	_	_	_	_	Translit=kaʒ
+17	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+18	ewangelskich	_	ADJ	_	_	_	_	_	Translit=ɛwangɛlskɪx
+19	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 35
+#text = W třicećilětnej wójnje (1618–1648) so město wospjet wot wšelakich wójskow wobsadźi a zniči.
+1	W	_	ADP	_	_	_	_	_	Translit=w
+2	třicećilětnej	_	ADJ	_	_	_	_	_	Translit=tʃɪtsɛtʃɪlɛtnɛj
+3	wójnje	_	NOUN	_	_	_	_	_	Translit=wojnjɛ
+4		_	PUNCT	_	_	_	_	_	Translit=
+5	(1618–1648	_	NUM	_	_	_	_	_	Translit=(1618–1648
+6	)	_	PUNCT	_	_	_	_	_	Translit=)
+7	so	_	ADP	_	_	_	_	_	Translit=sɔ
+8	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+9	wospjet	_	VERB	_	_	_	_	_	Translit=wɔspjɛt
+10	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+11	wšelakich	_	ADJ	_	_	_	_	_	Translit=wʃɛlakɪx
+12	wójskow	_	NOUN	_	_	_	_	_	Translit=wojskɔw
+13	wobsadźi	_	VERB	_	_	_	_	_	Translit=wɔbsadʒɪ
+14	a	_	CCONJ	_	_	_	_	_	Translit=a
+15	zniči	_	VERB	_	_	_	_	_	Translit=znɪtʃɪ
+16	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 36
+#text = Wulkej měšćanskej wohenjej běštej 1620 resp.
+1	Wulkej	_	NOUN	_	_	_	_	_	Translit=wʊlkɛj
+2	měšćanskej	_	ADJ	_	_	_	_	_	Translit=mɛʃtʃanskɛj
+3	wohenjej	_	ADJ	_	_	_	_	_	Translit=wɔɦɛnjɛj
+4	běštej	_	ADJ	_	_	_	_	_	Translit=bɛʃtɛj
+5	1620	_	NUM	_	_	_	_	_	Translit=1620
+6	resp	_	X	_	_	_	_	_	Translit=rɛsp
+7	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 37
+#text = 1634.
+1	1634	_	NUM	_	_	_	_	_	Translit=1634
+2	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 38
+#text = Wot 1635 słuša dotal čěskej krónje přisłušny Budyšin – a z nim cyła Hornja Łužica – do Sakskeje.
+1	Wot	_	ADP	_	_	_	_	_	Translit=wɔt
+2	1635	_	NUM	_	_	_	_	_	Translit=1635
+3	słuša	_	VERB	_	_	_	_	_	Translit=swʊʃa
+4	dotal	_	ADP	_	_	_	_	_	Translit=dɔtal
+5	čěskej	_	ADJ	_	_	_	_	_	Translit=tʃɛskɛj
+6	krónje	_	NOUN	_	_	_	_	_	Translit=kronjɛ
+7	přisłušny	_	ADJ	_	_	_	_	_	Translit=pʃɪswʊʃnɨ
+8	Budyšin	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪn
+9	–	_	PUNCT	_	_	_	_	_	Translit=–
+10	a	_	CCONJ	_	_	_	_	_	Translit=a
+11	z	_	ADP	_	_	_	_	_	Translit=z
+12	nim	_	PRON	_	_	_	_	_	Translit=nɪm
+13	cyła	_	ADJ	_	_	_	_	_	Translit=tsɨwa
+14	Hornja	_	PROPN	_	_	_	_	_	Translit=ɦɔrnja
+15	Łužica	_	PROPN	_	_	_	_	_	Translit=wʊʒɪtsa
+16	–	_	PUNCT	_	_	_	_	_	Translit=–
+17	do	_	ADP	_	_	_	_	_	Translit=dɔ
+18	Sakskeje	_	ADJ	_	_	_	_	_	Translit=sakskɛjɛ
+19	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 39
+#text = 1700 do 1900.
+1	1700	_	NUM	_	_	_	_	_	Translit=1700
+2	do	_	ADP	_	_	_	_	_	Translit=dɔ
+3	1900	_	NUM	_	_	_	_	_	Translit=1900
+4	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 40
+#text = Tež spočatk 18.
+1	Tež	_	PRON	_	_	_	_	_	Translit=tɛʒ
+2	spočatk	_	ADV	_	_	_	_	_	Translit=spɔtʃatk
+3	18	_	NUM	_	_	_	_	_	Translit=18
+4	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 41
+#text = lětstotka dóńdźe k wjetšim wohenjam, a to 1707 a 1720.
+1	lětstotka	_	NOUN	_	_	_	_	_	Translit=letstɔtka
+2	dóńdźe	_	VERB	_	_	_	_	_	Translit=donʲdʒɛ
+3	k	_	ADP	_	_	_	_	_	Translit=k
+4	wjetšim	_	ADJ	_	_	_	_	_	Translit=wjɛtʃɪm
+5	wohenjam	_	NOUN	_	_	_	_	_	Translit=wɔɦɛnjam
+6	,	_	PUNCT	_	_	_	_	_	Translit=,
+7	a	_	CCONJ	_	_	_	_	_	Translit=a
+8	to	_	ADP	_	_	_	_	_	Translit=tɔ
+9	1707	_	NUM	_	_	_	_	_	Translit=1707
+10	a	_	CCONJ	_	_	_	_	_	Translit=a
+11	1720	_	NUM	_	_	_	_	_	Translit=1720
+12	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 42
+#text = Stawiznisce poměrnje sławna je Bitwa pola Budyšina (1813).
+1	Stawiznisce	_	ADJ	_	_	_	_	_	Translit=stawɪznɪstsɛ
+2	poměrnje	_	ADJ	_	_	_	_	_	Translit=pɔmɛrnjɛ
+3	sławna	_	ADJ	_	_	_	_	_	Translit=swawna
+4	je	_	VERB	_	_	_	_	_	Translit=jɛ
+5	Bitwa	_	NOUN	_	_	_	_	_	Translit=bɪtwa
+6	pola	_	ADP	_	_	_	_	_	Translit=pɔla
+7	Budyšina	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪna
+8		_	PUNCT	_	_	_	_	_	Translit=
+9	(1813	_	NUM	_	_	_	_	_	Translit=(1813
+10	)	_	PUNCT	_	_	_	_	_	Translit=)
+11	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 43
+#text = Zjednoćene wójska wojowachu tu přećiwo napoleonskim wojakam.
+1	Zjednoćene	_	ADJ	_	_	_	_	_	Translit=zjɛdnɔtʃɛnɛ
+2	wójska	_	NOUN	_	_	_	_	_	Translit=wojska
+3	wojowachu	_	ADJ	_	_	_	_	_	Translit=wɔjɔwaxʊ
+4	tu	_	PRON	_	_	_	_	_	Translit=tʊ
+5	přećiwo	_	ADP	_	_	_	_	_	Translit=pʃɛtʃɪwɔ
+6	napoleonskim	_	ADJ	_	_	_	_	_	Translit=napɔlɛɔnskɪm
+7	wojakam	_	NOUN	_	_	_	_	_	Translit=wɔjakam
+8	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 44
+#text = Tutón historiski podawk rysuje tež Jan Radyserb-Wjela w swojej wobšěrnej powědce "Bitwa pola Budyšina".
+1	Tutón	_	PRON	_	_	_	_	_	Translit=tʊton
+2	historiski	_	ADJ	_	_	_	_	_	Translit=ɦɪstɔrɪskɪ
+3	podawk	_	NOUN	_	_	_	_	_	Translit=pɔdawk
+4	rysuje	_	VERB	_	_	_	_	_	Translit=rɨsʊjɛ
+5	tež	_	PRON	_	_	_	_	_	Translit=tɛʒ
+6	Jan	_	PROPN	_	_	_	_	_	Translit=Jan
+7	Radyserb-Wjela	_	PROPN	_	_	_	_	_	Translit=radɨsɛrb-wjɛla
+8	w	_	ADP	_	_	_	_	_	Translit=w
+9	swojej	_	PRON	_	_	_	_	_	Translit=swɔjɛj
+10	wobšěrnej	_	ADJ	_	_	_	_	_	Translit=wɔbʃɛrnɛj
+11	powědce	_	NOUN	_	_	_	_	_	Translit=pɔwɛdtsɛ
+12	"Bitwa	_	NOUN	_	_	_	_	_	Translit="bɪtwa
+13	pola	_	ADP	_	_	_	_	_	Translit=pɔla
+14	Budyšina"	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪna"
+15	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 45
+#text = 1815 so zwjazk šesćiměstow rozpušći.
+1	1815	_	NUM	_	_	_	_	_	Translit=1815
+2	so	_	ADP	_	_	_	_	_	Translit=sɔ
+3	zwjazk	_	NOUN	_	_	_	_	_	Translit=zwjazk
+4	šesćiměstow	_	NOUN	_	_	_	_	_	Translit=ʃɛstʃɪmɛstɔw
+5	rozpušći	_	VERB	_	_	_	_	_	Translit=rɔzpʊʃtʃɪ
+6	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 46
+#text = 1846 wotewri so železniska čara mjez Drježdźanami a Budyšinom, kotruž twarjachu tež Serbja – mjez nimi ludowy basnik Pětr Młónk – sobu.
+1	1846	_	NUM	_	_	_	_	_	Translit=1846
+2	wotewri	_	VERB	_	_	_	_	_	Translit=wɔtɛwrɪ
+3	so	_	ADP	_	_	_	_	_	Translit=sɔ
+4	železniska	_	NOUN	_	_	_	_	_	Translit=ʒɛlɛznɪska
+5	čara	_	NOUN	_	_	_	_	_	Translit=tʃara
+6	mjez	_	ADP	_	_	_	_	_	Translit=mjɛz
+7	Drježdźanami	_	PROPN	_	_	_	_	_	Translit=drjɛʒdʒanamɪ
+8	a	_	CCONJ	_	_	_	_	_	Translit=a
+9	Budyšinom	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪnɔm
+10	,	_	PUNCT	_	_	_	_	_	Translit=,
+11	kotruž	_	PRON	_	_	_	_	_	Translit=kɔtrʊʒ
+12	twarjachu	_	VERB	_	_	_	_	_	Translit=twarjaxʊ
+13	tež	_	PRON	_	_	_	_	_	Translit=tɛʒ
+14	Serbja	_	PROPN	_	_	_	_	_	Translit=sɛrbja
+15	–	_	PUNCT	_	_	_	_	_	Translit=–
+16	mjez	_	ADP	_	_	_	_	_	Translit=mjɛz
+17	nimi	_	PRON	_	_	_	_	_	Translit=nɪmɪ
+18	ludowy	_	ADJ	_	_	_	_	_	Translit=lʊdɔwɨ
+19	basnik	_	NOUN	_	_	_	_	_	Translit=basnɪk
+20	Pětr	_	PROPN	_	_	_	_	_	Translit=petr
+21	Młónk	_	PROPN	_	_	_	_	_	Translit=mwonk
+22	–	_	PUNCT	_	_	_	_	_	Translit=–
+23	sobu	_	NOUN	_	_	_	_	_	Translit=sɔbʊ
+24	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 47
+#text = Hač do lěta 1868 rěkaše město hamtsce Budissin, hakle potom dósta dźensniše němske pomjenowanje Bautzen.
+1	Hač	_	ADV	_	_	_	_	_	Translit=ɦatʃ
+2	do	_	ADP	_	_	_	_	_	Translit=dɔ
+3	lěta	_	NOUN	_	_	_	_	_	Translit=leta
+4	1868	_	NUM	_	_	_	_	_	Translit=1868
+5	rěkaše	_	VERB	_	_	_	_	_	Translit=rɛkaʃɛ
+6	město	_	NOUN	_	_	_	_	_	Translit=mestɔ
+7	hamtsce	_	NOUN	_	_	_	_	_	Translit=ɦamtstsɛ
+8	Budissin	_	PROPN	_	_	_	_	_	Translit=bʊdɪssɪn
+9	,	_	PUNCT	_	_	_	_	_	Translit=,
+10	hakle	_	ADV	_	_	_	_	_	Translit=ɦaklɛ
+11	potom	_	ADV	_	_	_	_	_	Translit=pɔtɔm
+12	dósta	_	VERB	_	_	_	_	_	Translit=dosta
+13	dźensniše	_	VERB	_	_	_	_	_	Translit=dʒɛnsnɪʃɛ
+14	němske	_	ADJ	_	_	_	_	_	Translit=nɛmskɛ
+15	pomjenowanje	_	ADJ	_	_	_	_	_	Translit=pɔmjɛnɔwanjɛ
+16	Bautzen	_	PROPN	_	_	_	_	_	Translit=baʊtzɛn
+17	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 48
+#text = 1872 nasta tu prěnja šulska hwězdarnja w Němskej.
+1	1872	_	NUM	_	_	_	_	_	_	Translit=1872
+2	nasta	_	VERB	_	_	_	_	_	Translit=nasta
+3	tu	_	PRON	_	_	_	_	_	Translit=tʊ
+4	prěnja	_	NOUN	_	_	_	_	_	Translit=prenja
+5	šulska	_	ADJ	_	_	_	_	_	Translit=ʃʊlska
+6	hwězdarnja	_	NOUN	_	_	_	_	_	Translit=ɦwezdarnja
+7	w	_	ADP	_	_	_	_	_	Translit=w
+8	Němskej	_	ADJ	_	_	_	_	_	Translit=nɛmskɛj
+9	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 49
+#text = Mjezy 1888 a 1891 twarješe so cyrkej Marje a Marty („Čerwjena cyrkej“), mjezy 1897 a 1904 Serbski dom při Lawskich hrjebjach, kotryž so pak w poslednich wójnskich dnjow lěta 1945 zniči.
+1	Mjezy	_	ADP	_	_	_	_	_	Translit=mjɛzɨ
+2	1888	_	NUM	_	_	_	_	_	Translit=1888
+3	a	_	CCONJ	_	_	_	_	_	Translit=a
+4	1891	_	NUM	_	_	_	_	_	Translit=1891
+5	twarješe	_	VERB	_	_	_	_	_	Translit=twarjɛʃɛ
+6	so	_	ADP	_	_	_	_	_	Translit=sɔ
+7	cyrkej	_	ADJ	_	_	_	_	_	Translit=tsɨrkɛj
+8	Marje	_	PROPN	_	_	_	_	_	Translit=marjɛ
+9	a	_	CCONJ	_	_	_	_	_	Translit=a
+10	Marty	_	PROPN	_	_	_	_	_	Translit=martɨ
+11		_	PUNCT	_	_	_	_	_	Translit=
+12	(„Čerwjena	_	ADJ	_	_	_	_	_	Translit=(„tʃɛrwjɛna
+13	cyrkej“	_	NOUN	_	_	_	_	_	Translit=tsɨrkɛj“
+14	)	_	PUNCT	_	_	_	_	_	Translit=)
+15	,	_	PUNCT	_	_	_	_	_	Translit=,
+16	mjezy	_	ADP	_	_	_	_	_	Translit=mjɛzɨ
+17	1897	_	NUM	_	_	_	_	_	Translit=1897
+18	a	_	CCONJ	_	_	_	_	_	Translit=a
+19	1904	_	NUM	_	_	_	_	_	Translit=1904
+20	Serbski	_	ADJ	_	_	_	_	_	Translit=sɛrbskɪ
+21	dom	_	NOUN	_	_	_	_	_	Translit=dɔm
+22	při	_	ADP	_	_	_	_	_	Translit=pʃɪ
+23	Lawskich	_	ADJ	_	_	_	_	_	Translit=lawskɪx
+24	hrjebjach	_	NOUN	_	_	_	_	_	Translit=ɦrjɛbjax
+25	,	_	PUNCT	_	_	_	_	_	Translit=,
+26	kotryž	_	PRON	_	_	_	_	_	Translit=kɔtrɨʒ
+27	so	_	ADP	_	_	_	_	_	Translit=sɔ
+28	pak	_	ADV	_	_	_	_	_	Translit=pak
+29	w	_	ADP	_	_	_	_	_	Translit=w
+30	poslednich	_	ADJ	_	_	_	_	_	Translit=pɔslɛdnɪx
+31	wójnskich	_	ADJ	_	_	_	_	_	Translit=wojnskɪx
+32	dnjow	_	NOUN	_	_	_	_	_	Translit=dnjɔw
+33	lěta	_	NOUN	_	_	_	_	_	Translit=leta
+34	1945	_	NUM	_	_	_	_	_	Translit=1945
+35	zniči	_	VERB	_	_	_	_	_	Translit=znɪtʃɪ
+36	.	_	PUNCT	_	_	_	_	_	Translit=.
+
+#sent_id = 50
+#text = 1902 dósta Budyšin wot sakskeho krala Jurja tak mjenowane Rietschelowe swisle, kotrež připrawichu so na wuchodnych swislach měšćanskeho dźiwadła.
+1	1902	_	NUM	_	_	_	_	_	Translit=1902
+2	dósta	_	VERB	_	_	_	_	_	Translit=dosta
+3	Budyšin	_	PROPN	_	_	_	_	_	Translit=bʊdɨʃɪn
+4	wot	_	ADP	_	_	_	_	_	Translit=wɔt
+5	sakskeho	_	ADJ	_	_	_	_	_	Translit=sakskɛɦɔ
+6	krala	_	NOUN	_	_	_	_	_	Translit=krala
+7	Jurja	_	PROPN	_	_	_	_	_	Translit=Jʊrja
+8	tak	_	PRON	_	_	_	_	_	Translit=tak
+9	mjenowane	_	ADJ	_	_	_	_	_	Translit=mjɛnɔwanɛ
+10	Rietschelowe	_	PROPN	_	_	_	_	_	Translit=rɪɛtsxɛlɔwɛ
+11	swisle	_	NOUN	_	_	_	_	_	Translit=swɪslɛ
+12	,	_	PUNCT	_	_	_	_	_	Translit=,
+13	kotrež	_	PRON	_	_	_	_	_	Translit=kɔtrɛʒ
+14	připrawichu	_	VERB	_	_	_	_	_	Translit=pʃɪprawɪxʊ
+15	so	_	ADP	_	_	_	_	_	Translit=sɔ
+16	na	_	ADP	_	_	_	_	_	Translit=na
+17	wuchodnych	_	ADJ	_	_	_	_	_	Translit=wʊxɔdnɨx
+18	swislach	_	NOUN	_	_	_	_	_	Translit=swɪslax
+19	měšćanskeho	_	ADJ	_	_	_	_	_	Translit=mɛʃtʃanskɛɦɔ
+20	dźiwadła	_	NOUN	_	_	_	_	_	Translit=dʒɪwadwa
+21	.	_	PUNCT	_	_	_	_	_	Translit=.
