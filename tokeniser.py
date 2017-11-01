@@ -5,7 +5,7 @@ for line in sys.stdin.readlines():
 		continue
 	source_line = line.replace('\n','')
 	print('#sent_id = %d\n#text = %s' % (i, source_line))
-	for p in '.,?()!:':
+	for p in '.,?()!:\"\'':
 		if p == '(':
 			line = line.replace(p, p+' ')
 		else:
