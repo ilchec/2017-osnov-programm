@@ -17,8 +17,8 @@
 
 #sent_id = 4
 #text = (łaćonsce "Benedictus PP.
-1		_	PUNCT	_	_	_	_	_	Translit=
-2	(łaćonsce	_	ADJ	_	_	_	_	_	Translit=(watʃɔnstsɛ
+1	(	_	PUNCT	_	_	_	_	_	Translit=	
+2	łaćonsce	_	ADJ	_	_	_	_	_	Translit=(watʃɔnstsɛ
 3	"Benedictus	_	PROPN	_	_	_	_	_	Translit="bɛnɛdɪtstʊs
 4	PP	_	X	_	_	_	_	_	Translit=pp
 5	.	_	PUNCT	_	_	_	_	_	Translit=.

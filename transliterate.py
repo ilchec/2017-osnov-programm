@@ -57,7 +57,7 @@ s_text = ''
 for line in text:
 	s_text+=line
 	print(line)
-fw = open('corpus/wiki_ransliterated.txt', 'w', 'utf-8')
+fw = open('corpus/wiki_transliterated.txt', 'w')
 fw.write(s_text)
 fw.close()
 #print(s_text)

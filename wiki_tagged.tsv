@@ -1,0 +1,504 @@
+#sent_id = 1
+
+#text = Hłowna strona:
+
+1	Hłowna	_	ADJ	_	_	_	_	_	_
+
+2	strona	_	NOUN	_	_	_	_	_	_
+
+3	:	_	NOUN	_	_	_	_	_	_
+
+
+
+#sent_id = 2
+
+#text = Benedikt XVI.:
+
+1	Benedikt	_	PROPN	_	_	_	_	_	_
+
+2	XVI	_	NUM	_	_	_	_	_	_
+
+3	.	_	PUNCT	_	_	_	_	_	_
+
+4	:	_	NOUN	_	_	_	_	_	_
+
+
+
+#sent_id = 3
+
+#text = Benedikt XVI.
+
+1	Benedikt	_	PROPN	_	_	_	_	_	_
+
+2	XVI	_	NUM	_	_	_	_	_	_
+
+3	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 4
+
+#text = (łaćonsce "Benedictus PP.
+
+1	(	_	NOUN	_	_	_	_	_	_
+
+2	łaćonsce	_	ADJ	_	_	_	_	_	_
+
+3	"Benedictus	_	PROPN	_	_	_	_	_	_
+
+4	PP	_	X	_	_	_	_	_	_
+
+5	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 5
+
+#text = XVI"), z byrgarskim mjenom Josef Alois Ratzinger (* 16.
+
+1	XVI	_	NUM	_	_	_	_	_	_
+
+2	"	_	NOUN	_	_	_	_	_	_
+
+3	)	_	PUNCT	_	_	_	_	_	_
+
+4	,	_	PUNCT	_	_	_	_	_	_
+
+5	z	_	ADP	_	_	_	_	_	_
+
+6	byrgarskim	_	ADJ	_	_	_	_	_	_
+
+7	mjenom	_	NOUN	_	_	_	_	_	_
+
+8	Josef	_	PROPN	_	_	_	_	_	_
+
+9	Alois	_	PROPN	_	_	_	_	_	_
+
+10	Ratzinger	_	PROPN	_	_	_	_	_	_
+
+11	(	_	NOUN	_	_	_	_	_	_
+
+12	*	_	PUNCT	_	_	_	_	_	_
+
+13	16	_	NUM	_	_	_	_	_	_
+
+14	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 6
+
+#text = apryla 1927 w Marktl am Inn), běše wot 19.
+
+1	apryla	_	NOUN	_	_	_	_	_	_
+
+2	1927	_	NUM	_	_	_	_	_	_
+
+3	w	_	ADP	_	_	_	_	_	_
+
+4	Marktl	_	PROPN	_	_	_	_	_	_
+
+5	am	_	PROPN	_	_	_	_	_	_
+
+6	Inn	_	PROPN	_	_	_	_	_	_
+
+7	)	_	PUNCT	_	_	_	_	_	_
+
+8	,	_	PUNCT	_	_	_	_	_	_
+
+9	běše	_	VERB	_	_	_	_	_	_
+
+10	wot	_	ADP	_	_	_	_	_	_
+
+11	19	_	NUM	_	_	_	_	_	_
+
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 7
+
+#text = apryla 2005 do 28.
+
+1	apryla	_	NOUN	_	_	_	_	_	_
+
+2	2005	_	NUM	_	_	_	_	_	_
+
+3	do	_	ADP	_	_	_	_	_	_
+
+4	28	_	NUM	_	_	_	_	_	_
+
+5	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 8
+
+#text = februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a Watikana.
+
+1	februara	_	NOUN	_	_	_	_	_	_
+
+2	2013	_	NUM	_	_	_	_	_	_
+
+3	bamž	_	VERB	_	_	_	_	_	_
+
+4	a	_	CCONJ	_	_	_	_	_	_
+
+5	z	_	ADP	_	_	_	_	_	_
+
+6	tym	_	PRON	_	_	_	_	_	_
+
+7	nawoda	_	NOUN	_	_	_	_	_	_
+
+8	romsko-katolskeje	_	ADP	_	_	_	_	_	_
+
+9	cyrkwje	_	NOUN	_	_	_	_	_	_
+
+10	a	_	CCONJ	_	_	_	_	_	_
+
+11	Watikana	_	PROPN	_	_	_	_	_	_
+
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 9
+
+#text = Wón bě hakle třeći bamž w cyrkwinskich stawiznach, kiž wotstupi.
+
+1	Wón	_	PRON	_	_	_	_	_	_
+
+2	bě	_	VERB	_	_	_	_	_	_
+
+3	hakle	_	ADV	_	_	_	_	_	_
+
+4	třeći	_	ADJ	_	_	_	_	_	_
+
+5	bamž	_	VERB	_	_	_	_	_	_
+
+6	w	_	ADP	_	_	_	_	_	_
+
+7	cyrkwinskich	_	ADJ	_	_	_	_	_	_
+
+8	stawiznach	_	NOUN	_	_	_	_	_	_
+
+9	,	_	PUNCT	_	_	_	_	_	_
+
+10	kiž	_	PRON	_	_	_	_	_	_
+
+11	wotstupi	_	NOUN	_	_	_	_	_	_
+
+12	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 10
+
+#text = Wón wuzwoli so 19.
+
+1	Wón	_	PRON	_	_	_	_	_	_
+
+2	wuzwoli	_	VERB	_	_	_	_	_	_
+
+3	so	_	ADP	_	_	_	_	_	_
+
+4	19	_	NUM	_	_	_	_	_	_
+
+5	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 11
+
+#text = apryla 2005 wot 115 wobdźělenych kardinalow w štwórtym wólbnym kole po jenož 26 hodźin trajacej konklawje za naslědnika Jana Pawoła II..
+
+1	apryla	_	NOUN	_	_	_	_	_	_
+
+2	2005	_	NUM	_	_	_	_	_	_
+
+3	wot	_	ADP	_	_	_	_	_	_
+
+4	115	_	NUM	_	_	_	_	_	_
+
+5	wobdźělenych	_	ADJ	_	_	_	_	_	_
+
+6	kardinalow	_	NOUN	_	_	_	_	_	_
+
+7	w	_	ADP	_	_	_	_	_	_
+
+8	štwórtym	_	ADJ	_	_	_	_	_	_
+
+9	wólbnym	_	ADJ	_	_	_	_	_	_
+
+10	kole	_	SCONJ	_	_	_	_	_	_
+
+11	po	_	ADP	_	_	_	_	_	_
+
+12	jenož	_	PRON	_	_	_	_	_	_
+
+13	26	_	NUM	_	_	_	_	_	_
+
+14	hodźin	_	NOUN	_	_	_	_	_	_
+
+15	trajacej	_	NOUN	_	_	_	_	_	_
+
+16	konklawje	_	NOUN	_	_	_	_	_	_
+
+17	za	_	ADP	_	_	_	_	_	_
+
+18	naslědnika	_	NOUN	_	_	_	_	_	_
+
+19	Jana	_	PROPN	_	_	_	_	_	_
+
+20	Pawoła	_	PROPN	_	_	_	_	_	_
+
+21	II	_	NUM	_	_	_	_	_	_
+
+22	.	_	PUNCT	_	_	_	_	_	_
+
+23	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 12
+
+#text = Wón wobsedźi němske a watikanske staćanstwo.
+
+1	Wón	_	PRON	_	_	_	_	_	_
+
+2	wobsedźi	_	NOUN	_	_	_	_	_	_
+
+3	němske	_	ADJ	_	_	_	_	_	_
+
+4	a	_	CCONJ	_	_	_	_	_	_
+
+5	watikanske	_	ADJ	_	_	_	_	_	_
+
+6	staćanstwo	_	NOUN	_	_	_	_	_	_
+
+7	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 13
+
+#text = Do swojeho wuzwolenja na bamža bě Benedikt XVI.
+
+1	Do	_	ADP	_	_	_	_	_	_
+
+2	swojeho	_	PRON	_	_	_	_	_	_
+
+3	wuzwolenja	_	NOUN	_	_	_	_	_	_
+
+4	na	_	ADP	_	_	_	_	_	_
+
+5	bamža	_	VERB	_	_	_	_	_	_
+
+6	bě	_	VERB	_	_	_	_	_	_
+
+7	Benedikt	_	PROPN	_	_	_	_	_	_
+
+8	XVI	_	NUM	_	_	_	_	_	_
+
+9	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 14
+
+#text = dekan kardinalskeho kolegija a prefekt kongregacije za wučbu wěry.
+
+1	dekan	_	NOUN	_	_	_	_	_	_
+
+2	kardinalskeho	_	ADJ	_	_	_	_	_	_
+
+3	kolegija	_	NOUN	_	_	_	_	_	_
+
+4	a	_	CCONJ	_	_	_	_	_	_
+
+5	prefekt	_	NOUN	_	_	_	_	_	_
+
+6	kongregacije	_	NOUN	_	_	_	_	_	_
+
+7	za	_	ADP	_	_	_	_	_	_
+
+8	wučbu	_	NOUN	_	_	_	_	_	_
+
+9	wěry	_	NOUN	_	_	_	_	_	_
+
+10	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 15
+
+#text = Płaćeše jako jedyn z najwuznamnišich kardinalow a wopisowaše so husto jako teologiska a cyrkwinopolitiska prawa ruka bamža Jana Pawoła II.
+
+1	Płaćeše	_	VERB	_	_	_	_	_	_
+
+2	jako	_	SCONJ	_	_	_	_	_	_
+
+3	jedyn	_	NUM	_	_	_	_	_	_
+
+4	z	_	ADP	_	_	_	_	_	_
+
+5	najwuznamnišich	_	ADJ	_	_	_	_	_	_
+
+6	kardinalow	_	NOUN	_	_	_	_	_	_
+
+7	a	_	CCONJ	_	_	_	_	_	_
+
+8	wopisowaše	_	VERB	_	_	_	_	_	_
+
+9	so	_	ADP	_	_	_	_	_	_
+
+10	husto	_	ADV	_	_	_	_	_	_
+
+11	jako	_	SCONJ	_	_	_	_	_	_
+
+12	teologiska	_	ADJ	_	_	_	_	_	_
+
+13	a	_	CCONJ	_	_	_	_	_	_
+
+14	cyrkwinopolitiska	_	ADJ	_	_	_	_	_	_
+
+15	prawa	_	ADJ	_	_	_	_	_	_
+
+16	ruka	_	NOUN	_	_	_	_	_	_
+
+17	bamža	_	VERB	_	_	_	_	_	_
+
+18	Jana	_	PROPN	_	_	_	_	_	_
+
+19	Pawoła	_	PROPN	_	_	_	_	_	_
+
+20	II	_	NUM	_	_	_	_	_	_
+
+21	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 16
+
+#text = W zjawnosći płaći Benedikt XVI.
+
+1	W	_	ADP	_	_	_	_	_	_
+
+2	zjawnosći	_	ADV	_	_	_	_	_	_
+
+3	płaći	_	VERB	_	_	_	_	_	_
+
+4	Benedikt	_	PROPN	_	_	_	_	_	_
+
+5	XVI	_	NUM	_	_	_	_	_	_
+
+6	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 17
+
+#text = jako konserwatiwny.
+
+1	jako	_	SCONJ	_	_	_	_	_	_
+
+2	konserwatiwny	_	ADJ	_	_	_	_	_	_
+
+3	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 18
+
+#text = Budyšin:
+
+1	Budyšin	_	PROPN	_	_	_	_	_	_
+
+2	:	_	NOUN	_	_	_	_	_	_
+
+
+
+#sent_id = 19
+
+#text = Budyšin ma něhdźe 40.000 wobydlerjow, z čimž je zdobom najwjetše město wokrjesa a druhe najwjetše w Hornjej Łužicy.
+
+1	Budyšin	_	PROPN	_	_	_	_	_	_
+
+2	ma	_	VERB	_	_	_	_	_	_
+
+3	něhdźe	_	ADV	_	_	_	_	_	_
+
+4	40	_	NUM	_	_	_	_	_	_
+
+5	.000	_	NUM	_	_	_	_	_	_
+
+6	wobydlerjow	_	NOUN	_	_	_	_	_	_
+
+7	,	_	PUNCT	_	_	_	_	_	_
+
+8	z	_	ADP	_	_	_	_	_	_
+
+9	čimž	_	PRON	_	_	_	_	_	_
+
+10	je	_	VERB	_	_	_	_	_	_
+
+11	zdobom	_	ADV	_	_	_	_	_	_
+
+12	najwjetše	_	ADJ	_	_	_	_	_	_
+
+13	město	_	NOUN	_	_	_	_	_	_
+
+14	wokrjesa	_	ADJ	_	_	_	_	_	_
+
+15	a	_	CCONJ	_	_	_	_	_	_
+
+16	druhe	_	ADJ	_	_	_	_	_	_
+
+17	najwjetše	_	ADJ	_	_	_	_	_	_
+
+18	w	_	ADP	_	_	_	_	_	_
+
+19	Hornjej	_	PROPN	_	_	_	_	_	_
+
+20	Łužicy	_	PROPN	_	_	_	_	_	_
+
+21	.	_	PUNCT	_	_	_	_	_	_
+
+
+
+#sent_id = 20
+
+#text = Něhdyša stolica Hornjeje Łužicy płaći jako kulturelne srjedźišćo Serbow a leži w serbskim sydlenskim rumje.
+
+1	Něhdyša	_	ADJ	_	_	_	_	_	_
+
+2	stolica	_	NOUN	_	_	_	_	_	_
+
+3	Hornjeje	_	PROPN	_	_	_	_	_	_
+
+4	Łužicy	_	PROPN	_	_	_	_	_	_
+
+5	płaći	_	VERB	_	_	_	_	_	_
+
+6	jako	_	SCONJ	_	_	_	_	_	_
+
+7	kulturelne	_	ADJ	_	_	_	_	_	_
+
+8	srjedźišćo	_	ADP	_	_	_	_	_	_
+
+9	Serbow	_	PROPN	_	_	_	_	_	_
+
+10	a	_	CCONJ	_	_	_	_	_	_
+
+11	leži	_	VERB	_	_	_	_	_	_
+
+12	w	_	ADP	_	_	_	_	_	_
+
+13	serbskim	_	ADJ	_	_	_	_	_	_
+
+14	sydlenskim	_	ADJ	_	_	_	_	_	_
+
+15	rumje	_	NOUN	_	_	_	_	_	_
+
+16	.	_	PUNCT	_	_	_	_	_	_
+

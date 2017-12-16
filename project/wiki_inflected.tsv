@@ -1,0 +1,6000 @@
+#sent_id = 1
+
+#text = Hłowna strona:
+
+1	Hłowna	_	_	_	_	_	_	_	_
+
+2	strona	strona	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+3	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 2
+
+#text = Benedikt XVI.:
+
+1	Benedikt	_	_	_	_	_	_	_	_
+
+2	XVI	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+4	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 3
+
+#text = Benedikt XVI.
+
+1	Benedikt	_	_	_	_	_	_	_	_
+
+2	XVI	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 4
+
+#text = (łaćonsce "Benedictus PP.
+
+1	(	_	_	_	_	_	_	_	_
+
+2	łaćonsce	_	_	_	_	_	_	_	_
+
+3	"Benedictus	_	_	_	_	_	_	_	_
+
+4	PP	_	_	_	_	_	_	_	_
+
+5	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 5
+
+#text = XVI"), z byrgarskim mjenom Josef Alois Ratzinger (* 16.
+
+1	XVI	_	_	_	_	_	_	_	_
+
+2	"	_	_	_	_	_	_	_	_
+
+3	)	_	_	_	_	_	_	_	_
+
+4	,	_	_	_	_	_	_	_	_
+
+5	z	_	_	_	_	_	_	_	_
+
+6	byrgarskim	_	_	_	_	_	_	_	_
+
+7	mjenom	mjeno	NOUN	_	Possible inflectional characteristics. Gender=n: n,instr,sg. 	_	_	_	_
+
+8	Josef	_	_	_	_	_	_	_	_
+
+9	Alois	_	_	_	_	_	_	_	_
+
+10	Ratzinger	_	_	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	*	_	_	_	_	_	_	_	_
+
+13	16	16	NUM	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 6
+
+#text = apryla 1927 w Marktl am Inn), běše wot 19.
+
+1	apryla	_	_	_	_	_	_	_	_
+
+2	1927	1927	NUM	_	_	_	_	_	_
+
+3	w	_	_	_	_	_	_	_	_
+
+4	Marktl	_	_	_	_	_	_	_	_
+
+5	am	_	_	_	_	_	_	_	_
+
+6	Inn	_	_	_	_	_	_	_	_
+
+7	)	_	_	_	_	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	běše	_	_	_	_	_	_	_	_
+
+10	wot	_	_	_	_	_	_	_	_
+
+11	19	19	NUM	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 7
+
+#text = apryla 2005 do 28.
+
+1	apryla	_	_	_	_	_	_	_	_
+
+2	2005	2005	NUM	_	_	_	_	_	_
+
+3	do	_	_	_	_	_	_	_	_
+
+4	28	28	NUM	_	_	_	_	_	_
+
+5	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 8
+
+#text = februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a Watikana.
+
+1	februara	_	_	_	_	_	_	_	_
+
+2	2013	2013	NUM	_	_	_	_	_	_
+
+3	bamž	_	_	_	_	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	z	_	_	_	_	_	_	_	_
+
+6	tym	_	_	_	_	_	_	_	_
+
+7	nawoda	nawod	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+8	romsko-katolskeje	_	_	_	_	_	_	_	_
+
+9	cyrkwje	_	_	_	_	_	_	_	_
+
+10	a	_	_	_	_	_	_	_	_
+
+11	Watikana	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 9
+
+#text = Wón bě hakle třeći bamž w cyrkwinskich stawiznach, kiž wotstupi.
+
+1	Wón	_	_	_	_	_	_	_	_
+
+2	bě	_	_	_	_	_	_	_	_
+
+3	hakle	_	_	_	_	_	_	_	_
+
+4	třeći	_	_	_	_	_	_	_	_
+
+5	bamž	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	cyrkwinskich	_	_	_	_	_	_	_	_
+
+8	stawiznach	stawizna	NOUN	_	Possible inflectional characteristics. Gender=f: f,loc,pl. 	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	kiž	_	_	_	_	_	_	_	_
+
+11	wotstupi	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 10
+
+#text = Wón wuzwoli so 19.
+
+1	Wón	_	_	_	_	_	_	_	_
+
+2	wuzwoli	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	19	19	NUM	_	_	_	_	_	_
+
+5	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 11
+
+#text = apryla 2005 wot 115 wobdźělenych kardinalow w štwórtym wólbnym kole po jenož 26 hodźin trajacej konklawje za naslědnika Jana Pawoła II..
+
+1	apryla	_	_	_	_	_	_	_	_
+
+2	2005	2005	NUM	_	_	_	_	_	_
+
+3	wot	_	_	_	_	_	_	_	_
+
+4	115	115	NUM	_	_	_	_	_	_
+
+5	wobdźělenych	_	_	_	_	_	_	_	_
+
+6	kardinalow	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	štwórtym	_	_	_	_	_	_	_	_
+
+9	wólbnym	_	_	_	_	_	_	_	_
+
+10	kole	kolo	NOUN	_	Possible inflectional characteristics. Gender=n: n,acc,sg, n,loc,sg, n,voc,sg, n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+11	po	_	_	_	_	_	_	_	_
+
+12	jenož	_	_	_	_	_	_	_	_
+
+13	26	26	NUM	_	_	_	_	_	_
+
+14	hodźin	hodźina	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,voc,sg. 	_	_	_	_
+
+15	trajacej	_	_	_	_	_	_	_	_
+
+16	konklawje	_	_	_	_	_	_	_	_
+
+17	za	_	_	_	_	_	_	_	_
+
+18	naslědnika	_	_	_	_	_	_	_	_
+
+19	Jana	_	_	_	_	_	_	_	_
+
+20	Pawoła	_	_	_	_	_	_	_	_
+
+21	II	_	_	_	_	_	_	_	_
+
+22	.	_	_	_	_	_	_	_	_
+
+23	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 12
+
+#text = Wón wobsedźi němske a watikanske staćanstwo.
+
+1	Wón	_	_	_	_	_	_	_	_
+
+2	wobsedźi	_	_	_	_	_	_	_	_
+
+3	němske	_	_	_	_	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	watikanske	_	_	_	_	_	_	_	_
+
+6	staćanstwo	_	_	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 13
+
+#text = Do swojeho wuzwolenja na bamža bě Benedikt XVI.
+
+1	Do	_	_	_	_	_	_	_	_
+
+2	swojeho	_	_	_	_	_	_	_	_
+
+3	wuzwolenja	_	_	_	_	_	_	_	_
+
+4	na	_	_	_	_	_	_	_	_
+
+5	bamža	_	_	_	_	_	_	_	_
+
+6	bě	_	_	_	_	_	_	_	_
+
+7	Benedikt	_	_	_	_	_	_	_	_
+
+8	XVI	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 14
+
+#text = dekan kardinalskeho kolegija a prefekt kongregacije za wučbu wěry.
+
+1	dekan	_	_	_	_	_	_	_	_
+
+2	kardinalskeho	_	_	_	_	_	_	_	_
+
+3	kolegija	_	_	_	_	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	prefekt	_	_	_	_	_	_	_	_
+
+6	kongregacije	_	_	_	_	_	_	_	_
+
+7	za	_	_	_	_	_	_	_	_
+
+8	wučbu	_	_	_	_	_	_	_	_
+
+9	wěry	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 15
+
+#text = Płaćeše jako jedyn z najwuznamnišich kardinalow a wopisowaše so husto jako teologiska a cyrkwinopolitiska prawa ruka bamža Jana Pawoła II.
+
+1	Płaćeše	_	_	_	_	_	_	_	_
+
+2	jako	_	_	_	_	_	_	_	_
+
+3	jedyn	_	_	_	_	_	_	_	_
+
+4	z	_	_	_	_	_	_	_	_
+
+5	najwuznamnišich	_	_	_	_	_	_	_	_
+
+6	kardinalow	_	_	_	_	_	_	_	_
+
+7	a	_	_	_	_	_	_	_	_
+
+8	wopisowaše	_	_	_	_	_	_	_	_
+
+9	so	_	_	_	_	_	_	_	_
+
+10	husto	_	_	_	_	_	_	_	_
+
+11	jako	_	_	_	_	_	_	_	_
+
+12	teologiska	_	_	_	_	_	_	_	_
+
+13	a	_	_	_	_	_	_	_	_
+
+14	cyrkwinopolitiska	_	_	_	_	_	_	_	_
+
+15	prawa	prawo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+16	ruka	ruka	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+17	bamža	_	_	_	_	_	_	_	_
+
+18	Jana	_	_	_	_	_	_	_	_
+
+19	Pawoła	_	_	_	_	_	_	_	_
+
+20	II	_	_	_	_	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 16
+
+#text = W zjawnosći płaći Benedikt XVI.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	zjawnosći	zjawnosć	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,gen,pl, f1,acc,pl. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+3	płaći	_	_	_	_	_	_	_	_
+
+4	Benedikt	_	_	_	_	_	_	_	_
+
+5	XVI	_	_	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 17
+
+#text = jako konserwatiwny.
+
+1	jako	_	_	_	_	_	_	_	_
+
+2	konserwatiwny	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 18
+
+#text = Budyšin:
+
+1	Budyšin	_	_	_	_	_	_	_	_
+
+2	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 19
+
+#text = Budyšin ma něhdźe 40.000 wobydlerjow, z čimž je zdobom najwjetše město wokrjesa a druhe najwjetše w Hornjej Łužicy.
+
+1	Budyšin	_	_	_	_	_	_	_	_
+
+2	ma	_	_	_	_	_	_	_	_
+
+3	něhdźe	_	_	_	_	_	_	_	_
+
+4	40	40	NUM	_	_	_	_	_	_
+
+5	.000	.000	NUM	_	_	_	_	_	_
+
+6	wobydlerjow	_	_	_	_	_	_	_	_
+
+7	,	_	_	_	_	_	_	_	_
+
+8	z	_	_	_	_	_	_	_	_
+
+9	čimž	_	_	_	_	_	_	_	_
+
+10	je	_	_	_	_	_	_	_	_
+
+11	zdobom	_	_	_	_	_	_	_	_
+
+12	najwjetše	_	_	_	_	_	_	_	_
+
+13	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+14	wokrjesa	wokrjes	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+15	a	_	_	_	_	_	_	_	_
+
+16	druhe	druh	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+17	najwjetše	_	_	_	_	_	_	_	_
+
+18	w	_	_	_	_	_	_	_	_
+
+19	Hornjej	_	_	_	_	_	_	_	_
+
+20	Łužicy	_	_	_	_	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 20
+
+#text = Něhdyša stolica Hornjeje Łužicy płaći jako kulturelne srjedźišćo Serbow a leži w serbskim sydlenskim rumje.
+
+1	Něhdyša	_	_	_	_	_	_	_	_
+
+2	stolica	stolica	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+3	Hornjeje	_	_	_	_	_	_	_	_
+
+4	Łužicy	_	_	_	_	_	_	_	_
+
+5	płaći	_	_	_	_	_	_	_	_
+
+6	jako	_	_	_	_	_	_	_	_
+
+7	kulturelne	_	_	_	_	_	_	_	_
+
+8	srjedźišćo	srjedźišćo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+9	Serbow	_	_	_	_	_	_	_	_
+
+10	a	_	_	_	_	_	_	_	_
+
+11	leži	_	_	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	serbskim	_	_	_	_	_	_	_	_
+
+14	sydlenskim	_	_	_	_	_	_	_	_
+
+15	rumje	rum	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 21
+
+#text = Stawizny Budyšina.
+
+1	Stawizny	_	_	_	_	_	_	_	_
+
+2	Budyšina	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 22
+
+#text = Zažne stawizny.
+
+1	Zažne	_	_	_	_	_	_	_	_
+
+2	stawizny	stawizna	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 23
+
+#text = Prěni raz naspomni so město w lěće 1002 w chronice biskopa Thietmara z Mjezyborja jako "civitas Budusin".
+
+1	Prěni	_	_	_	_	_	_	_	_
+
+2	raz	raz	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	naspomni	_	_	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	lěće	_	_	_	_	_	_	_	_
+
+8	1002	1002	NUM	_	_	_	_	_	_
+
+9	w	_	_	_	_	_	_	_	_
+
+10	chronice	_	_	_	_	_	_	_	_
+
+11	biskopa	_	_	_	_	_	_	_	_
+
+12	Thietmara	_	_	_	_	_	_	_	_
+
+13	z	_	_	_	_	_	_	_	_
+
+14	Mjezyborja	_	_	_	_	_	_	_	_
+
+15	jako	_	_	_	_	_	_	_	_
+
+16	"civitas	_	_	_	_	_	_	_	_
+
+17	Budusin	_	_	_	_	_	_	_	_
+
+18	"	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 24
+
+#text = Dla połoženja při wikowanskej dróze Via regia, kotraž wjedźeše wot Lipska do Šleskeje, měješe město w srjedźowěku wulku wažnosć.
+
+1	Dla	_	_	_	_	_	_	_	_
+
+2	połoženja	połoženje	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+3	při	_	_	_	_	_	_	_	_
+
+4	wikowanskej	_	_	_	_	_	_	_	_
+
+5	dróze	_	_	_	_	_	_	_	_
+
+6	Via	_	_	_	_	_	_	_	_
+
+7	regia	_	_	_	_	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	kotraž	_	_	_	_	_	_	_	_
+
+10	wjedźeše	_	_	_	_	_	_	_	_
+
+11	wot	_	_	_	_	_	_	_	_
+
+12	Lipska	_	_	_	_	_	_	_	_
+
+13	do	_	_	_	_	_	_	_	_
+
+14	Šleskeje	_	_	_	_	_	_	_	_
+
+15	,	_	_	_	_	_	_	_	_
+
+16	měješe	_	_	_	_	_	_	_	_
+
+17	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+18	w	_	_	_	_	_	_	_	_
+
+19	srjedźowěku	srjedźowěk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+20	wulku	_	_	_	_	_	_	_	_
+
+21	wažnosć	wažnosć	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+22	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 25
+
+#text = Do juha wjedźeše tak mjenowana Čěska šćežka přez Łužiske hory do Prahi.
+
+1	Do	_	_	_	_	_	_	_	_
+
+2	juha	juh	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+3	wjedźeše	_	_	_	_	_	_	_	_
+
+4	tak	_	_	_	_	_	_	_	_
+
+5	mjenowana	_	_	_	_	_	_	_	_
+
+6	Čěska	_	_	_	_	_	_	_	_
+
+7	šćežka	_	_	_	_	_	_	_	_
+
+8	přez	_	_	_	_	_	_	_	_
+
+9	Łužiske	_	_	_	_	_	_	_	_
+
+10	hory	hora	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+11	do	_	_	_	_	_	_	_	_
+
+12	Prahi	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 26
+
+#text = W lěće 1018 podpisa so tu „Budyski měr“ mjezy Němcami a Polakami.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1018	1018	NUM	_	_	_	_	_	_
+
+4	podpisa	podpis	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	tu	_	_	_	_	_	_	_	_
+
+7	„Budyski	_	_	_	_	_	_	_	_
+
+8	měr“	_	_	_	_	_	_	_	_
+
+9	mjezy	mjez	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+10	Němcami	_	_	_	_	_	_	_	_
+
+11	a	_	_	_	_	_	_	_	_
+
+12	Polakami	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 27
+
+#text = 1231 jewi so w dokumentach prěni raz měšćanske prawo, 1250 dósta město prawo swobodneje komuny.
+
+1	1231	1231	NUM	_	_	_	_	_	_
+
+2	jewi	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	w	_	_	_	_	_	_	_	_
+
+5	dokumentach	dokument	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,loc,pl. Gender=m: m,loc,pl. 	_	_	_	_
+
+6	prěni	_	_	_	_	_	_	_	_
+
+7	raz	raz	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+8	měšćanske	_	_	_	_	_	_	_	_
+
+9	prawo	prawo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	1250	1250	NUM	_	_	_	_	_	_
+
+12	dósta	_	_	_	_	_	_	_	_
+
+13	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+14	prawo	prawo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+15	swobodneje	_	_	_	_	_	_	_	_
+
+16	komuny	_	_	_	_	_	_	_	_
+
+17	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 28
+
+#text = W lěće 1346 wutwori so Zwjazk šesćiměstow, ke kotremuž słušachu nimo Budyšina tež Zhorjelc, Kamjenc, Lubań, Lubij a Žitawa.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1346	1346	NUM	_	_	_	_	_	_
+
+4	wutwori	wutwor	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	Zwjazk	_	_	_	_	_	_	_	_
+
+7	šesćiměstow	_	_	_	_	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	ke	_	_	_	_	_	_	_	_
+
+10	kotremuž	_	_	_	_	_	_	_	_
+
+11	słušachu	_	_	_	_	_	_	_	_
+
+12	nimo	_	_	_	_	_	_	_	_
+
+13	Budyšina	_	_	_	_	_	_	_	_
+
+14	tež	_	_	_	_	_	_	_	_
+
+15	Zhorjelc	_	_	_	_	_	_	_	_
+
+16	,	_	_	_	_	_	_	_	_
+
+17	Kamjenc	_	_	_	_	_	_	_	_
+
+18	,	_	_	_	_	_	_	_	_
+
+19	Lubań	_	_	_	_	_	_	_	_
+
+20	,	_	_	_	_	_	_	_	_
+
+21	Lubij	_	_	_	_	_	_	_	_
+
+22	a	_	_	_	_	_	_	_	_
+
+23	Žitawa	_	_	_	_	_	_	_	_
+
+24	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 29
+
+#text = 1391 dóstachu Budyšenjo prawo, měšćansku radu swobodnje wolić.
+
+1	1391	1391	NUM	_	_	_	_	_	_
+
+2	dóstachu	_	_	_	_	_	_	_	_
+
+3	Budyšenjo	_	_	_	_	_	_	_	_
+
+4	prawo	prawo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	měšćansku	_	_	_	_	_	_	_	_
+
+7	radu	rada	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+8	swobodnje	_	_	_	_	_	_	_	_
+
+9	wolić	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 30
+
+#text = 1400 do 1700.
+
+1	1400	1400	NUM	_	_	_	_	_	_
+
+2	do	_	_	_	_	_	_	_	_
+
+3	1700	1700	NUM	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 31
+
+#text = W lětomaj 1400 a 1408 dóńdźe k zběžkomaj rjemjeslnikow.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lětomaj	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,dat,du, n,instr,du, n,loc,du. 	_	_	_	_
+
+3	1400	1400	NUM	_	_	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	1408	1408	NUM	_	_	_	_	_	_
+
+6	dóńdźe	_	_	_	_	_	_	_	_
+
+7	k	_	_	_	_	_	_	_	_
+
+8	zběžkomaj	zběžk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,dat,du, f1,instr,du, f1,loc,du. Gender=m: m,dat,du, m,instr,du, m,loc,du. 	_	_	_	_
+
+9	rjemjeslnikow	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 32
+
+#text = Mjez 1429 a 1431 so město wospjet njewuspěšnje wot Husitow woblěhowaše.
+
+1	Mjez	_	_	_	_	_	_	_	_
+
+2	1429	1429	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1431	1431	NUM	_	_	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+7	wospjet	_	_	_	_	_	_	_	_
+
+8	njewuspěšnje	_	_	_	_	_	_	_	_
+
+9	wot	_	_	_	_	_	_	_	_
+
+10	Husitow	_	_	_	_	_	_	_	_
+
+11	woblěhowaše	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 33
+
+#text = 1524 załoži so w Budyšinje w běhu reformacije ewangelska cyrkej.
+
+1	1524	1524	NUM	_	_	_	_	_	_
+
+2	załoži	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	w	_	_	_	_	_	_	_	_
+
+5	Budyšinje	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	běhu	běh	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+8	reformacije	_	_	_	_	_	_	_	_
+
+9	ewangelska	_	_	_	_	_	_	_	_
+
+10	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 34
+
+#text = Tachantska cyrkej je z tutoho časa simultana a wužiwa so wot katolskich křesćanow runje tak kaž wot ewangelskich.
+
+1	Tachantska	_	_	_	_	_	_	_	_
+
+2	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	je	_	_	_	_	_	_	_	_
+
+4	z	_	_	_	_	_	_	_	_
+
+5	tutoho	_	_	_	_	_	_	_	_
+
+6	časa	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+7	simultana	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	wužiwa	_	_	_	_	_	_	_	_
+
+10	so	_	_	_	_	_	_	_	_
+
+11	wot	_	_	_	_	_	_	_	_
+
+12	katolskich	_	_	_	_	_	_	_	_
+
+13	křesćanow	_	_	_	_	_	_	_	_
+
+14	runje	_	_	_	_	_	_	_	_
+
+15	tak	_	_	_	_	_	_	_	_
+
+16	kaž	_	_	_	_	_	_	_	_
+
+17	wot	_	_	_	_	_	_	_	_
+
+18	ewangelskich	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 35
+
+#text = W třicećilětnej wójnje (1618–1648) so město wospjet wot wšelakich wójskow wobsadźi a zniči.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	třicećilětnej	_	_	_	_	_	_	_	_
+
+3	wójnje	wójna	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,voc,du. 	_	_	_	_
+
+4	(	_	_	_	_	_	_	_	_
+
+5	1618–1648	1618–1648	NUM	_	_	_	_	_	_
+
+6	)	_	_	_	_	_	_	_	_
+
+7	so	_	_	_	_	_	_	_	_
+
+8	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+9	wospjet	_	_	_	_	_	_	_	_
+
+10	wot	_	_	_	_	_	_	_	_
+
+11	wšelakich	_	_	_	_	_	_	_	_
+
+12	wójskow	wójsko	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+13	wobsadźi	_	_	_	_	_	_	_	_
+
+14	a	_	_	_	_	_	_	_	_
+
+15	zniči	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 36
+
+#text = Wulkej měšćanskej wohenjej běštej 1620 resp.
+
+1	Wulkej	_	_	_	_	_	_	_	_
+
+2	měšćanskej	_	_	_	_	_	_	_	_
+
+3	wohenjej	_	_	_	_	_	_	_	_
+
+4	běštej	_	_	_	_	_	_	_	_
+
+5	1620	1620	NUM	_	_	_	_	_	_
+
+6	resp	_	_	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 37
+
+#text = 1634.
+
+1	1634	1634	NUM	_	_	_	_	_	_
+
+2	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 38
+
+#text = Wot 1635 słuša dotal čěskej krónje přisłušny Budyšin – a z nim cyła Hornja Łužica – do Sakskeje.
+
+1	Wot	_	_	_	_	_	_	_	_
+
+2	1635	1635	NUM	_	_	_	_	_	_
+
+3	słuša	_	_	_	_	_	_	_	_
+
+4	dotal	_	_	_	_	_	_	_	_
+
+5	čěskej	_	_	_	_	_	_	_	_
+
+6	krónje	_	_	_	_	_	_	_	_
+
+7	přisłušny	_	_	_	_	_	_	_	_
+
+8	Budyšin	_	_	_	_	_	_	_	_
+
+9	–	_	_	_	_	_	_	_	_
+
+10	a	_	_	_	_	_	_	_	_
+
+11	z	_	_	_	_	_	_	_	_
+
+12	nim	_	_	_	_	_	_	_	_
+
+13	cyła	_	_	_	_	_	_	_	_
+
+14	Hornja	_	_	_	_	_	_	_	_
+
+15	Łužica	_	_	_	_	_	_	_	_
+
+16	–	_	_	_	_	_	_	_	_
+
+17	do	_	_	_	_	_	_	_	_
+
+18	Sakskeje	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 39
+
+#text = 1700 do 1900.
+
+1	1700	1700	NUM	_	_	_	_	_	_
+
+2	do	_	_	_	_	_	_	_	_
+
+3	1900	1900	NUM	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 40
+
+#text = Tež spočatk 18.
+
+1	Tež	_	_	_	_	_	_	_	_
+
+2	spočatk	spočatk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	18	18	NUM	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 41
+
+#text = lětstotka dóńdźe k wjetšim wohenjam, a to 1707 a 1720.
+
+1	lětstotka	lětstotk	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+2	dóńdźe	_	_	_	_	_	_	_	_
+
+3	k	_	_	_	_	_	_	_	_
+
+4	wjetšim	_	_	_	_	_	_	_	_
+
+5	wohenjam	_	_	_	_	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	a	_	_	_	_	_	_	_	_
+
+8	to	_	_	_	_	_	_	_	_
+
+9	1707	1707	NUM	_	_	_	_	_	_
+
+10	a	_	_	_	_	_	_	_	_
+
+11	1720	1720	NUM	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 42
+
+#text = Stawiznisce poměrnje sławna je Bitwa pola Budyšina (1813).
+
+1	Stawiznisce	_	_	_	_	_	_	_	_
+
+2	poměrnje	_	_	_	_	_	_	_	_
+
+3	sławna	_	_	_	_	_	_	_	_
+
+4	je	_	_	_	_	_	_	_	_
+
+5	Bitwa	_	_	_	_	_	_	_	_
+
+6	pola	polo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+7	Budyšina	_	_	_	_	_	_	_	_
+
+8	(	_	_	_	_	_	_	_	_
+
+9	1813	1813	NUM	_	_	_	_	_	_
+
+10	)	_	_	_	_	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 43
+
+#text = Zjednoćene wójska wojowachu tu přećiwo napoleonskim wojakam.
+
+1	Zjednoćene	_	_	_	_	_	_	_	_
+
+2	wójska	wójsko	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+3	wojowachu	_	_	_	_	_	_	_	_
+
+4	tu	_	_	_	_	_	_	_	_
+
+5	přećiwo	_	_	_	_	_	_	_	_
+
+6	napoleonskim	_	_	_	_	_	_	_	_
+
+7	wojakam	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 44
+
+#text = Tutón historiski podawk rysuje tež Jan Radyserb-Wjela w swojej wobšěrnej powědce "Bitwa pola Budyšina".
+
+1	Tutón	_	_	_	_	_	_	_	_
+
+2	historiski	_	_	_	_	_	_	_	_
+
+3	podawk	podawk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+4	rysuje	_	_	_	_	_	_	_	_
+
+5	tež	_	_	_	_	_	_	_	_
+
+6	Jan	_	_	_	_	_	_	_	_
+
+7	Radyserb-Wjela	_	_	_	_	_	_	_	_
+
+8	w	_	_	_	_	_	_	_	_
+
+9	swojej	_	_	_	_	_	_	_	_
+
+10	wobšěrnej	_	_	_	_	_	_	_	_
+
+11	powědce	_	_	_	_	_	_	_	_
+
+12	"Bitwa	_	_	_	_	_	_	_	_
+
+13	pola	polo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+14	Budyšina	_	_	_	_	_	_	_	_
+
+15	"	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 45
+
+#text = 1815 so zwjazk šesćiměstow rozpušći.
+
+1	1815	1815	NUM	_	_	_	_	_	_
+
+2	so	_	_	_	_	_	_	_	_
+
+3	zwjazk	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+4	šesćiměstow	_	_	_	_	_	_	_	_
+
+5	rozpušći	_	_	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 46
+
+#text = 1846 wotewri so železniska čara mjez Drježdźanami a Budyšinom, kotruž twarjachu tež Serbja – mjez nimi ludowy basnik Pětr Młónk – sobu.
+
+1	1846	1846	NUM	_	_	_	_	_	_
+
+2	wotewri	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	železniska	_	_	_	_	_	_	_	_
+
+5	čara	_	_	_	_	_	_	_	_
+
+6	mjez	mjez	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+7	Drježdźanami	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	Budyšinom	_	_	_	_	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	kotruž	_	_	_	_	_	_	_	_
+
+12	twarjachu	_	_	_	_	_	_	_	_
+
+13	tež	_	_	_	_	_	_	_	_
+
+14	Serbja	_	_	_	_	_	_	_	_
+
+15	–	_	_	_	_	_	_	_	_
+
+16	mjez	mjez	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+17	nimi	_	_	_	_	_	_	_	_
+
+18	ludowy	_	_	_	_	_	_	_	_
+
+19	basnik	_	_	_	_	_	_	_	_
+
+20	Pětr	_	_	_	_	_	_	_	_
+
+21	Młónk	_	_	_	_	_	_	_	_
+
+22	–	_	_	_	_	_	_	_	_
+
+23	sobu	_	_	_	_	_	_	_	_
+
+24	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 47
+
+#text = Hač do lěta 1868 rěkaše město hamtsce Budissin, hakle potom dósta dźensniše němske pomjenowanje Bautzen.
+
+1	Hač	_	_	_	_	_	_	_	_
+
+2	do	_	_	_	_	_	_	_	_
+
+3	lěta	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+4	1868	1868	NUM	_	_	_	_	_	_
+
+5	rěkaše	_	_	_	_	_	_	_	_
+
+6	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+7	hamtsce	_	_	_	_	_	_	_	_
+
+8	Budissin	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	hakle	_	_	_	_	_	_	_	_
+
+11	potom	_	_	_	_	_	_	_	_
+
+12	dósta	_	_	_	_	_	_	_	_
+
+13	dźensniše	_	_	_	_	_	_	_	_
+
+14	němske	_	_	_	_	_	_	_	_
+
+15	pomjenowanje	pomjenowanje	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,loc,sg, n,voc,sg, n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+16	Bautzen	_	_	_	_	_	_	_	_
+
+17	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 48
+
+#text = 1872 nasta tu prěnja šulska hwězdarnja w Němskej.
+
+1	1872	1872	NUM	_	_	_	_	_	_
+
+2	nasta	_	_	_	_	_	_	_	_
+
+3	tu	_	_	_	_	_	_	_	_
+
+4	prěnja	_	_	_	_	_	_	_	_
+
+5	šulska	_	_	_	_	_	_	_	_
+
+6	hwězdarnja	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	Němskej	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 49
+
+#text = Mjezy 1888 a 1891 twarješe so cyrkej Marje a Marty („Čerwjena cyrkej“), mjezy 1897 a 1904 Serbski dom při Lawskich hrjebjach, kotryž so pak w poslednich wójnskich dnjow lěta 1945 zniči.
+
+1	Mjezy	_	_	_	_	_	_	_	_
+
+2	1888	1888	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1891	1891	NUM	_	_	_	_	_	_
+
+5	twarješe	_	_	_	_	_	_	_	_
+
+6	so	_	_	_	_	_	_	_	_
+
+7	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+8	Marje	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	Marty	_	_	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	„Čerwjena	_	_	_	_	_	_	_	_
+
+13	cyrkej“	_	_	_	_	_	_	_	_
+
+14	)	_	_	_	_	_	_	_	_
+
+15	,	_	_	_	_	_	_	_	_
+
+16	mjezy	mjez	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+17	1897	1897	NUM	_	_	_	_	_	_
+
+18	a	_	_	_	_	_	_	_	_
+
+19	1904	1904	NUM	_	_	_	_	_	_
+
+20	Serbski	_	_	_	_	_	_	_	_
+
+21	dom	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+22	při	_	_	_	_	_	_	_	_
+
+23	Lawskich	_	_	_	_	_	_	_	_
+
+24	hrjebjach	_	_	_	_	_	_	_	_
+
+25	,	_	_	_	_	_	_	_	_
+
+26	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+27	so	_	_	_	_	_	_	_	_
+
+28	pak	_	_	_	_	_	_	_	_
+
+29	w	_	_	_	_	_	_	_	_
+
+30	poslednich	_	_	_	_	_	_	_	_
+
+31	wójnskich	_	_	_	_	_	_	_	_
+
+32	dnjow	_	_	_	_	_	_	_	_
+
+33	lěta	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+34	1945	1945	NUM	_	_	_	_	_	_
+
+35	zniči	_	_	_	_	_	_	_	_
+
+36	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 50
+
+#text = 1902 dósta Budyšin wot sakskeho krala Jurja tak mjenowane Rietschelowe swisle, kotrež připrawichu so na wuchodnych swislach měšćanskeho dźiwadła.
+
+1	1902	1902	NUM	_	_	_	_	_	_
+
+2	dósta	_	_	_	_	_	_	_	_
+
+3	Budyšin	_	_	_	_	_	_	_	_
+
+4	wot	_	_	_	_	_	_	_	_
+
+5	sakskeho	_	_	_	_	_	_	_	_
+
+6	krala	kral	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+7	Jurja	_	_	_	_	_	_	_	_
+
+8	tak	_	_	_	_	_	_	_	_
+
+9	mjenowane	_	_	_	_	_	_	_	_
+
+10	Rietschelowe	_	_	_	_	_	_	_	_
+
+11	swisle	_	_	_	_	_	_	_	_
+
+12	,	_	_	_	_	_	_	_	_
+
+13	kotrež	_	_	_	_	_	_	_	_
+
+14	připrawichu	_	_	_	_	_	_	_	_
+
+15	so	_	_	_	_	_	_	_	_
+
+16	na	_	_	_	_	_	_	_	_
+
+17	wuchodnych	_	_	_	_	_	_	_	_
+
+18	swislach	_	_	_	_	_	_	_	_
+
+19	měšćanskeho	_	_	_	_	_	_	_	_
+
+20	dźiwadła	_	_	_	_	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 51
+
+#text = 1900 do 1945.
+
+1	1900	1900	NUM	_	_	_	_	_	_
+
+2	do	_	_	_	_	_	_	_	_
+
+3	1945	1945	NUM	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 52
+
+#text = 1904 wotewri so Sakski krajny chłostanski wustaw, kotryž dósta pozdźišo přimjeno "Žołta běda".
+
+1	1904	1904	NUM	_	_	_	_	_	_
+
+2	wotewri	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	Sakski	_	_	_	_	_	_	_	_
+
+5	krajny	_	_	_	_	_	_	_	_
+
+6	chłostanski	_	_	_	_	_	_	_	_
+
+7	wustaw	_	_	_	_	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+10	dósta	_	_	_	_	_	_	_	_
+
+11	pozdźišo	_	_	_	_	_	_	_	_
+
+12	přimjeno	_	_	_	_	_	_	_	_
+
+13	"Žołta	_	_	_	_	_	_	_	_
+
+14	běda	_	_	_	_	_	_	_	_
+
+15	"	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 53
+
+#text = W lětomaj 1908 a 1909 natwari so Kronprincowy móst (dźensa Móst měra).
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lětomaj	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,dat,du, n,instr,du, n,loc,du. 	_	_	_	_
+
+3	1908	1908	NUM	_	_	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	1909	1909	NUM	_	_	_	_	_	_
+
+6	natwari	_	_	_	_	_	_	_	_
+
+7	so	_	_	_	_	_	_	_	_
+
+8	Kronprincowy	_	_	_	_	_	_	_	_
+
+9	móst	_	_	_	_	_	_	_	_
+
+10	(	_	_	_	_	_	_	_	_
+
+11	dźensa	_	_	_	_	_	_	_	_
+
+12	Móst	_	_	_	_	_	_	_	_
+
+13	měra	měra	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+14	)	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 54
+
+#text = 1912 zagmejnuje so něhdy serbska wjes Třělany.
+
+1	1912	1912	NUM	_	_	_	_	_	_
+
+2	zagmejnuje	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	něhdy	_	_	_	_	_	_	_	_
+
+5	serbska	_	_	_	_	_	_	_	_
+
+6	wjes	wjes	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+7	Třělany	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 55
+
+#text = W lěće 1917 wopruja so 11 cyrkwinskich a swětnych zwonow brónjenskej industriji.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1917	1917	NUM	_	_	_	_	_	_
+
+4	wopruja	_	_	_	_	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	11	11	NUM	_	_	_	_	_	_
+
+7	cyrkwinskich	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	swětnych	_	_	_	_	_	_	_	_
+
+10	zwonow	_	_	_	_	_	_	_	_
+
+11	brónjenskej	_	_	_	_	_	_	_	_
+
+12	industriji	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 56
+
+#text = Dwě lěće po wójnje, 1920 wotewri so Sprjewina kupjel.
+
+1	Dwě	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	po	_	_	_	_	_	_	_	_
+
+4	wójnje	wójna	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,voc,du. 	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	1920	1920	NUM	_	_	_	_	_	_
+
+7	wotewri	_	_	_	_	_	_	_	_
+
+8	so	_	_	_	_	_	_	_	_
+
+9	Sprjewina	_	_	_	_	_	_	_	_
+
+10	kupjel	_	_	_	_	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 57
+
+#text = 1921 załoži so pod bamžom Benediktom V.
+
+1	1921	1921	NUM	_	_	_	_	_	_
+
+2	załoži	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	pod	_	_	_	_	_	_	_	_
+
+5	bamžom	_	_	_	_	_	_	_	_
+
+6	Benediktom	_	_	_	_	_	_	_	_
+
+7	V	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 58
+
+#text = biskopstwo Mišno znowa.
+
+1	biskopstwo	_	_	_	_	_	_	_	_
+
+2	Mišno	_	_	_	_	_	_	_	_
+
+3	znowa	_	_	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 59
+
+#text = Biskopske sydło bě Budyšin.
+
+1	Biskopske	_	_	_	_	_	_	_	_
+
+2	sydło	sydło	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+3	bě	_	_	_	_	_	_	_	_
+
+4	Budyšin	_	_	_	_	_	_	_	_
+
+5	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 60
+
+#text = Tachantska cyrkej sta so tak z katedralu.
+
+1	Tachantska	_	_	_	_	_	_	_	_
+
+2	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	sta	sto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	tak	_	_	_	_	_	_	_	_
+
+6	z	_	_	_	_	_	_	_	_
+
+7	katedralu	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 61
+
+#text = 1922 zagmejnuje so wjes Židow.
+
+1	1922	1922	NUM	_	_	_	_	_	_
+
+2	zagmejnuje	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	wjes	wjes	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+5	Židow	_	_	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 62
+
+#text = 1928 wobnowi so křižerski procesion z Budyšina do Radworja, kotryž bě kónc 18.
+
+1	1928	1928	NUM	_	_	_	_	_	_
+
+2	wobnowi	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	křižerski	_	_	_	_	_	_	_	_
+
+5	procesion	_	_	_	_	_	_	_	_
+
+6	z	_	_	_	_	_	_	_	_
+
+7	Budyšina	_	_	_	_	_	_	_	_
+
+8	do	_	_	_	_	_	_	_	_
+
+9	Radworja	_	_	_	_	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+12	bě	_	_	_	_	_	_	_	_
+
+13	kónc	kónc	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+14	18	18	NUM	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 63
+
+#text = lětstotka wusnył.
+
+1	lětstotka	lětstotk	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+2	wusnył	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 64
+
+#text = 1933, za čas nacionalsocialistow, woswjećichu prěni króć "tysaclětny jubilej".
+
+1	1933	1933	NUM	_	_	_	_	_	_
+
+2	,	_	_	_	_	_	_	_	_
+
+3	za	_	_	_	_	_	_	_	_
+
+4	čas	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+5	nacionalsocialistow	nacionalsocialist	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,du, f1,gen,pl. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	woswjećichu	_	_	_	_	_	_	_	_
+
+8	prěni	_	_	_	_	_	_	_	_
+
+9	króć	_	_	_	_	_	_	_	_
+
+10	"tysaclětny	_	_	_	_	_	_	_	_
+
+11	jubilej	jubilej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+12	"	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 65
+
+#text = Wuchadźišćo za to bě róčnica rozšěrjenja župy Mišno na teritorij Milčanow.
+
+1	Wuchadźišćo	_	_	_	_	_	_	_	_
+
+2	za	_	_	_	_	_	_	_	_
+
+3	to	_	_	_	_	_	_	_	_
+
+4	bě	_	_	_	_	_	_	_	_
+
+5	róčnica	_	_	_	_	_	_	_	_
+
+6	rozšěrjenja	_	_	_	_	_	_	_	_
+
+7	župy	_	_	_	_	_	_	_	_
+
+8	Mišno	_	_	_	_	_	_	_	_
+
+9	na	_	_	_	_	_	_	_	_
+
+10	teritorij	teritorij	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	Milčanow	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 66
+
+#text = 1938 dóńdźe tež w Budyšinje k pogromam přećiwo tu bydlacym židowskim měšćanam.
+
+1	1938	1938	NUM	_	_	_	_	_	_
+
+2	dóńdźe	_	_	_	_	_	_	_	_
+
+3	tež	_	_	_	_	_	_	_	_
+
+4	w	_	_	_	_	_	_	_	_
+
+5	Budyšinje	_	_	_	_	_	_	_	_
+
+6	k	_	_	_	_	_	_	_	_
+
+7	pogromam	_	_	_	_	_	_	_	_
+
+8	přećiwo	_	_	_	_	_	_	_	_
+
+9	tu	_	_	_	_	_	_	_	_
+
+10	bydlacym	_	_	_	_	_	_	_	_
+
+11	židowskim	_	_	_	_	_	_	_	_
+
+12	měšćanam	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 67
+
+#text = Mnoho wobchodow so zniči, runje tak židowska modlernja na Hornčerskej hasy.
+
+1	Mnoho	_	_	_	_	_	_	_	_
+
+2	wobchodow	wobchod	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,du, f1,gen,pl. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	zniči	_	_	_	_	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	runje	_	_	_	_	_	_	_	_
+
+7	tak	_	_	_	_	_	_	_	_
+
+8	židowska	_	_	_	_	_	_	_	_
+
+9	modlernja	_	_	_	_	_	_	_	_
+
+10	na	_	_	_	_	_	_	_	_
+
+11	Hornčerskej	_	_	_	_	_	_	_	_
+
+12	hasy	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 68
+
+#text = 1944 nastanje wotnožka koncentraciskeho lěhwa Groß-Rosen we wagonowni.
+
+1	1944	1944	NUM	_	_	_	_	_	_
+
+2	nastanje	_	_	_	_	_	_	_	_
+
+3	wotnožka	wotnožka	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+4	koncentraciskeho	_	_	_	_	_	_	_	_
+
+5	lěhwa	_	_	_	_	_	_	_	_
+
+6	Groß-Rosen	_	_	_	_	_	_	_	_
+
+7	we	_	_	_	_	_	_	_	_
+
+8	wagonowni	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 69
+
+#text = Kónc wójny wutwari so Budyšin jako "twjerdźizna", štož wuskutkowa sylniše boje wo město.
+
+1	Kónc	_	_	_	_	_	_	_	_
+
+2	wójny	wójna	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+3	wutwari	_	_	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	Budyšin	_	_	_	_	_	_	_	_
+
+6	jako	_	_	_	_	_	_	_	_
+
+7	"twjerdźizna	_	_	_	_	_	_	_	_
+
+8	"	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	štož	_	_	_	_	_	_	_	_
+
+11	wuskutkowa	_	_	_	_	_	_	_	_
+
+12	sylniše	_	_	_	_	_	_	_	_
+
+13	boje	boj	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+14	wo	_	_	_	_	_	_	_	_
+
+15	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 70
+
+#text = Něhdźe 10 procentow bydlenskich domow z něhdźe třećinu bydlenskeje płoniny so tak zniči.
+
+1	Něhdźe	_	_	_	_	_	_	_	_
+
+2	10	10	NUM	_	_	_	_	_	_
+
+3	procentow	procento	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+4	bydlenskich	_	_	_	_	_	_	_	_
+
+5	domow	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+6	z	_	_	_	_	_	_	_	_
+
+7	něhdźe	_	_	_	_	_	_	_	_
+
+8	třećinu	_	_	_	_	_	_	_	_
+
+9	bydlenskeje	_	_	_	_	_	_	_	_
+
+10	płoniny	_	_	_	_	_	_	_	_
+
+11	so	_	_	_	_	_	_	_	_
+
+12	tak	_	_	_	_	_	_	_	_
+
+13	zniči	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 71
+
+#text = Nimo toho skóncowa so 18 mostow, 35 zjawnych twarjenjow, 46 mjeńšich zawodow a 23 srěnich zawodow.
+
+1	Nimo	_	_	_	_	_	_	_	_
+
+2	toho	_	_	_	_	_	_	_	_
+
+3	skóncowa	_	_	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	18	18	NUM	_	_	_	_	_	_
+
+6	mostow	most	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,du, f1,gen,pl. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+7	,	_	_	_	_	_	_	_	_
+
+8	35	35	NUM	_	_	_	_	_	_
+
+9	zjawnych	_	_	_	_	_	_	_	_
+
+10	twarjenjow	twarjenje	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+11	,	_	_	_	_	_	_	_	_
+
+12	46	46	NUM	_	_	_	_	_	_
+
+13	mjeńšich	_	_	_	_	_	_	_	_
+
+14	zawodow	_	_	_	_	_	_	_	_
+
+15	a	_	_	_	_	_	_	_	_
+
+16	23	23	NUM	_	_	_	_	_	_
+
+17	srěnich	_	_	_	_	_	_	_	_
+
+18	zawodow	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 72
+
+#text = W poslednich dnjach wójny padny na woběmaj stronomaj něhdźe 6500 wojakow.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	poslednich	_	_	_	_	_	_	_	_
+
+3	dnjach	_	_	_	_	_	_	_	_
+
+4	wójny	wójna	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+5	padny	_	_	_	_	_	_	_	_
+
+6	na	_	_	_	_	_	_	_	_
+
+7	woběmaj	_	_	_	_	_	_	_	_
+
+8	stronomaj	strona	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,du, f,instr,du, f,loc,du. 	_	_	_	_
+
+9	něhdźe	_	_	_	_	_	_	_	_
+
+10	6500	6500	NUM	_	_	_	_	_	_
+
+11	wojakow	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 73
+
+#text = Tohorunja přisadźi něhdźe 350 ciwilistow swoje žiwjenje.
+
+1	Tohorunja	_	_	_	_	_	_	_	_
+
+2	přisadźi	_	_	_	_	_	_	_	_
+
+3	něhdźe	_	_	_	_	_	_	_	_
+
+4	350	350	NUM	_	_	_	_	_	_
+
+5	ciwilistow	_	_	_	_	_	_	_	_
+
+6	swoje	_	_	_	_	_	_	_	_
+
+7	žiwjenje	žiwjenje	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,loc,sg, n,voc,sg, n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 74
+
+#text = Statistiki wo tym pak su rozdźělne.
+
+1	Statistiki	_	_	_	_	_	_	_	_
+
+2	wo	_	_	_	_	_	_	_	_
+
+3	tym	_	_	_	_	_	_	_	_
+
+4	pak	_	_	_	_	_	_	_	_
+
+5	su	_	_	_	_	_	_	_	_
+
+6	rozdźělne	_	_	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 75
+
+#text = Powójnski čas a doba NDR.
+
+1	Powójnski	_	_	_	_	_	_	_	_
+
+2	čas	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	doba	doba	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+5	NDR	_	_	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 76
+
+#text = Mjez 1945 a 1950 wužiwaja wobsadnicy jastwo Budyšin I jako interněrowanske lěhwo.
+
+1	Mjez	_	_	_	_	_	_	_	_
+
+2	1945	1945	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1950	1950	NUM	_	_	_	_	_	_
+
+5	wužiwaja	_	_	_	_	_	_	_	_
+
+6	wobsadnicy	_	_	_	_	_	_	_	_
+
+7	jastwo	_	_	_	_	_	_	_	_
+
+8	Budyšin	_	_	_	_	_	_	_	_
+
+9	I	_	_	_	_	_	_	_	_
+
+10	jako	_	_	_	_	_	_	_	_
+
+11	interněrowanske	_	_	_	_	_	_	_	_
+
+12	lěhwo	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 77
+
+#text = Je dopokazane, zo přisadźi tu w tutym času 2714 ludźi swoje žiwjenje.
+
+1	Je	_	_	_	_	_	_	_	_
+
+2	dopokazane	_	_	_	_	_	_	_	_
+
+3	,	_	_	_	_	_	_	_	_
+
+4	zo	_	_	_	_	_	_	_	_
+
+5	přisadźi	_	_	_	_	_	_	_	_
+
+6	tu	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	tutym	_	_	_	_	_	_	_	_
+
+9	času	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+10	2714	2714	NUM	_	_	_	_	_	_
+
+11	ludźi	_	_	_	_	_	_	_	_
+
+12	swoje	_	_	_	_	_	_	_	_
+
+13	žiwjenje	žiwjenje	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,loc,sg, n,voc,sg, n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 78
+
+#text = Mjez 1956 a 1989 přesłyšuje Stasi ludźi w jastwje Budyšin II, kotrež je dźensa jako Wopomnišćo Budyšin wopytowarjam wotewrjene.
+
+1	Mjez	_	_	_	_	_	_	_	_
+
+2	1956	1956	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1989	1989	NUM	_	_	_	_	_	_
+
+5	přesłyšuje	_	_	_	_	_	_	_	_
+
+6	Stasi	_	_	_	_	_	_	_	_
+
+7	ludźi	_	_	_	_	_	_	_	_
+
+8	w	_	_	_	_	_	_	_	_
+
+9	jastwje	_	_	_	_	_	_	_	_
+
+10	Budyšin	_	_	_	_	_	_	_	_
+
+11	II	_	_	_	_	_	_	_	_
+
+12	,	_	_	_	_	_	_	_	_
+
+13	kotrež	_	_	_	_	_	_	_	_
+
+14	je	_	_	_	_	_	_	_	_
+
+15	dźensa	_	_	_	_	_	_	_	_
+
+16	jako	_	_	_	_	_	_	_	_
+
+17	Wopomnišćo	_	_	_	_	_	_	_	_
+
+18	Budyšin	_	_	_	_	_	_	_	_
+
+19	wopytowarjam	_	_	_	_	_	_	_	_
+
+20	wotewrjene	_	_	_	_	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 79
+
+#text = Mjez 1966 a 1989 přewjedźe so w Budyšinje sydom festiwalow serbskeje kultury.
+
+1	Mjez	_	_	_	_	_	_	_	_
+
+2	1966	1966	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1989	1989	NUM	_	_	_	_	_	_
+
+5	přewjedźe	_	_	_	_	_	_	_	_
+
+6	so	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	Budyšinje	_	_	_	_	_	_	_	_
+
+9	sydom	_	_	_	_	_	_	_	_
+
+10	festiwalow	_	_	_	_	_	_	_	_
+
+11	serbskeje	_	_	_	_	_	_	_	_
+
+12	kultury	kultura	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 80
+
+#text = 1969 potorhny so stare měšćanske dźiwadło z Ričelowymi swislemi.
+
+1	1969	1969	NUM	_	_	_	_	_	_
+
+2	potorhny	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	stare	stary	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+5	měšćanske	_	_	_	_	_	_	_	_
+
+6	dźiwadło	_	_	_	_	_	_	_	_
+
+7	z	_	_	_	_	_	_	_	_
+
+8	Ričelowymi	_	_	_	_	_	_	_	_
+
+9	swislemi	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 81
+
+#text = Tež wrota při Bohatej wěži so spotorhaja.
+
+1	Tež	_	_	_	_	_	_	_	_
+
+2	wrota	_	_	_	_	_	_	_	_
+
+3	při	_	_	_	_	_	_	_	_
+
+4	Bohatej	_	_	_	_	_	_	_	_
+
+5	wěži	_	_	_	_	_	_	_	_
+
+6	so	_	_	_	_	_	_	_	_
+
+7	spotorhaja	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 82
+
+#text = W lětach 1973 do 1975 nastawa nowa sydlenska štwórć "Dr.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lětach	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,loc,pl. 	_	_	_	_
+
+3	1973	1973	NUM	_	_	_	_	_	_
+
+4	do	_	_	_	_	_	_	_	_
+
+5	1975	1975	NUM	_	_	_	_	_	_
+
+6	nastawa	_	_	_	_	_	_	_	_
+
+7	nowa	nowy	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+8	sydlenska	_	_	_	_	_	_	_	_
+
+9	štwórć	_	_	_	_	_	_	_	_
+
+10	"Dr	_	_	_	_	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 83
+
+#text = Salvador Allende" z něhdźe 1500 bydlenjemi.
+
+1	Salvador	_	_	_	_	_	_	_	_
+
+2	Allende	_	_	_	_	_	_	_	_
+
+3	"	_	_	_	_	_	_	_	_
+
+4	z	_	_	_	_	_	_	_	_
+
+5	něhdźe	_	_	_	_	_	_	_	_
+
+6	1500	1500	NUM	_	_	_	_	_	_
+
+7	bydlenjemi	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 84
+
+#text = 1974 nastanje spjaty jězor, kotrehož woda tři něhdyše wsy pokryje.
+
+1	1974	1974	NUM	_	_	_	_	_	_
+
+2	nastanje	_	_	_	_	_	_	_	_
+
+3	spjaty	_	_	_	_	_	_	_	_
+
+4	jězor	jězor	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	kotrehož	_	_	_	_	_	_	_	_
+
+7	woda	woda	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+8	tři	tři	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+9	něhdyše	_	_	_	_	_	_	_	_
+
+10	wsy	_	_	_	_	_	_	_	_
+
+11	pokryje	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 85
+
+#text = 1975 natwari so nowe Němsko-Serbske ludowe dźiwadło.
+
+1	1975	1975	NUM	_	_	_	_	_	_
+
+2	natwari	_	_	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	nowe	nowy	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+5	Němsko-Serbske	_	_	_	_	_	_	_	_
+
+6	ludowe	_	_	_	_	_	_	_	_
+
+7	dźiwadło	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 86
+
+#text = Mjez 1977 a 1987 nastawa štwórć "Strowotna studnja" z něhdźe 5900 bydlenjemi.
+
+1	Mjez	_	_	_	_	_	_	_	_
+
+2	1977	1977	NUM	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	1987	1987	NUM	_	_	_	_	_	_
+
+5	nastawa	_	_	_	_	_	_	_	_
+
+6	štwórć	_	_	_	_	_	_	_	_
+
+7	"Strowotna	_	_	_	_	_	_	_	_
+
+8	studnja	_	_	_	_	_	_	_	_
+
+9	"	_	_	_	_	_	_	_	_
+
+10	z	_	_	_	_	_	_	_	_
+
+11	něhdźe	_	_	_	_	_	_	_	_
+
+12	5900	5900	NUM	_	_	_	_	_	_
+
+13	bydlenjemi	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 87
+
+#text = Po 1989.
+
+1	Po	_	_	_	_	_	_	_	_
+
+2	1989	1989	NUM	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 88
+
+#text = 1991 wutwori so zwjazk šesćiměstow znowa.
+
+1	1991	1991	NUM	_	_	_	_	_	_
+
+2	wutwori	wutwor	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	zwjazk	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+5	šesćiměstow	_	_	_	_	_	_	_	_
+
+6	znowa	_	_	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 89
+
+#text = Samsne lěto nastanje tež "Załožba za serbski lud" ze sydłom w Budyšinje.
+
+1	Samsne	_	_	_	_	_	_	_	_
+
+2	lěto	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+3	nastanje	_	_	_	_	_	_	_	_
+
+4	tež	_	_	_	_	_	_	_	_
+
+5	"Załožba	_	_	_	_	_	_	_	_
+
+6	za	_	_	_	_	_	_	_	_
+
+7	serbski	_	_	_	_	_	_	_	_
+
+8	lud	lud	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+9	"	_	_	_	_	_	_	_	_
+
+10	ze	_	_	_	_	_	_	_	_
+
+11	sydłom	sydło	NOUN	_	Possible inflectional characteristics. Gender=n: n,instr,sg. 	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	Budyšinje	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 90
+
+#text = W lětach po přewróće ponowja so wulki dźěl twarskeje substancy stareho města, štož bazuje do dalokeje měry tež na "Wustawkowym wobzamknjenju k saněrowanju stareho města" z lěta 1992.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lětach	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,loc,pl. 	_	_	_	_
+
+3	po	_	_	_	_	_	_	_	_
+
+4	přewróće	_	_	_	_	_	_	_	_
+
+5	ponowja	_	_	_	_	_	_	_	_
+
+6	so	_	_	_	_	_	_	_	_
+
+7	wulki	_	_	_	_	_	_	_	_
+
+8	dźěl	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+9	twarskeje	_	_	_	_	_	_	_	_
+
+10	substancy	substanca	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+11	stareho	_	_	_	_	_	_	_	_
+
+12	města	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	štož	_	_	_	_	_	_	_	_
+
+15	bazuje	_	_	_	_	_	_	_	_
+
+16	do	_	_	_	_	_	_	_	_
+
+17	dalokeje	_	_	_	_	_	_	_	_
+
+18	měry	měra	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+19	tež	_	_	_	_	_	_	_	_
+
+20	na	_	_	_	_	_	_	_	_
+
+21	"Wustawkowym	_	_	_	_	_	_	_	_
+
+22	wobzamknjenju	_	_	_	_	_	_	_	_
+
+23	k	_	_	_	_	_	_	_	_
+
+24	saněrowanju	_	_	_	_	_	_	_	_
+
+25	stareho	_	_	_	_	_	_	_	_
+
+26	města	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+27	"	_	_	_	_	_	_	_	_
+
+28	z	_	_	_	_	_	_	_	_
+
+29	lěta	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+30	1992	1992	NUM	_	_	_	_	_	_
+
+31	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 91
+
+#text = Wot 1994 stej tež něhdyšej wsy Delnja Kina a Sćijecy měšćanskej dźělej Budyšina.
+
+1	Wot	_	_	_	_	_	_	_	_
+
+2	1994	1994	NUM	_	_	_	_	_	_
+
+3	stej	_	_	_	_	_	_	_	_
+
+4	tež	_	_	_	_	_	_	_	_
+
+5	něhdyšej	_	_	_	_	_	_	_	_
+
+6	wsy	_	_	_	_	_	_	_	_
+
+7	Delnja	_	_	_	_	_	_	_	_
+
+8	Kina	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	Sćijecy	_	_	_	_	_	_	_	_
+
+11	měšćanskej	_	_	_	_	_	_	_	_
+
+12	dźělej	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+13	Budyšina	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 92
+
+#text = Wot 1995 wjedźe město titul "wulke wokrjesne město".
+
+1	Wot	_	_	_	_	_	_	_	_
+
+2	1995	1995	NUM	_	_	_	_	_	_
+
+3	wjedźe	_	_	_	_	_	_	_	_
+
+4	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+5	titul	titul	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+6	"wulke	_	_	_	_	_	_	_	_
+
+7	wokrjesne	_	_	_	_	_	_	_	_
+
+8	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+9	"	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 93
+
+#text = 1999 stanje so tež Mały Wjelkow dźěl Budyšina.
+
+1	1999	1999	NUM	_	_	_	_	_	_
+
+2	stanje	stan	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	tež	_	_	_	_	_	_	_	_
+
+5	Mały	_	_	_	_	_	_	_	_
+
+6	Wjelkow	_	_	_	_	_	_	_	_
+
+7	dźěl	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+8	Budyšina	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 94
+
+#text = W lěće 2002 woswjeći město 1000.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	2002	2002	NUM	_	_	_	_	_	_
+
+4	woswjeći	_	_	_	_	_	_	_	_
+
+5	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+6	1000	1000	NUM	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 95
+
+#text = róčnicu prěnjeho naspomnjenja.
+
+1	róčnicu	_	_	_	_	_	_	_	_
+
+2	prěnjeho	_	_	_	_	_	_	_	_
+
+3	naspomnjenja	_	_	_	_	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 96
+
+#text = Měšćanske dźěle.
+
+1	Měšćanske	_	_	_	_	_	_	_	_
+
+2	dźěle	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 97
+
+#text = Budyšin ma pjećadwaceći měšćanskich dźělow, z kotrychž słušeja šěsć do jadroweho města, mjeztym zo su 19 zagmejnowane wjeski.
+
+1	Budyšin	_	_	_	_	_	_	_	_
+
+2	ma	_	_	_	_	_	_	_	_
+
+3	pjećadwaceći	_	_	_	_	_	_	_	_
+
+4	měšćanskich	_	_	_	_	_	_	_	_
+
+5	dźělow	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	z	_	_	_	_	_	_	_	_
+
+8	kotrychž	_	_	_	_	_	_	_	_
+
+9	słušeja	_	_	_	_	_	_	_	_
+
+10	šěsć	_	_	_	_	_	_	_	_
+
+11	do	_	_	_	_	_	_	_	_
+
+12	jadroweho	_	_	_	_	_	_	_	_
+
+13	města	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+14	,	_	_	_	_	_	_	_	_
+
+15	mjeztym	_	_	_	_	_	_	_	_
+
+16	zo	_	_	_	_	_	_	_	_
+
+17	su	_	_	_	_	_	_	_	_
+
+18	19	19	NUM	_	_	_	_	_	_
+
+19	zagmejnowane	_	_	_	_	_	_	_	_
+
+20	wjeski	wjeska	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 98
+
+#text = "Hłowny zapis:" Měšćanske dźěle Budyšina – ze statistiskimi podaćemi
+
+1	"Hłowny	_	_	_	_	_	_	_	_
+
+2	zapis	zapis	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	:	_	_	_	_	_	_	_	_
+
+4	"	_	_	_	_	_	_	_	_
+
+5	Měšćanske	_	_	_	_	_	_	_	_
+
+6	dźěle	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+7	Budyšina	_	_	_	_	_	_	_	_
+
+8	–	_	_	_	_	_	_	_	_
+
+9	ze	_	_	_	_	_	_	_	_
+
+10	statistiskimi	_	_	_	_	_	_	_	_
+
+11	podaćemi	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 99
+
+#text = "Hlej tež:" Lisćina budyskich dróhow
+
+1	"Hlej	_	_	_	_	_	_	_	_
+
+2	tež	_	_	_	_	_	_	_	_
+
+3	:	_	_	_	_	_	_	_	_
+
+4	"	_	_	_	_	_	_	_	_
+
+5	Lisćina	_	_	_	_	_	_	_	_
+
+6	budyskich	_	_	_	_	_	_	_	_
+
+7	dróhow	dróha	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,du, f,gen,pl. 	_	_	_	_
+
+
+
+#sent_id = 100
+
+#text = Wobydlerstwo Budyšina.
+
+1	Wobydlerstwo	_	_	_	_	_	_	_	_
+
+2	Budyšina	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 101
+
+#text = Dźensa ma Budyšin 42.199 wobydlerjow, z toho je 20.159 muskich (48 %) a 22.040 žónskich (52 %).
+
+1	Dźensa	_	_	_	_	_	_	_	_
+
+2	ma	_	_	_	_	_	_	_	_
+
+3	Budyšin	_	_	_	_	_	_	_	_
+
+4	42	42	NUM	_	_	_	_	_	_
+
+5	.199	.199	NUM	_	_	_	_	_	_
+
+6	wobydlerjow	_	_	_	_	_	_	_	_
+
+7	,	_	_	_	_	_	_	_	_
+
+8	z	_	_	_	_	_	_	_	_
+
+9	toho	_	_	_	_	_	_	_	_
+
+10	je	_	_	_	_	_	_	_	_
+
+11	20	20	NUM	_	_	_	_	_	_
+
+12	.159	.159	NUM	_	_	_	_	_	_
+
+13	muskich	_	_	_	_	_	_	_	_
+
+14	(	_	_	_	_	_	_	_	_
+
+15	48	48	NUM	_	_	_	_	_	_
+
+16	%	_	_	_	_	_	_	_	_
+
+17	)	_	_	_	_	_	_	_	_
+
+18	a	_	_	_	_	_	_	_	_
+
+19	22	22	NUM	_	_	_	_	_	_
+
+20	.040	.040	NUM	_	_	_	_	_	_
+
+21	žónskich	_	_	_	_	_	_	_	_
+
+22	(	_	_	_	_	_	_	_	_
+
+23	52	52	NUM	_	_	_	_	_	_
+
+24	%	_	_	_	_	_	_	_	_
+
+25	)	_	_	_	_	_	_	_	_
+
+26	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 102
+
+#text = Něhdźe 2.190 ludźi ma pódlanske bydlenje w stolicy Hornjeje Łužicy.
+
+1	Něhdźe	_	_	_	_	_	_	_	_
+
+2	2	2	NUM	_	_	_	_	_	_
+
+3	.190	.190	NUM	_	_	_	_	_	_
+
+4	ludźi	_	_	_	_	_	_	_	_
+
+5	ma	_	_	_	_	_	_	_	_
+
+6	pódlanske	_	_	_	_	_	_	_	_
+
+7	bydlenje	_	_	_	_	_	_	_	_
+
+8	w	_	_	_	_	_	_	_	_
+
+9	stolicy	stolica	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+10	Hornjeje	_	_	_	_	_	_	_	_
+
+11	Łužicy	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 103
+
+#text = Wobchad.
+
+1	Wobchad	_	_	_	_	_	_	_	_
+
+2	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 104
+
+#text = Přez Budyšin wjedu zwjazkowa awtodróha A4 a zwjazkowej dróze B6 (z Bremena do Zhorjelca) a B96 (ze Žitawy do Sassnitza).
+
+1	Přez	_	_	_	_	_	_	_	_
+
+2	Budyšin	_	_	_	_	_	_	_	_
+
+3	wjedu	_	_	_	_	_	_	_	_
+
+4	zwjazkowa	_	_	_	_	_	_	_	_
+
+5	awtodróha	_	_	_	_	_	_	_	_
+
+6	A4	A4	NUM	_	_	_	_	_	_
+
+7	a	_	_	_	_	_	_	_	_
+
+8	zwjazkowej	_	_	_	_	_	_	_	_
+
+9	dróze	_	_	_	_	_	_	_	_
+
+10	B6	B6	NUM	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	z	_	_	_	_	_	_	_	_
+
+13	Bremena	_	_	_	_	_	_	_	_
+
+14	do	_	_	_	_	_	_	_	_
+
+15	Zhorjelca	_	_	_	_	_	_	_	_
+
+16	)	_	_	_	_	_	_	_	_
+
+17	a	_	_	_	_	_	_	_	_
+
+18	B96	B96	NUM	_	_	_	_	_	_
+
+19	(	_	_	_	_	_	_	_	_
+
+20	ze	_	_	_	_	_	_	_	_
+
+21	Žitawy	_	_	_	_	_	_	_	_
+
+22	do	_	_	_	_	_	_	_	_
+
+23	Sassnitza	_	_	_	_	_	_	_	_
+
+24	)	_	_	_	_	_	_	_	_
+
+25	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 105
+
+#text = Zwjazkowa dróha B156, kotraž spočina w Ranje, kónči we wuchodnym dźělu Budyšina.
+
+1	Zwjazkowa	_	_	_	_	_	_	_	_
+
+2	dróha	dróha	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+3	B156	B156	NUM	_	_	_	_	_	_
+
+4	,	_	_	_	_	_	_	_	_
+
+5	kotraž	_	_	_	_	_	_	_	_
+
+6	spočina	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	Ranje	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	kónči	_	_	_	_	_	_	_	_
+
+11	we	_	_	_	_	_	_	_	_
+
+12	wuchodnym	_	_	_	_	_	_	_	_
+
+13	dźělu	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+14	Budyšina	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 106
+
+#text = Budyšin je něhdyše železniske křižowanišćo, dźensa pak běži přez njón jenož hišće čara z Drježdźan do Zhorjelca z direktnymi ćahami do Drježdźan, Zhorjelca a Wrócławja.
+
+1	Budyšin	_	_	_	_	_	_	_	_
+
+2	je	_	_	_	_	_	_	_	_
+
+3	něhdyše	_	_	_	_	_	_	_	_
+
+4	železniske	_	_	_	_	_	_	_	_
+
+5	křižowanišćo	_	_	_	_	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	dźensa	_	_	_	_	_	_	_	_
+
+8	pak	_	_	_	_	_	_	_	_
+
+9	běži	_	_	_	_	_	_	_	_
+
+10	přez	_	_	_	_	_	_	_	_
+
+11	njón	_	_	_	_	_	_	_	_
+
+12	jenož	_	_	_	_	_	_	_	_
+
+13	hišće	_	_	_	_	_	_	_	_
+
+14	čara	_	_	_	_	_	_	_	_
+
+15	z	_	_	_	_	_	_	_	_
+
+16	Drježdźan	_	_	_	_	_	_	_	_
+
+17	do	_	_	_	_	_	_	_	_
+
+18	Zhorjelca	_	_	_	_	_	_	_	_
+
+19	z	_	_	_	_	_	_	_	_
+
+20	direktnymi	_	_	_	_	_	_	_	_
+
+21	ćahami	_	_	_	_	_	_	_	_
+
+22	do	_	_	_	_	_	_	_	_
+
+23	Drježdźan	_	_	_	_	_	_	_	_
+
+24	,	_	_	_	_	_	_	_	_
+
+25	Zhorjelca	_	_	_	_	_	_	_	_
+
+26	a	_	_	_	_	_	_	_	_
+
+27	Wrócławja	_	_	_	_	_	_	_	_
+
+28	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 107
+
+#text = Budyski wotrězk železniskeje čary Budyšin–Žandow je dźensa zawrěty a čara do Wojerec bu wottwarjena.
+
+1	Budyski	_	_	_	_	_	_	_	_
+
+2	wotrězk	wotrězk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	železniskeje	_	_	_	_	_	_	_	_
+
+4	čary	_	_	_	_	_	_	_	_
+
+5	Budyšin–Žandow	_	_	_	_	_	_	_	_
+
+6	je	_	_	_	_	_	_	_	_
+
+7	dźensa	_	_	_	_	_	_	_	_
+
+8	zawrěty	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	čara	_	_	_	_	_	_	_	_
+
+11	do	_	_	_	_	_	_	_	_
+
+12	Wojerec	_	_	_	_	_	_	_	_
+
+13	bu	_	_	_	_	_	_	_	_
+
+14	wottwarjena	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 108
+
+#text = Dalokobusy jědu štyri- do pjećkróć wodnjo z Budyšina do Berlina a wróćo kaž tež jónu přez Jarobrod do Kölna.
+
+1	Dalokobusy	_	_	_	_	_	_	_	_
+
+2	jědu	_	_	_	_	_	_	_	_
+
+3	štyri-	_	_	_	_	_	_	_	_
+
+4	do	_	_	_	_	_	_	_	_
+
+5	pjećkróć	_	_	_	_	_	_	_	_
+
+6	wodnjo	_	_	_	_	_	_	_	_
+
+7	z	_	_	_	_	_	_	_	_
+
+8	Budyšina	_	_	_	_	_	_	_	_
+
+9	do	_	_	_	_	_	_	_	_
+
+10	Berlina	_	_	_	_	_	_	_	_
+
+11	a	_	_	_	_	_	_	_	_
+
+12	wróćo	_	_	_	_	_	_	_	_
+
+13	kaž	_	_	_	_	_	_	_	_
+
+14	tež	_	_	_	_	_	_	_	_
+
+15	jónu	_	_	_	_	_	_	_	_
+
+16	přez	_	_	_	_	_	_	_	_
+
+17	Jarobrod	_	_	_	_	_	_	_	_
+
+18	do	_	_	_	_	_	_	_	_
+
+19	Kölna	_	_	_	_	_	_	_	_
+
+20	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 109
+
+#text = Twarske pomniki.
+
+1	Twarske	_	_	_	_	_	_	_	_
+
+2	pomniki	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 110
+
+#text = Budyšin ma derje zdźeržane stare město.
+
+1	Budyšin	_	_	_	_	_	_	_	_
+
+2	ma	_	_	_	_	_	_	_	_
+
+3	derje	_	_	_	_	_	_	_	_
+
+4	zdźeržane	_	_	_	_	_	_	_	_
+
+5	stare	stary	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+6	město	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 111
+
+#text = Jako symbolej Budyšina stej wosebje Stara wodarnja a Michałska cyrkej znatej.
+
+1	Jako	_	_	_	_	_	_	_	_
+
+2	symbolej	symbol	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+3	Budyšina	_	_	_	_	_	_	_	_
+
+4	stej	_	_	_	_	_	_	_	_
+
+5	wosebje	_	_	_	_	_	_	_	_
+
+6	Stara	_	_	_	_	_	_	_	_
+
+7	wodarnja	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	Michałska	_	_	_	_	_	_	_	_
+
+10	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	znatej	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 112
+
+#text = Wěsta wosebitosć je Bohata wěža, kotraž je na swoju dołhosć wo 1,44 m nachilena a so tohodla tež „křiwa wěža Budyšina“ mjenuje.
+
+1	Wěsta	_	_	_	_	_	_	_	_
+
+2	wosebitosć	wosebitosć	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	je	_	_	_	_	_	_	_	_
+
+4	Bohata	_	_	_	_	_	_	_	_
+
+5	wěža	_	_	_	_	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	kotraž	_	_	_	_	_	_	_	_
+
+8	je	_	_	_	_	_	_	_	_
+
+9	na	_	_	_	_	_	_	_	_
+
+10	swoju	_	_	_	_	_	_	_	_
+
+11	dołhosć	dołhosć	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+12	wo	_	_	_	_	_	_	_	_
+
+13	1	1	NUM	_	_	_	_	_	_
+
+14	,44 m	,44 m	NUM	_	_	_	_	_	_
+
+15	nachilena	_	_	_	_	_	_	_	_
+
+16	a	_	_	_	_	_	_	_	_
+
+17	so	_	_	_	_	_	_	_	_
+
+18	tohodla	_	_	_	_	_	_	_	_
+
+19	tež	_	_	_	_	_	_	_	_
+
+20	„křiwa	_	_	_	_	_	_	_	_
+
+21	wěža	_	_	_	_	_	_	_	_
+
+22	Budyšina“	_	_	_	_	_	_	_	_
+
+23	mjenuje	_	_	_	_	_	_	_	_
+
+24	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 113
+
+#text = Jej napřećo steji na tamnym boku Žitnych wikow Serbska cyrkej.
+
+1	Jej	_	_	_	_	_	_	_	_
+
+2	napřećo	_	_	_	_	_	_	_	_
+
+3	steji	_	_	_	_	_	_	_	_
+
+4	na	_	_	_	_	_	_	_	_
+
+5	tamnym	_	_	_	_	_	_	_	_
+
+6	boku	bok	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+7	Žitnych	_	_	_	_	_	_	_	_
+
+8	wikow	_	_	_	_	_	_	_	_
+
+9	Serbska	_	_	_	_	_	_	_	_
+
+10	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 114
+
+#text = Wažny twarski pomnik je tež Budyski hród (němsce: Ortenburg), kotryž steji na městnje stareho słowjanskeho hrodźišća.
+
+1	Wažny	_	_	_	_	_	_	_	_
+
+2	twarski	_	_	_	_	_	_	_	_
+
+3	pomnik	_	_	_	_	_	_	_	_
+
+4	je	_	_	_	_	_	_	_	_
+
+5	tež	_	_	_	_	_	_	_	_
+
+6	Budyski	_	_	_	_	_	_	_	_
+
+7	hród	_	_	_	_	_	_	_	_
+
+8	(	_	_	_	_	_	_	_	_
+
+9	němsce	_	_	_	_	_	_	_	_
+
+10	:	_	_	_	_	_	_	_	_
+
+11	Ortenburg	_	_	_	_	_	_	_	_
+
+12	)	_	_	_	_	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+15	steji	_	_	_	_	_	_	_	_
+
+16	na	_	_	_	_	_	_	_	_
+
+17	městnje	_	_	_	_	_	_	_	_
+
+18	stareho	_	_	_	_	_	_	_	_
+
+19	słowjanskeho	_	_	_	_	_	_	_	_
+
+20	hrodźišća	_	_	_	_	_	_	_	_
+
+21	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 115
+
+#text = Tež Tachantska cyrkej je hódna wobhladanja.
+
+1	Tež	_	_	_	_	_	_	_	_
+
+2	Tachantska	_	_	_	_	_	_	_	_
+
+3	cyrkej	cyrkej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+4	je	_	_	_	_	_	_	_	_
+
+5	hódna	_	_	_	_	_	_	_	_
+
+6	wobhladanja	_	_	_	_	_	_	_	_
+
+7	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 116
+
+#text = Wona je jedna z mało simultanych cyrkwjow w Němskej a wužiwa so wot katolskich a ewangelskich wěriwych zhromadnje.
+
+1	Wona	_	_	_	_	_	_	_	_
+
+2	je	_	_	_	_	_	_	_	_
+
+3	jedna	_	_	_	_	_	_	_	_
+
+4	z	_	_	_	_	_	_	_	_
+
+5	mało	mały	NOUN	_	Possible inflectional characteristics. Gender=m: m,voc,sg. 	_	_	_	_
+
+6	simultanych	_	_	_	_	_	_	_	_
+
+7	cyrkwjow	_	_	_	_	_	_	_	_
+
+8	w	_	_	_	_	_	_	_	_
+
+9	Němskej	_	_	_	_	_	_	_	_
+
+10	a	_	_	_	_	_	_	_	_
+
+11	wužiwa	_	_	_	_	_	_	_	_
+
+12	so	_	_	_	_	_	_	_	_
+
+13	wot	_	_	_	_	_	_	_	_
+
+14	katolskich	_	_	_	_	_	_	_	_
+
+15	a	_	_	_	_	_	_	_	_
+
+16	ewangelskich	_	_	_	_	_	_	_	_
+
+17	wěriwych	_	_	_	_	_	_	_	_
+
+18	zhromadnje	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 117
+
+#text = Lawska wěža při južnej kromje stareho města je najstarša wrotowa wěža w měsće; njedaloko stejaca Wjerina chěžka při Sprjewi jedne z najstaršich wobchowanych domskich.
+
+1	Lawska	_	_	_	_	_	_	_	_
+
+2	wěža	_	_	_	_	_	_	_	_
+
+3	při	_	_	_	_	_	_	_	_
+
+4	južnej	_	_	_	_	_	_	_	_
+
+5	kromje	kromja	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+6	stareho	_	_	_	_	_	_	_	_
+
+7	města	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+8	je	_	_	_	_	_	_	_	_
+
+9	najstarša	_	_	_	_	_	_	_	_
+
+10	wrotowa	_	_	_	_	_	_	_	_
+
+11	wěža	_	_	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	měsće;	_	_	_	_	_	_	_	_
+
+14	njedaloko	_	_	_	_	_	_	_	_
+
+15	stejaca	_	_	_	_	_	_	_	_
+
+16	Wjerina	_	_	_	_	_	_	_	_
+
+17	chěžka	_	_	_	_	_	_	_	_
+
+18	při	_	_	_	_	_	_	_	_
+
+19	Sprjewi	_	_	_	_	_	_	_	_
+
+20	jedne	_	_	_	_	_	_	_	_
+
+21	z	_	_	_	_	_	_	_	_
+
+22	najstaršich	_	_	_	_	_	_	_	_
+
+23	wobchowanych	_	_	_	_	_	_	_	_
+
+24	domskich	_	_	_	_	_	_	_	_
+
+25	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 118
+
+#text = Tež Budyska radnica a Mikławšk, na kotrymž staj mj.
+
+1	Tež	_	_	_	_	_	_	_	_
+
+2	Budyska	_	_	_	_	_	_	_	_
+
+3	radnica	radnice	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+4	a	_	_	_	_	_	_	_	_
+
+5	Mikławšk	_	_	_	_	_	_	_	_
+
+6	,	_	_	_	_	_	_	_	_
+
+7	na	_	_	_	_	_	_	_	_
+
+8	kotrymž	_	_	_	_	_	_	_	_
+
+9	staj	_	_	_	_	_	_	_	_
+
+10	mj	_	_	_	_	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 119
+
+#text = dr.
+
+1	dr	_	_	_	_	_	_	_	_
+
+2	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 120
+
+#text = Michał Hórnik a posledni serbski biskop Jurij Łusčanski pochowanaj, stej zajimawostce Budyšina.
+
+1	Michał	_	_	_	_	_	_	_	_
+
+2	Hórnik	_	_	_	_	_	_	_	_
+
+3	a	_	_	_	_	_	_	_	_
+
+4	posledni	_	_	_	_	_	_	_	_
+
+5	serbski	_	_	_	_	_	_	_	_
+
+6	biskop	_	_	_	_	_	_	_	_
+
+7	Jurij	_	_	_	_	_	_	_	_
+
+8	Łusčanski	_	_	_	_	_	_	_	_
+
+9	pochowanaj	_	_	_	_	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	stej	_	_	_	_	_	_	_	_
+
+12	zajimawostce	_	_	_	_	_	_	_	_
+
+13	Budyšina	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 121
+
+#text = Na Tuchorskim kěrchowje wuchodnje stareho města nadeńdu so wjele historiskich rownišćow kaž tež rowy wjacorych wuznamnych ewangelskich Serbow.
+
+1	Na	_	_	_	_	_	_	_	_
+
+2	Tuchorskim	_	_	_	_	_	_	_	_
+
+3	kěrchowje	_	_	_	_	_	_	_	_
+
+4	wuchodnje	_	_	_	_	_	_	_	_
+
+5	stareho	_	_	_	_	_	_	_	_
+
+6	města	město	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+7	nadeńdu	_	_	_	_	_	_	_	_
+
+8	so	_	_	_	_	_	_	_	_
+
+9	wjele	_	_	_	_	_	_	_	_
+
+10	historiskich	_	_	_	_	_	_	_	_
+
+11	rownišćow	_	_	_	_	_	_	_	_
+
+12	kaž	_	_	_	_	_	_	_	_
+
+13	tež	_	_	_	_	_	_	_	_
+
+14	rowy	row	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+15	wjacorych	_	_	_	_	_	_	_	_
+
+16	wuznamnych	_	_	_	_	_	_	_	_
+
+17	ewangelskich	_	_	_	_	_	_	_	_
+
+18	Serbow	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 122
+
+#text = Hlej tež: Kulturne pomniki w Budyšinje
+
+1	Hlej	_	_	_	_	_	_	_	_
+
+2	tež	_	_	_	_	_	_	_	_
+
+3	:	_	_	_	_	_	_	_	_
+
+4	Kulturne	_	_	_	_	_	_	_	_
+
+5	pomniki	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	Budyšinje	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 123
+
+#text = Serbske institucije w Budyšinje.
+
+1	Serbske	_	_	_	_	_	_	_	_
+
+2	institucije	institucija	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+3	w	_	_	_	_	_	_	_	_
+
+4	Budyšinje	_	_	_	_	_	_	_	_
+
+5	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 124
+
+#text = W měsće namaka so wjetši dźěl serbskich institucijow.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	měsće	_	_	_	_	_	_	_	_
+
+3	namaka	_	_	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	wjetši	_	_	_	_	_	_	_	_
+
+6	dźěl	dźěl	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+7	serbskich	_	_	_	_	_	_	_	_
+
+8	institucijow	institucija	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,du, f,gen,pl. 	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 125
+
+#text = W Serbskim domje na Póstowym naměsće je sydło Domowiny, Załožby za serbski lud, Serbskeho rozhłosa kaž tež Młodźinskeho towarstwa Pawk z.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	Serbskim	_	_	_	_	_	_	_	_
+
+3	domje	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+4	na	_	_	_	_	_	_	_	_
+
+5	Póstowym	_	_	_	_	_	_	_	_
+
+6	naměsće	_	_	_	_	_	_	_	_
+
+7	je	_	_	_	_	_	_	_	_
+
+8	sydło	sydło	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+9	Domowiny	_	_	_	_	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	Załožby	_	_	_	_	_	_	_	_
+
+12	za	_	_	_	_	_	_	_	_
+
+13	serbski	_	_	_	_	_	_	_	_
+
+14	lud	lud	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+15	,	_	_	_	_	_	_	_	_
+
+16	Serbskeho	_	_	_	_	_	_	_	_
+
+17	rozhłosa	_	_	_	_	_	_	_	_
+
+18	kaž	_	_	_	_	_	_	_	_
+
+19	tež	_	_	_	_	_	_	_	_
+
+20	Młodźinskeho	_	_	_	_	_	_	_	_
+
+21	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+22	Pawk	_	_	_	_	_	_	_	_
+
+23	z	_	_	_	_	_	_	_	_
+
+24	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 126
+
+#text = t..
+
+1	t	_	_	_	_	_	_	_	_
+
+2	.	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 127
+
+#text = W domje nastawa tež časopis Katolski Posoł.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	domje	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+3	nastawa	_	_	_	_	_	_	_	_
+
+4	tež	_	_	_	_	_	_	_	_
+
+5	časopis	časopis	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+6	Katolski	_	_	_	_	_	_	_	_
+
+7	Posoł	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 128
+
+#text = Rěčny centrum WITAJ, kotryž stara so mj.
+
+1	Rěčny	_	_	_	_	_	_	_	_
+
+2	centrum	centrum	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	WITAJ	_	_	_	_	_	_	_	_
+
+4	,	_	_	_	_	_	_	_	_
+
+5	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+6	stara	stary	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+7	so	_	_	_	_	_	_	_	_
+
+8	mj	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 129
+
+#text = dr.
+
+1	dr	_	_	_	_	_	_	_	_
+
+2	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 130
+
+#text = wo serbske wučbne materialije, je napřećo Serbskemu domej w twarjenju Němskeho pósta zaměstnjeny.
+
+1	wo	_	_	_	_	_	_	_	_
+
+2	serbske	_	_	_	_	_	_	_	_
+
+3	wučbne	_	_	_	_	_	_	_	_
+
+4	materialije	materialija	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	je	_	_	_	_	_	_	_	_
+
+7	napřećo	_	_	_	_	_	_	_	_
+
+8	Serbskemu	_	_	_	_	_	_	_	_
+
+9	domej	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+10	w	_	_	_	_	_	_	_	_
+
+11	twarjenju	twarjenje	NOUN	_	Possible inflectional characteristics. Gender=n: n,dat,sg, n,loc,sg. 	_	_	_	_
+
+12	Němskeho	_	_	_	_	_	_	_	_
+
+13	pósta	_	_	_	_	_	_	_	_
+
+14	zaměstnjeny	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 131
+
+#text = Na Sukelnskej hasy je Ludowe nakładnistwo Domowina (LND), kotrehož wudźěłki předawaja so w Smolerjec kniharni, kotraž je w samsnym domje zaměstnjena.
+
+1	Na	_	_	_	_	_	_	_	_
+
+2	Sukelnskej	_	_	_	_	_	_	_	_
+
+3	hasy	_	_	_	_	_	_	_	_
+
+4	je	_	_	_	_	_	_	_	_
+
+5	Ludowe	_	_	_	_	_	_	_	_
+
+6	nakładnistwo	nakładnistwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+7	Domowina	_	_	_	_	_	_	_	_
+
+8	(	_	_	_	_	_	_	_	_
+
+9	LND	_	_	_	_	_	_	_	_
+
+10	)	_	_	_	_	_	_	_	_
+
+11	,	_	_	_	_	_	_	_	_
+
+12	kotrehož	_	_	_	_	_	_	_	_
+
+13	wudźěłki	_	_	_	_	_	_	_	_
+
+14	předawaja	_	_	_	_	_	_	_	_
+
+15	so	_	_	_	_	_	_	_	_
+
+16	w	_	_	_	_	_	_	_	_
+
+17	Smolerjec	_	_	_	_	_	_	_	_
+
+18	kniharni	_	_	_	_	_	_	_	_
+
+19	,	_	_	_	_	_	_	_	_
+
+20	kotraž	_	_	_	_	_	_	_	_
+
+21	je	_	_	_	_	_	_	_	_
+
+22	w	_	_	_	_	_	_	_	_
+
+23	samsnym	_	_	_	_	_	_	_	_
+
+24	domje	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+25	zaměstnjena	_	_	_	_	_	_	_	_
+
+26	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 132
+
+#text = Na Budyskim hrodźe, w twarjenju něhdyšeje sólnicy je Serbski muzej.
+
+1	Na	_	_	_	_	_	_	_	_
+
+2	Budyskim	_	_	_	_	_	_	_	_
+
+3	hrodźe	_	_	_	_	_	_	_	_
+
+4	,	_	_	_	_	_	_	_	_
+
+5	w	_	_	_	_	_	_	_	_
+
+6	twarjenju	twarjenje	NOUN	_	Possible inflectional characteristics. Gender=n: n,dat,sg, n,loc,sg. 	_	_	_	_
+
+7	něhdyšeje	_	_	_	_	_	_	_	_
+
+8	sólnicy	_	_	_	_	_	_	_	_
+
+9	je	_	_	_	_	_	_	_	_
+
+10	Serbski	_	_	_	_	_	_	_	_
+
+11	muzej	muzej	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 133
+
+#text = Na Dwórnišćowej dróze namaka so wědomostne slědźenišćo Serbski institut.
+
+1	Na	_	_	_	_	_	_	_	_
+
+2	Dwórnišćowej	_	_	_	_	_	_	_	_
+
+3	dróze	_	_	_	_	_	_	_	_
+
+4	namaka	_	_	_	_	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	wědomostne	_	_	_	_	_	_	_	_
+
+7	slědźenišćo	slědźenišćo	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+8	Serbski	_	_	_	_	_	_	_	_
+
+9	institut	institut	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 134
+
+#text = Wažnej kulturnej instituciji stej tež Němsko-Serbske ludowe dźiwadło (NSLDź) a Serbski ludowy ansambl (SLA).
+
+1	Wažnej	_	_	_	_	_	_	_	_
+
+2	kulturnej	_	_	_	_	_	_	_	_
+
+3	instituciji	institucija	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+4	stej	_	_	_	_	_	_	_	_
+
+5	tež	_	_	_	_	_	_	_	_
+
+6	Němsko-Serbske	_	_	_	_	_	_	_	_
+
+7	ludowe	_	_	_	_	_	_	_	_
+
+8	dźiwadło	_	_	_	_	_	_	_	_
+
+9	(	_	_	_	_	_	_	_	_
+
+10	NSLDź	_	_	_	_	_	_	_	_
+
+11	)	_	_	_	_	_	_	_	_
+
+12	a	_	_	_	_	_	_	_	_
+
+13	Serbski	_	_	_	_	_	_	_	_
+
+14	ludowy	_	_	_	_	_	_	_	_
+
+15	ansambl	_	_	_	_	_	_	_	_
+
+16	(	_	_	_	_	_	_	_	_
+
+17	SLA	_	_	_	_	_	_	_	_
+
+18	)	_	_	_	_	_	_	_	_
+
+19	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 135
+
+#text = Carolina Eyckec:
+
+1	Carolina	_	_	_	_	_	_	_	_
+
+2	Eyckec	_	_	_	_	_	_	_	_
+
+3	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 136
+
+#text = Carolina Eyckec (* 26.
+
+1	Carolina	_	_	_	_	_	_	_	_
+
+2	Eyckec	_	_	_	_	_	_	_	_
+
+3	(	_	_	_	_	_	_	_	_
+
+4	*	_	_	_	_	_	_	_	_
+
+5	26	26	NUM	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 137
+
+#text = decembra 1987 blisko Berlina) je serbska hudźbnica a jedna z mało wirtuozow na instrumenće theremin.
+
+1	decembra	_	_	_	_	_	_	_	_
+
+2	1987	1987	NUM	_	_	_	_	_	_
+
+3	blisko	_	_	_	_	_	_	_	_
+
+4	Berlina	_	_	_	_	_	_	_	_
+
+5	)	_	_	_	_	_	_	_	_
+
+6	je	_	_	_	_	_	_	_	_
+
+7	serbska	_	_	_	_	_	_	_	_
+
+8	hudźbnica	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	jedna	_	_	_	_	_	_	_	_
+
+11	z	_	_	_	_	_	_	_	_
+
+12	mało	mały	NOUN	_	Possible inflectional characteristics. Gender=m: m,voc,sg. 	_	_	_	_
+
+13	wirtuozow	_	_	_	_	_	_	_	_
+
+14	na	_	_	_	_	_	_	_	_
+
+15	instrumenće	_	_	_	_	_	_	_	_
+
+16	theremin	_	_	_	_	_	_	_	_
+
+17	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 138
+
+#text = Pjećlětna Carolina dósta wučbu na klawěrje, lěto pozdźišo tež na huslach.
+
+1	Pjećlětna	_	_	_	_	_	_	_	_
+
+2	Carolina	_	_	_	_	_	_	_	_
+
+3	dósta	_	_	_	_	_	_	_	_
+
+4	wučbu	_	_	_	_	_	_	_	_
+
+5	na	_	_	_	_	_	_	_	_
+
+6	klawěrje	_	_	_	_	_	_	_	_
+
+7	,	_	_	_	_	_	_	_	_
+
+8	lěto	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+9	pozdźišo	_	_	_	_	_	_	_	_
+
+10	tež	_	_	_	_	_	_	_	_
+
+11	na	_	_	_	_	_	_	_	_
+
+12	huslach	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 139
+
+#text = Wopyta Specialnu šulu za hudźbu w Berlinje a měješe wučbu na huslach w rjadowni Prof.
+
+1	Wopyta	_	_	_	_	_	_	_	_
+
+2	Specialnu	_	_	_	_	_	_	_	_
+
+3	šulu	šula	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+4	za	_	_	_	_	_	_	_	_
+
+5	hudźbu	hudźba	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	Berlinje	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	měješe	_	_	_	_	_	_	_	_
+
+10	wučbu	_	_	_	_	_	_	_	_
+
+11	na	_	_	_	_	_	_	_	_
+
+12	huslach	_	_	_	_	_	_	_	_
+
+13	w	_	_	_	_	_	_	_	_
+
+14	rjadowni	_	_	_	_	_	_	_	_
+
+15	Prof	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 140
+
+#text = Ulla Scholz.
+
+1	Ulla	_	_	_	_	_	_	_	_
+
+2	Scholz	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 141
+
+#text = Pozdźišo wuměni husle na wiolu (braču) a dósta swoje wukubłanje pola Prof.
+
+1	Pozdźišo	_	_	_	_	_	_	_	_
+
+2	wuměni	wuměna	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+3	husle	_	_	_	_	_	_	_	_
+
+4	na	_	_	_	_	_	_	_	_
+
+5	wiolu	_	_	_	_	_	_	_	_
+
+6	(	_	_	_	_	_	_	_	_
+
+7	braču	_	_	_	_	_	_	_	_
+
+8	)	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	dósta	_	_	_	_	_	_	_	_
+
+11	swoje	_	_	_	_	_	_	_	_
+
+12	wukubłanje	_	_	_	_	_	_	_	_
+
+13	pola	polo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+14	Prof	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 142
+
+#text = Ditte Leser.
+
+1	Ditte	_	_	_	_	_	_	_	_
+
+2	Leser	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 143
+
+#text = Jako bračerka je wot lěta 2002 čłon Němskeje smyčkoweje filharmonije (Deutsche Streicherphilharmonie).
+
+1	Jako	_	_	_	_	_	_	_	_
+
+2	bračerka	_	_	_	_	_	_	_	_
+
+3	je	_	_	_	_	_	_	_	_
+
+4	wot	_	_	_	_	_	_	_	_
+
+5	lěta	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+6	2002	2002	NUM	_	_	_	_	_	_
+
+7	čłon	_	_	_	_	_	_	_	_
+
+8	Němskeje	_	_	_	_	_	_	_	_
+
+9	smyčkoweje	_	_	_	_	_	_	_	_
+
+10	filharmonije	filharmonie	NOUN	_	Possible inflectional characteristics. Gender=n: n,loc,sg, n,nom,du, n,acc,du, n,voc,du. 	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	Deutsche	_	_	_	_	_	_	_	_
+
+13	Streicherphilharmonie	_	_	_	_	_	_	_	_
+
+14	)	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 144
+
+#text = W starobje 7 lět započa pola Lydije Kaviny, pranichty Leona Theremina, theremin hrać.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	starobje	_	_	_	_	_	_	_	_
+
+3	7	7	NUM	_	_	_	_	_	_
+
+4	lět	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,pl. 	_	_	_	_
+
+5	započa	_	_	_	_	_	_	_	_
+
+6	pola	polo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+7	Lydije	_	_	_	_	_	_	_	_
+
+8	Kaviny	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	pranichty	_	_	_	_	_	_	_	_
+
+11	Leona	_	_	_	_	_	_	_	_
+
+12	Theremina	_	_	_	_	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	theremin	_	_	_	_	_	_	_	_
+
+15	hrać	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 145
+
+#text = Při wubědźowanju "Jugend komponiert" w lěće 2005 doby prěnje městno z kompoziciju "Physikalische Formeln".
+
+1	Při	_	_	_	_	_	_	_	_
+
+2	wubědźowanju	_	_	_	_	_	_	_	_
+
+3	"Jugend	_	_	_	_	_	_	_	_
+
+4	komponiert	_	_	_	_	_	_	_	_
+
+5	"	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	lěće	_	_	_	_	_	_	_	_
+
+8	2005	2005	NUM	_	_	_	_	_	_
+
+9	doby	doba	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+10	prěnje	_	_	_	_	_	_	_	_
+
+11	městno	_	_	_	_	_	_	_	_
+
+12	z	_	_	_	_	_	_	_	_
+
+13	kompoziciju	_	_	_	_	_	_	_	_
+
+14	"Physikalische	_	_	_	_	_	_	_	_
+
+15	Formeln	_	_	_	_	_	_	_	_
+
+16	"	_	_	_	_	_	_	_	_
+
+17	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 146
+
+#text = 2006 doby Myto komponistow RBB z kompoziciju „Sciciani – Am wendischen Burgwall” za akordeon a smyčkowy orchester.
+
+1	2006	2006	NUM	_	_	_	_	_	_
+
+2	doby	doba	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+3	Myto	_	_	_	_	_	_	_	_
+
+4	komponistow	_	_	_	_	_	_	_	_
+
+5	RBB	_	_	_	_	_	_	_	_
+
+6	z	_	_	_	_	_	_	_	_
+
+7	kompoziciju	_	_	_	_	_	_	_	_
+
+8	„Sciciani	_	_	_	_	_	_	_	_
+
+9	–	_	_	_	_	_	_	_	_
+
+10	Am	_	_	_	_	_	_	_	_
+
+11	wendischen	_	_	_	_	_	_	_	_
+
+12	Burgwall”	_	_	_	_	_	_	_	_
+
+13	za	_	_	_	_	_	_	_	_
+
+14	akordeon	_	_	_	_	_	_	_	_
+
+15	a	_	_	_	_	_	_	_	_
+
+16	smyčkowy	_	_	_	_	_	_	_	_
+
+17	orchester	_	_	_	_	_	_	_	_
+
+18	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 147
+
+#text = Carolina Eyckec hraje na Thereminje ze serije „Big Briar” wot Roberta Mooga.
+
+1	Carolina	_	_	_	_	_	_	_	_
+
+2	Eyckec	_	_	_	_	_	_	_	_
+
+3	hraje	_	_	_	_	_	_	_	_
+
+4	na	_	_	_	_	_	_	_	_
+
+5	Thereminje	_	_	_	_	_	_	_	_
+
+6	ze	_	_	_	_	_	_	_	_
+
+7	serije	_	_	_	_	_	_	_	_
+
+8	„Big	_	_	_	_	_	_	_	_
+
+9	Briar”	_	_	_	_	_	_	_	_
+
+10	wot	_	_	_	_	_	_	_	_
+
+11	Roberta	_	_	_	_	_	_	_	_
+
+12	Mooga	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 148
+
+#text = Spisa prěnju wučbnicu za hraće na thereminje w němskej rěči „Die Kunst des Thereminspiels/Ein Lehrbuch zum Erlernen des Thereminspiels”.
+
+1	Spisa	_	_	_	_	_	_	_	_
+
+2	prěnju	_	_	_	_	_	_	_	_
+
+3	wučbnicu	wučbnica	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+4	za	_	_	_	_	_	_	_	_
+
+5	hraće	_	_	_	_	_	_	_	_
+
+6	na	_	_	_	_	_	_	_	_
+
+7	thereminje	_	_	_	_	_	_	_	_
+
+8	w	_	_	_	_	_	_	_	_
+
+9	němskej	_	_	_	_	_	_	_	_
+
+10	rěči	rěč	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,gen,pl, f1,acc,pl. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+11	„Die	_	_	_	_	_	_	_	_
+
+12	Kunst	_	_	_	_	_	_	_	_
+
+13	des	_	_	_	_	_	_	_	_
+
+14	Thereminspiels/Ein	_	_	_	_	_	_	_	_
+
+15	Lehrbuch	_	_	_	_	_	_	_	_
+
+16	zum	_	_	_	_	_	_	_	_
+
+17	Erlernen	_	_	_	_	_	_	_	_
+
+18	des	_	_	_	_	_	_	_	_
+
+19	Thereminspiels”	_	_	_	_	_	_	_	_
+
+20	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 149
+
+#text = Jako solistka na thereminje je była na wuznamnych hudźbnych festiwalach z hosćom, tak w Baselu, Davosu, Łódźi a Budapesće.
+
+1	Jako	_	_	_	_	_	_	_	_
+
+2	solistka	_	_	_	_	_	_	_	_
+
+3	na	_	_	_	_	_	_	_	_
+
+4	thereminje	_	_	_	_	_	_	_	_
+
+5	je	_	_	_	_	_	_	_	_
+
+6	była	_	_	_	_	_	_	_	_
+
+7	na	_	_	_	_	_	_	_	_
+
+8	wuznamnych	_	_	_	_	_	_	_	_
+
+9	hudźbnych	_	_	_	_	_	_	_	_
+
+10	festiwalach	_	_	_	_	_	_	_	_
+
+11	z	_	_	_	_	_	_	_	_
+
+12	hosćom	_	_	_	_	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	tak	_	_	_	_	_	_	_	_
+
+15	w	_	_	_	_	_	_	_	_
+
+16	Baselu	_	_	_	_	_	_	_	_
+
+17	,	_	_	_	_	_	_	_	_
+
+18	Davosu	_	_	_	_	_	_	_	_
+
+19	,	_	_	_	_	_	_	_	_
+
+20	Łódźi	_	_	_	_	_	_	_	_
+
+21	a	_	_	_	_	_	_	_	_
+
+22	Budapesće	_	_	_	_	_	_	_	_
+
+23	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 150
+
+#text = W oktobrje 2015 dósta Eyckec připóznate hudźbne myto "ECHO Klassik".
+
+1	W	_	_	_	_	_	_	_	_
+
+2	oktobrje	_	_	_	_	_	_	_	_
+
+3	2015	2015	NUM	_	_	_	_	_	_
+
+4	dósta	_	_	_	_	_	_	_	_
+
+5	Eyckec	_	_	_	_	_	_	_	_
+
+6	připóznate	_	_	_	_	_	_	_	_
+
+7	hudźbne	_	_	_	_	_	_	_	_
+
+8	myto	myt	NOUN	_	Possible inflectional characteristics. Gender=m: m,voc,sg. 	_	_	_	_
+
+9	"ECHO	_	_	_	_	_	_	_	_
+
+10	Klassik	_	_	_	_	_	_	_	_
+
+11	"	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 151
+
+#text = Carolina Eyckec je dźowka serbskeho hudźbnika a nakładnika Jana Bělka.
+
+1	Carolina	_	_	_	_	_	_	_	_
+
+2	Eyckec	_	_	_	_	_	_	_	_
+
+3	je	_	_	_	_	_	_	_	_
+
+4	dźowka	_	_	_	_	_	_	_	_
+
+5	serbskeho	_	_	_	_	_	_	_	_
+
+6	hudźbnika	_	_	_	_	_	_	_	_
+
+7	a	_	_	_	_	_	_	_	_
+
+8	nakładnika	_	_	_	_	_	_	_	_
+
+9	Jana	_	_	_	_	_	_	_	_
+
+10	Bělka	_	_	_	_	_	_	_	_
+
+11	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 152
+
+#text = Lisćina delnjoserbskich wsow:
+
+1	Lisćina	_	_	_	_	_	_	_	_
+
+2	delnjoserbskich	_	_	_	_	_	_	_	_
+
+3	wsow	_	_	_	_	_	_	_	_
+
+4	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 153
+
+#text = Domowina:
+
+1	Domowina	_	_	_	_	_	_	_	_
+
+2	:	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 154
+
+#text = Domowina, hamtsce "Zwjazk Łužiskich Serbow z. t." (delnjoserbsce "Zwězk Łužyskich Serbow z. t.", němsce "Bund Lausitzer Sorben e. V.") je zwjazk Łužiskich Serbow, kotřiž regionalnym zwjazkam (župam) w Hornjej a Delnjej Łužicy abo k Domowinje asociěrowanym towarstwam přisłušeja.
+
+1	Domowina	_	_	_	_	_	_	_	_
+
+2	,	_	_	_	_	_	_	_	_
+
+3	hamtsce	_	_	_	_	_	_	_	_
+
+4	"Zwjazk	_	_	_	_	_	_	_	_
+
+5	Łužiskich	_	_	_	_	_	_	_	_
+
+6	Serbow	_	_	_	_	_	_	_	_
+
+7	z	_	_	_	_	_	_	_	_
+
+8	. t	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+10	"	_	_	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	delnjoserbsce	_	_	_	_	_	_	_	_
+
+13	"Zwězk	_	_	_	_	_	_	_	_
+
+14	Łužyskich	_	_	_	_	_	_	_	_
+
+15	Serbow	_	_	_	_	_	_	_	_
+
+16	z	_	_	_	_	_	_	_	_
+
+17	. t	_	_	_	_	_	_	_	_
+
+18	.	_	_	_	_	_	_	_	_
+
+19	"	_	_	_	_	_	_	_	_
+
+20	,	_	_	_	_	_	_	_	_
+
+21	němsce	_	_	_	_	_	_	_	_
+
+22	"Bund	_	_	_	_	_	_	_	_
+
+23	Lausitzer	_	_	_	_	_	_	_	_
+
+24	Sorben	_	_	_	_	_	_	_	_
+
+25	e	_	_	_	_	_	_	_	_
+
+26	. V	_	_	_	_	_	_	_	_
+
+27	.	_	_	_	_	_	_	_	_
+
+28	"	_	_	_	_	_	_	_	_
+
+29	)	_	_	_	_	_	_	_	_
+
+30	je	_	_	_	_	_	_	_	_
+
+31	zwjazk	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+32	Łužiskich	_	_	_	_	_	_	_	_
+
+33	Serbow	_	_	_	_	_	_	_	_
+
+34	,	_	_	_	_	_	_	_	_
+
+35	kotřiž	_	_	_	_	_	_	_	_
+
+36	regionalnym	_	_	_	_	_	_	_	_
+
+37	zwjazkam	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,pl. 	_	_	_	_
+
+38	(	_	_	_	_	_	_	_	_
+
+39	župam	_	_	_	_	_	_	_	_
+
+40	)	_	_	_	_	_	_	_	_
+
+41	w	_	_	_	_	_	_	_	_
+
+42	Hornjej	_	_	_	_	_	_	_	_
+
+43	a	_	_	_	_	_	_	_	_
+
+44	Delnjej	_	_	_	_	_	_	_	_
+
+45	Łužicy	_	_	_	_	_	_	_	_
+
+46	abo	_	_	_	_	_	_	_	_
+
+47	k	_	_	_	_	_	_	_	_
+
+48	Domowinje	_	_	_	_	_	_	_	_
+
+49	asociěrowanym	_	_	_	_	_	_	_	_
+
+50	towarstwam	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,dat,pl. 	_	_	_	_
+
+51	přisłušeja	_	_	_	_	_	_	_	_
+
+52	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 155
+
+#text = Domowina ma cyłkownje něhdźe 7.300 sobustawow.
+
+1	Domowina	_	_	_	_	_	_	_	_
+
+2	ma	_	_	_	_	_	_	_	_
+
+3	cyłkownje	_	_	_	_	_	_	_	_
+
+4	něhdźe	_	_	_	_	_	_	_	_
+
+5	7	7	NUM	_	_	_	_	_	_
+
+6	.300	.300	NUM	_	_	_	_	_	_
+
+7	sobustawow	_	_	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 156
+
+#text = Narok Domowiny je, politiske a kulturne zajimy wšitkich Serbow (zhromadnje ze Serbskimaj radomaj w Swobodym staće Sakska a kraju Braniborska) na regionalnej, krajnej, zwjazkowej a mjezynarodnej runinje zastupować, serbsku rěč a kulturu zdźeržeć a spěchować.
+
+1	Narok	_	_	_	_	_	_	_	_
+
+2	Domowiny	_	_	_	_	_	_	_	_
+
+3	je	_	_	_	_	_	_	_	_
+
+4	,	_	_	_	_	_	_	_	_
+
+5	politiske	_	_	_	_	_	_	_	_
+
+6	a	_	_	_	_	_	_	_	_
+
+7	kulturne	_	_	_	_	_	_	_	_
+
+8	zajimy	_	_	_	_	_	_	_	_
+
+9	wšitkich	_	_	_	_	_	_	_	_
+
+10	Serbow	_	_	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	zhromadnje	_	_	_	_	_	_	_	_
+
+13	ze	_	_	_	_	_	_	_	_
+
+14	Serbskimaj	_	_	_	_	_	_	_	_
+
+15	radomaj	rada	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,du, f,instr,du, f,loc,du. 	_	_	_	_
+
+16	w	_	_	_	_	_	_	_	_
+
+17	Swobodym	_	_	_	_	_	_	_	_
+
+18	staće	_	_	_	_	_	_	_	_
+
+19	Sakska	_	_	_	_	_	_	_	_
+
+20	a	_	_	_	_	_	_	_	_
+
+21	kraju	kraj	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+22	Braniborska	_	_	_	_	_	_	_	_
+
+23	)	_	_	_	_	_	_	_	_
+
+24	na	_	_	_	_	_	_	_	_
+
+25	regionalnej	_	_	_	_	_	_	_	_
+
+26	,	_	_	_	_	_	_	_	_
+
+27	krajnej	_	_	_	_	_	_	_	_
+
+28	,	_	_	_	_	_	_	_	_
+
+29	zwjazkowej	_	_	_	_	_	_	_	_
+
+30	a	_	_	_	_	_	_	_	_
+
+31	mjezynarodnej	_	_	_	_	_	_	_	_
+
+32	runinje	runina	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,voc,du. 	_	_	_	_
+
+33	zastupować	_	_	_	_	_	_	_	_
+
+34	,	_	_	_	_	_	_	_	_
+
+35	serbsku	_	_	_	_	_	_	_	_
+
+36	rěč	rěč	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+37	a	_	_	_	_	_	_	_	_
+
+38	kulturu	kultura	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+39	zdźeržeć	_	_	_	_	_	_	_	_
+
+40	a	_	_	_	_	_	_	_	_
+
+41	spěchować	_	_	_	_	_	_	_	_
+
+42	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 157
+
+#text = Po nowelěrowanju braniborskeho serbskeho zakonja w lěće 2014, móže Domowina w tutym zwjazkowym kraju serbske prawa tež před sudnistwom přesadźić.
+
+1	Po	_	_	_	_	_	_	_	_
+
+2	nowelěrowanju	_	_	_	_	_	_	_	_
+
+3	braniborskeho	_	_	_	_	_	_	_	_
+
+4	serbskeho	_	_	_	_	_	_	_	_
+
+5	zakonja	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	lěće	_	_	_	_	_	_	_	_
+
+8	2014	2014	NUM	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	móže	_	_	_	_	_	_	_	_
+
+11	Domowina	_	_	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	tutym	_	_	_	_	_	_	_	_
+
+14	zwjazkowym	_	_	_	_	_	_	_	_
+
+15	kraju	kraj	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+16	serbske	_	_	_	_	_	_	_	_
+
+17	prawa	prawo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+18	tež	_	_	_	_	_	_	_	_
+
+19	před	_	_	_	_	_	_	_	_
+
+20	sudnistwom	_	_	_	_	_	_	_	_
+
+21	přesadźić	_	_	_	_	_	_	_	_
+
+22	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 158
+
+#text = Hłownej zarjadaj Domowiny staj w Budyšinje a Choćebuzu.
+
+1	Hłownej	_	_	_	_	_	_	_	_
+
+2	zarjadaj	_	_	_	_	_	_	_	_
+
+3	Domowiny	_	_	_	_	_	_	_	_
+
+4	staj	_	_	_	_	_	_	_	_
+
+5	w	_	_	_	_	_	_	_	_
+
+6	Budyšinje	_	_	_	_	_	_	_	_
+
+7	a	_	_	_	_	_	_	_	_
+
+8	Choćebuzu	_	_	_	_	_	_	_	_
+
+9	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 159
+
+#text = Wona pak tež dalše regionalne běrowy w serbskim sydlenskim rumje wudźeržuje.
+
+1	Wona	_	_	_	_	_	_	_	_
+
+2	pak	_	_	_	_	_	_	_	_
+
+3	tež	_	_	_	_	_	_	_	_
+
+4	dalše	_	_	_	_	_	_	_	_
+
+5	regionalne	_	_	_	_	_	_	_	_
+
+6	běrowy	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	serbskim	_	_	_	_	_	_	_	_
+
+9	sydlenskim	_	_	_	_	_	_	_	_
+
+10	rumje	rum	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+11	wudźeržuje	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 160
+
+#text = Domowina přisłuša "Towarstwu za wohrožene ludy", "Europskemu běrowej za małorozšěrjene rěče (EBLUL)" a "Federalistiskej uniji europskich narodnych skupin (FUEN)".
+
+1	Domowina	_	_	_	_	_	_	_	_
+
+2	přisłuša	_	_	_	_	_	_	_	_
+
+3	"Towarstwu	_	_	_	_	_	_	_	_
+
+4	za	_	_	_	_	_	_	_	_
+
+5	wohrožene	_	_	_	_	_	_	_	_
+
+6	ludy	lud	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+7	"	_	_	_	_	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	"Europskemu	_	_	_	_	_	_	_	_
+
+10	běrowej	_	_	_	_	_	_	_	_
+
+11	za	_	_	_	_	_	_	_	_
+
+12	małorozšěrjene	_	_	_	_	_	_	_	_
+
+13	rěče	rěč	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+14	(	_	_	_	_	_	_	_	_
+
+15	EBLUL	_	_	_	_	_	_	_	_
+
+16	)	_	_	_	_	_	_	_	_
+
+17	"	_	_	_	_	_	_	_	_
+
+18	a	_	_	_	_	_	_	_	_
+
+19	"Federalistiskej	_	_	_	_	_	_	_	_
+
+20	uniji	unija	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+21	europskich	_	_	_	_	_	_	_	_
+
+22	narodnych	_	_	_	_	_	_	_	_
+
+23	skupin	skupina	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,voc,sg. 	_	_	_	_
+
+24	(	_	_	_	_	_	_	_	_
+
+25	FUEN	_	_	_	_	_	_	_	_
+
+26	)	_	_	_	_	_	_	_	_
+
+27	"	_	_	_	_	_	_	_	_
+
+28	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 161
+
+#text = Stawizny Domowiny.
+
+1	Stawizny	_	_	_	_	_	_	_	_
+
+2	Domowiny	_	_	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 162
+
+#text = Hižo za čas Němskeje rewolucije 1848/1849 so namjetuje, so wutworjace serbske towarstwa organizatorisce zwjazać.
+
+1	Hižo	_	_	_	_	_	_	_	_
+
+2	za	_	_	_	_	_	_	_	_
+
+3	čas	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+4	Němskeje	_	_	_	_	_	_	_	_
+
+5	rewolucije	_	_	_	_	_	_	_	_
+
+6	1848/1849	1848/1849	NUM	_	_	_	_	_	_
+
+7	so	_	_	_	_	_	_	_	_
+
+8	namjetuje	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	so	_	_	_	_	_	_	_	_
+
+11	wutworjace	_	_	_	_	_	_	_	_
+
+12	serbske	_	_	_	_	_	_	_	_
+
+13	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+14	organizatorisce	_	_	_	_	_	_	_	_
+
+15	zwjazać	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 163
+
+#text = Zakaz narodnych towarstwow w Sakskej w awgusće 1849 pak tute ideje spěšnje podusy.
+
+1	Zakaz	_	_	_	_	_	_	_	_
+
+2	narodnych	_	_	_	_	_	_	_	_
+
+3	towarstwow	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+4	w	_	_	_	_	_	_	_	_
+
+5	Sakskej	_	_	_	_	_	_	_	_
+
+6	w	_	_	_	_	_	_	_	_
+
+7	awgusće	_	_	_	_	_	_	_	_
+
+8	1849	1849	NUM	_	_	_	_	_	_
+
+9	pak	_	_	_	_	_	_	_	_
+
+10	tute	_	_	_	_	_	_	_	_
+
+11	ideje	idea	NOUN	_	Possible inflectional characteristics. Gender=f: f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,voc,du. 	_	_	_	_
+
+12	spěšnje	_	_	_	_	_	_	_	_
+
+13	podusy	_	_	_	_	_	_	_	_
+
+14	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 164
+
+#text = Wot 1871 wutworichu so lokalnje skutkowace serbske burske towarstwa – chóry, dźiwadłowe skupiny, konfesionelne towarstwa a towarstwa šulerjow a studowacych.
+
+1	Wot	_	_	_	_	_	_	_	_
+
+2	1871	1871	NUM	_	_	_	_	_	_
+
+3	wutworichu	_	_	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	lokalnje	_	_	_	_	_	_	_	_
+
+6	skutkowace	_	_	_	_	_	_	_	_
+
+7	serbske	_	_	_	_	_	_	_	_
+
+8	burske	_	_	_	_	_	_	_	_
+
+9	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+10	–	_	_	_	_	_	_	_	_
+
+11	chóry	_	_	_	_	_	_	_	_
+
+12	,	_	_	_	_	_	_	_	_
+
+13	dźiwadłowe	_	_	_	_	_	_	_	_
+
+14	skupiny	skupina	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+15	,	_	_	_	_	_	_	_	_
+
+16	konfesionelne	_	_	_	_	_	_	_	_
+
+17	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+18	a	_	_	_	_	_	_	_	_
+
+19	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+20	šulerjow	_	_	_	_	_	_	_	_
+
+21	a	_	_	_	_	_	_	_	_
+
+22	studowacych	_	_	_	_	_	_	_	_
+
+23	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 165
+
+#text = W lěće 1883/1898 zwrěšća pospyty třěšny zwjazk wutworić znowa.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1883/1898	1883/1898	NUM	_	_	_	_	_	_
+
+4	zwrěšća	_	_	_	_	_	_	_	_
+
+5	pospyty	_	_	_	_	_	_	_	_
+
+6	třěšny	_	_	_	_	_	_	_	_
+
+7	zwjazk	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+8	wutworić	_	_	_	_	_	_	_	_
+
+9	znowa	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 166
+
+#text = Załoženje třěšneho zwjazka.
+
+1	Załoženje	_	_	_	_	_	_	_	_
+
+2	třěšneho	_	_	_	_	_	_	_	_
+
+3	zwjazka	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+4	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 167
+
+#text = Dnja 13.
+
+1	Dnja	_	_	_	_	_	_	_	_
+
+2	13	13	NUM	_	_	_	_	_	_
+
+3	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 168
+
+#text = oktobra 1912 załoža zastupjerjo 31 serbskich towarstwow Domowinu we Wojerecach (w balowym a towaršnostnym domje při Piwarskej hasy), ze zaměrom přizamknjene towarstwa spěchować.
+
+1	oktobra	_	_	_	_	_	_	_	_
+
+2	1912	1912	NUM	_	_	_	_	_	_
+
+3	załoža	_	_	_	_	_	_	_	_
+
+4	zastupjerjo	_	_	_	_	_	_	_	_
+
+5	31	31	NUM	_	_	_	_	_	_
+
+6	serbskich	_	_	_	_	_	_	_	_
+
+7	towarstwow	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+8	Domowinu	_	_	_	_	_	_	_	_
+
+9	we	_	_	_	_	_	_	_	_
+
+10	Wojerecach	_	_	_	_	_	_	_	_
+
+11	(	_	_	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	balowym	_	_	_	_	_	_	_	_
+
+14	a	_	_	_	_	_	_	_	_
+
+15	towaršnostnym	_	_	_	_	_	_	_	_
+
+16	domje	dom	NOUN	_	Possible inflectional characteristics. Gender=m: m,loc,sg. 	_	_	_	_
+
+17	při	_	_	_	_	_	_	_	_
+
+18	Piwarskej	_	_	_	_	_	_	_	_
+
+19	hasy	_	_	_	_	_	_	_	_
+
+20	)	_	_	_	_	_	_	_	_
+
+21	,	_	_	_	_	_	_	_	_
+
+22	ze	_	_	_	_	_	_	_	_
+
+23	zaměrom	zaměr	NOUN	_	Possible inflectional characteristics. Gender=m: m,instr,sg. 	_	_	_	_
+
+24	přizamknjene	_	_	_	_	_	_	_	_
+
+25	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+26	spěchować	_	_	_	_	_	_	_	_
+
+27	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 169
+
+#text = Při tym běchu hłownje Arnošt Bart, Handrij Króna, Jurij Słodeńk, Bogumił Šwjela, Jan Dwórnik, Jurij Deleńk, Awgust Lapštich, Franc Kral a Michał Nawka wobdźěleni.
+
+1	Při	_	_	_	_	_	_	_	_
+
+2	tym	_	_	_	_	_	_	_	_
+
+3	běchu	_	_	_	_	_	_	_	_
+
+4	hłownje	_	_	_	_	_	_	_	_
+
+5	Arnošt	_	_	_	_	_	_	_	_
+
+6	Bart	_	_	_	_	_	_	_	_
+
+7	,	_	_	_	_	_	_	_	_
+
+8	Handrij	_	_	_	_	_	_	_	_
+
+9	Króna	_	_	_	_	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	Jurij	_	_	_	_	_	_	_	_
+
+12	Słodeńk	_	_	_	_	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	Bogumił	_	_	_	_	_	_	_	_
+
+15	Šwjela	_	_	_	_	_	_	_	_
+
+16	,	_	_	_	_	_	_	_	_
+
+17	Jan	_	_	_	_	_	_	_	_
+
+18	Dwórnik	_	_	_	_	_	_	_	_
+
+19	,	_	_	_	_	_	_	_	_
+
+20	Jurij	_	_	_	_	_	_	_	_
+
+21	Deleńk	_	_	_	_	_	_	_	_
+
+22	,	_	_	_	_	_	_	_	_
+
+23	Awgust	_	_	_	_	_	_	_	_
+
+24	Lapštich	_	_	_	_	_	_	_	_
+
+25	,	_	_	_	_	_	_	_	_
+
+26	Franc	_	_	_	_	_	_	_	_
+
+27	Kral	_	_	_	_	_	_	_	_
+
+28	a	_	_	_	_	_	_	_	_
+
+29	Michał	_	_	_	_	_	_	_	_
+
+30	Nawka	_	_	_	_	_	_	_	_
+
+31	wobdźěleni	_	_	_	_	_	_	_	_
+
+32	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 170
+
+#text = Ale hakle lěto pozdźišo, dnja 9.
+
+1	Ale	_	_	_	_	_	_	_	_
+
+2	hakle	_	_	_	_	_	_	_	_
+
+3	lěto	lěto	NOUN	_	Possible inflectional characteristics. Gender=n: n,nom,sg, n,acc,sg, n,voc,sg. 	_	_	_	_
+
+4	pozdźišo	_	_	_	_	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	dnja	_	_	_	_	_	_	_	_
+
+7	9	9	NUM	_	_	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 171
+
+#text = februara 1913 so załoženski proces ze schwalenjom wustawkow a wólbu wjednistwa skónči.
+
+1	februara	_	_	_	_	_	_	_	_
+
+2	1913	1913	NUM	_	_	_	_	_	_
+
+3	so	_	_	_	_	_	_	_	_
+
+4	załoženski	_	_	_	_	_	_	_	_
+
+5	proces	proces	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+6	ze	_	_	_	_	_	_	_	_
+
+7	schwalenjom	_	_	_	_	_	_	_	_
+
+8	wustawkow	_	_	_	_	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	wólbu	_	_	_	_	_	_	_	_
+
+11	wjednistwa	wjednistwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+12	skónči	_	_	_	_	_	_	_	_
+
+13	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 172
+
+#text = Na prěnjeho předsydu Domowiny so Arnošt Bart a na jeho městopředsydu Bogumił Šwjela wolitaj.
+
+1	Na	_	_	_	_	_	_	_	_
+
+2	prěnjeho	_	_	_	_	_	_	_	_
+
+3	předsydu	_	_	_	_	_	_	_	_
+
+4	Domowiny	_	_	_	_	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	Arnošt	_	_	_	_	_	_	_	_
+
+7	Bart	_	_	_	_	_	_	_	_
+
+8	a	_	_	_	_	_	_	_	_
+
+9	na	_	_	_	_	_	_	_	_
+
+10	jeho	_	_	_	_	_	_	_	_
+
+11	městopředsydu	_	_	_	_	_	_	_	_
+
+12	Bogumił	_	_	_	_	_	_	_	_
+
+13	Šwjela	_	_	_	_	_	_	_	_
+
+14	wolitaj	_	_	_	_	_	_	_	_
+
+15	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 173
+
+#text = Wjetšina při załožerskej zhromadźiznje zastupjenych towarstwow (wosebje katolske) so pak spočatnje Domowinje njepřidruža.
+
+1	Wjetšina	_	_	_	_	_	_	_	_
+
+2	při	_	_	_	_	_	_	_	_
+
+3	załožerskej	_	_	_	_	_	_	_	_
+
+4	zhromadźiznje	_	_	_	_	_	_	_	_
+
+5	zastupjenych	_	_	_	_	_	_	_	_
+
+6	towarstwow	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+7	(	_	_	_	_	_	_	_	_
+
+8	wosebje	_	_	_	_	_	_	_	_
+
+9	katolske	_	_	_	_	_	_	_	_
+
+10	)	_	_	_	_	_	_	_	_
+
+11	so	_	_	_	_	_	_	_	_
+
+12	pak	_	_	_	_	_	_	_	_
+
+13	spočatnje	_	_	_	_	_	_	_	_
+
+14	Domowinje	_	_	_	_	_	_	_	_
+
+15	njepřidruža	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 174
+
+#text = Hač do junija 1913 so zwjazkej 14 towarstwa z Hornjeje a jenož Maśica Serbska z Delnjeje Łužicy – z dohromady něhdźe 1.600 sobustawami – přizamknu.
+
+1	Hač	_	_	_	_	_	_	_	_
+
+2	do	_	_	_	_	_	_	_	_
+
+3	junija	junij	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+4	1913	1913	NUM	_	_	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	zwjazkej	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+7	14	14	NUM	_	_	_	_	_	_
+
+8	towarstwa	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+9	z	_	_	_	_	_	_	_	_
+
+10	Hornjeje	_	_	_	_	_	_	_	_
+
+11	a	_	_	_	_	_	_	_	_
+
+12	jenož	_	_	_	_	_	_	_	_
+
+13	Maśica	_	_	_	_	_	_	_	_
+
+14	Serbska	_	_	_	_	_	_	_	_
+
+15	z	_	_	_	_	_	_	_	_
+
+16	Delnjeje	_	_	_	_	_	_	_	_
+
+17	Łužicy	_	_	_	_	_	_	_	_
+
+18	–	_	_	_	_	_	_	_	_
+
+19	z	_	_	_	_	_	_	_	_
+
+20	dohromady	_	_	_	_	_	_	_	_
+
+21	něhdźe	_	_	_	_	_	_	_	_
+
+22	1	1	NUM	_	_	_	_	_	_
+
+23	.600	.600	NUM	_	_	_	_	_	_
+
+24	sobustawami	_	_	_	_	_	_	_	_
+
+25	–	_	_	_	_	_	_	_	_
+
+26	přizamknu	_	_	_	_	_	_	_	_
+
+27	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 175
+
+#text = Po zastajenju dźěławosće zwjazka za čas prěnjeje swětoweje wójny so Serbski narodny wuběrk, kotryž předsyda Domowiny Arnošt Bart hłownje zastupowaše, wo wjetše kulturne a tež politiske samopostajenje zasadźi.
+
+1	Po	_	_	_	_	_	_	_	_
+
+2	zastajenju	_	_	_	_	_	_	_	_
+
+3	dźěławosće	_	_	_	_	_	_	_	_
+
+4	zwjazka	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+5	za	_	_	_	_	_	_	_	_
+
+6	čas	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+7	prěnjeje	_	_	_	_	_	_	_	_
+
+8	swětoweje	_	_	_	_	_	_	_	_
+
+9	wójny	wójna	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+10	so	_	_	_	_	_	_	_	_
+
+11	Serbski	_	_	_	_	_	_	_	_
+
+12	narodny	_	_	_	_	_	_	_	_
+
+13	wuběrk	wuběrk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+14	,	_	_	_	_	_	_	_	_
+
+15	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+16	předsyda	_	_	_	_	_	_	_	_
+
+17	Domowiny	_	_	_	_	_	_	_	_
+
+18	Arnošt	_	_	_	_	_	_	_	_
+
+19	Bart	_	_	_	_	_	_	_	_
+
+20	hłownje	_	_	_	_	_	_	_	_
+
+21	zastupowaše	_	_	_	_	_	_	_	_
+
+22	,	_	_	_	_	_	_	_	_
+
+23	wo	_	_	_	_	_	_	_	_
+
+24	wjetše	_	_	_	_	_	_	_	_
+
+25	kulturne	_	_	_	_	_	_	_	_
+
+26	a	_	_	_	_	_	_	_	_
+
+27	tež	_	_	_	_	_	_	_	_
+
+28	politiske	_	_	_	_	_	_	_	_
+
+29	samopostajenje	_	_	_	_	_	_	_	_
+
+30	zasadźi	_	_	_	_	_	_	_	_
+
+31	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 176
+
+#text = Po zwrěšćenju tutoho hibanja so Domowina wot 1920 wobnowi.
+
+1	Po	_	_	_	_	_	_	_	_
+
+2	zwrěšćenju	_	_	_	_	_	_	_	_
+
+3	tutoho	_	_	_	_	_	_	_	_
+
+4	hibanja	hibanje	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,sg, n,nom,pl, n,acc,pl, n,voc,pl. 	_	_	_	_
+
+5	so	_	_	_	_	_	_	_	_
+
+6	Domowina	_	_	_	_	_	_	_	_
+
+7	wot	_	_	_	_	_	_	_	_
+
+8	1920	1920	NUM	_	_	_	_	_	_
+
+9	wobnowi	_	_	_	_	_	_	_	_
+
+10	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 177
+
+#text = Wot znowawožiwjenja k zakazej Domowiny.
+
+1	Wot	_	_	_	_	_	_	_	_
+
+2	znowawožiwjenja	_	_	_	_	_	_	_	_
+
+3	k	_	_	_	_	_	_	_	_
+
+4	zakazej	zakaz	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+5	Domowiny	_	_	_	_	_	_	_	_
+
+6	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 178
+
+#text = Za čas Weimarskeje republiki nastachu wuske zwiski k sportowemu třěšnemu zwjazkej Serbski Sokoł a so 24.
+
+1	Za	_	_	_	_	_	_	_	_
+
+2	čas	čas	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+3	Weimarskeje	_	_	_	_	_	_	_	_
+
+4	republiki	republika	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+5	nastachu	_	_	_	_	_	_	_	_
+
+6	wuske	_	_	_	_	_	_	_	_
+
+7	zwiski	zwisk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,gen,pl, f1,acc,pl. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+8	k	_	_	_	_	_	_	_	_
+
+9	sportowemu	_	_	_	_	_	_	_	_
+
+10	třěšnemu	_	_	_	_	_	_	_	_
+
+11	zwjazkej	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+12	Serbski	_	_	_	_	_	_	_	_
+
+13	Sokoł	_	_	_	_	_	_	_	_
+
+14	a	_	_	_	_	_	_	_	_
+
+15	so	_	_	_	_	_	_	_	_
+
+16	24	24	NUM	_	_	_	_	_	_
+
+17	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 179
+
+#text = julija 1921 župy „Jan Arnošt Smoler” w Budyšinje, „Michał Hórnik” w Kamjencu, „Handrij Zejler” we Wojerecach a „Hendrich Jordan” w Choćebuzu wutworja.
+
+1	julija	_	_	_	_	_	_	_	_
+
+2	1921	1921	NUM	_	_	_	_	_	_
+
+3	župy	_	_	_	_	_	_	_	_
+
+4	„Jan	_	_	_	_	_	_	_	_
+
+5	Arnošt	_	_	_	_	_	_	_	_
+
+6	Smoler”	_	_	_	_	_	_	_	_
+
+7	w	_	_	_	_	_	_	_	_
+
+8	Budyšinje	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	„Michał	_	_	_	_	_	_	_	_
+
+11	Hórnik”	_	_	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	Kamjencu	_	_	_	_	_	_	_	_
+
+14	,	_	_	_	_	_	_	_	_
+
+15	„Handrij	_	_	_	_	_	_	_	_
+
+16	Zejler”	_	_	_	_	_	_	_	_
+
+17	we	_	_	_	_	_	_	_	_
+
+18	Wojerecach	_	_	_	_	_	_	_	_
+
+19	a	_	_	_	_	_	_	_	_
+
+20	„Hendrich	_	_	_	_	_	_	_	_
+
+21	Jordan”	_	_	_	_	_	_	_	_
+
+22	w	_	_	_	_	_	_	_	_
+
+23	Choćebuzu	_	_	_	_	_	_	_	_
+
+24	wutworja	wutwor	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+25	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 180
+
+#text = W lěće 1924 přisłušeja Domowinje 82 towarstwow.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1924	1924	NUM	_	_	_	_	_	_
+
+4	přisłušeja	_	_	_	_	_	_	_	_
+
+5	Domowinje	_	_	_	_	_	_	_	_
+
+6	82	82	NUM	_	_	_	_	_	_
+
+7	towarstwow	towarstwo	NOUN	_	Possible inflectional characteristics. Gender=n: n,gen,du, n,gen,pl. 	_	_	_	_
+
+8	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 181
+
+#text = Skutkowanje třěšneho zwjazka wopřija nětko organizaciju přednoškow, koncertow, prózdninskich lěhwow kaž tež wudaće dźiwadłowych hrow a hudźbneho materiala za lajske dźiwadłowe skupiny a chóry.
+
+1	Skutkowanje	_	_	_	_	_	_	_	_
+
+2	třěšneho	_	_	_	_	_	_	_	_
+
+3	zwjazka	zwjazk	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+4	wopřija	_	_	_	_	_	_	_	_
+
+5	nětko	_	_	_	_	_	_	_	_
+
+6	organizaciju	organizacija	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+7	přednoškow	přednošk	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,du, f1,gen,pl. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+8	,	_	_	_	_	_	_	_	_
+
+9	koncertow	koncert	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,du, f1,gen,pl. Gender=m: m,gen,du, m,acc,du, m,gen,pl, m,acc,pl. 	_	_	_	_
+
+10	,	_	_	_	_	_	_	_	_
+
+11	prózdninskich	_	_	_	_	_	_	_	_
+
+12	lěhwow	_	_	_	_	_	_	_	_
+
+13	kaž	_	_	_	_	_	_	_	_
+
+14	tež	_	_	_	_	_	_	_	_
+
+15	wudaće	_	_	_	_	_	_	_	_
+
+16	dźiwadłowych	_	_	_	_	_	_	_	_
+
+17	hrow	hra	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,du, f,gen,pl. 	_	_	_	_
+
+18	a	_	_	_	_	_	_	_	_
+
+19	hudźbneho	_	_	_	_	_	_	_	_
+
+20	materiala	_	_	_	_	_	_	_	_
+
+21	za	_	_	_	_	_	_	_	_
+
+22	lajske	_	_	_	_	_	_	_	_
+
+23	dźiwadłowe	_	_	_	_	_	_	_	_
+
+24	skupiny	skupina	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+25	a	_	_	_	_	_	_	_	_
+
+26	chóry	_	_	_	_	_	_	_	_
+
+27	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 182
+
+#text = Nimo toho organizuje zjězdy a kulturne programy kaž na přikład 1925 w Kulowje, 1926 w Bukecach, 1927 w Radworju abo 1935 we Wojerecach.
+
+1	Nimo	_	_	_	_	_	_	_	_
+
+2	toho	_	_	_	_	_	_	_	_
+
+3	organizuje	_	_	_	_	_	_	_	_
+
+4	zjězdy	_	_	_	_	_	_	_	_
+
+5	a	_	_	_	_	_	_	_	_
+
+6	kulturne	_	_	_	_	_	_	_	_
+
+7	programy	program	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,gen,sg, f1,dat,sg, f1,loc,sg, f1,nom,du, f1,acc,du, f1,voc,du, f1,nom,pl, f1,acc,pl, f1,voc,pl. Gender=m: m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+8	kaž	_	_	_	_	_	_	_	_
+
+9	na	_	_	_	_	_	_	_	_
+
+10	přikład	přikład	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	1925	1925	NUM	_	_	_	_	_	_
+
+12	w	_	_	_	_	_	_	_	_
+
+13	Kulowje	_	_	_	_	_	_	_	_
+
+14	,	_	_	_	_	_	_	_	_
+
+15	1926	1926	NUM	_	_	_	_	_	_
+
+16	w	_	_	_	_	_	_	_	_
+
+17	Bukecach	_	_	_	_	_	_	_	_
+
+18	,	_	_	_	_	_	_	_	_
+
+19	1927	1927	NUM	_	_	_	_	_	_
+
+20	w	_	_	_	_	_	_	_	_
+
+21	Radworju	_	_	_	_	_	_	_	_
+
+22	abo	_	_	_	_	_	_	_	_
+
+23	1935	1935	NUM	_	_	_	_	_	_
+
+24	we	_	_	_	_	_	_	_	_
+
+25	Wojerecach	_	_	_	_	_	_	_	_
+
+26	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 183
+
+#text = W lěće 1925 so Serbska ludowa rada wot předsydstwa Domowiny, Serbskej (prjedy Łužiskej) ludowej strony a Maćicy Serbskeje wutwori.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1925	1925	NUM	_	_	_	_	_	_
+
+4	so	_	_	_	_	_	_	_	_
+
+5	Serbska	_	_	_	_	_	_	_	_
+
+6	ludowa	_	_	_	_	_	_	_	_
+
+7	rada	rada	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+8	wot	_	_	_	_	_	_	_	_
+
+9	předsydstwa	_	_	_	_	_	_	_	_
+
+10	Domowiny	_	_	_	_	_	_	_	_
+
+11	,	_	_	_	_	_	_	_	_
+
+12	Serbskej	_	_	_	_	_	_	_	_
+
+13	(	_	_	_	_	_	_	_	_
+
+14	prjedy	_	_	_	_	_	_	_	_
+
+15	Łužiskej	_	_	_	_	_	_	_	_
+
+16	)	_	_	_	_	_	_	_	_
+
+17	ludowej	_	_	_	_	_	_	_	_
+
+18	strony	strona	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+19	a	_	_	_	_	_	_	_	_
+
+20	Maćicy	_	_	_	_	_	_	_	_
+
+21	Serbskeje	_	_	_	_	_	_	_	_
+
+22	wutwori	wutwor	NOUN	_	Possible inflectional characteristics. Gender=m: m,nom,pl, m,gen,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+23	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 184
+
+#text = Tuta rada dyrbi serbske zajimy přećiwo parlamentej republiki a krajam zastupować.
+
+1	Tuta	_	_	_	_	_	_	_	_
+
+2	rada	rada	NOUN	_	Possible inflectional characteristics. Gender=f: f,nom,sg, f,voc,sg. 	_	_	_	_
+
+3	dyrbi	_	_	_	_	_	_	_	_
+
+4	serbske	_	_	_	_	_	_	_	_
+
+5	zajimy	_	_	_	_	_	_	_	_
+
+6	přećiwo	_	_	_	_	_	_	_	_
+
+7	parlamentej	parlament	NOUN	_	Possible inflectional characteristics. Gender=m: m,dat,sg, m,nom,du, m,acc,du, m,voc,du. 	_	_	_	_
+
+8	republiki	republika	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+9	a	_	_	_	_	_	_	_	_
+
+10	krajam	kraj	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,dat,pl. Gender=m: m,dat,pl. 	_	_	_	_
+
+11	zastupować	_	_	_	_	_	_	_	_
+
+12	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 185
+
+#text = Z pomocu peticijow sebi wona na přikład na kóncu Weimarskeje republiki žadaše, wučbnu situaciju serbskich dźěći polěpšić, štož pak bjez wuspěcha zwosta.
+
+1	Z	_	_	_	_	_	_	_	_
+
+2	pomocu	pomoc	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+3	peticijow	_	_	_	_	_	_	_	_
+
+4	sebi	_	_	_	_	_	_	_	_
+
+5	wona	_	_	_	_	_	_	_	_
+
+6	na	_	_	_	_	_	_	_	_
+
+7	přikład	přikład	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+8	na	_	_	_	_	_	_	_	_
+
+9	kóncu	kónc	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,instr,sg. Gender=m: m,gen,sg, m,acc,sg, m,loc,sg. 	_	_	_	_
+
+10	Weimarskeje	_	_	_	_	_	_	_	_
+
+11	republiki	republika	NOUN	_	Possible inflectional characteristics. Gender=f: f,gen,sg, f,dat,sg, f,loc,sg, f,nom,du, f,acc,du, f,nom,pl, f,gen,pl, f,acc,pl, f,voc,pl. 	_	_	_	_
+
+12	žadaše	_	_	_	_	_	_	_	_
+
+13	,	_	_	_	_	_	_	_	_
+
+14	wučbnu	_	_	_	_	_	_	_	_
+
+15	situaciju	situacija	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+16	serbskich	_	_	_	_	_	_	_	_
+
+17	dźěći	_	_	_	_	_	_	_	_
+
+18	polěpšić	_	_	_	_	_	_	_	_
+
+19	,	_	_	_	_	_	_	_	_
+
+20	štož	_	_	_	_	_	_	_	_
+
+21	pak	_	_	_	_	_	_	_	_
+
+22	bjez	_	_	_	_	_	_	_	_
+
+23	wuspěcha	wuspěch	NOUN	_	Possible inflectional characteristics. Gender=m: m,gen,sg, m,acc,sg, m,nom,pl, m,acc,pl, m,voc,pl. 	_	_	_	_
+
+24	zwosta	_	_	_	_	_	_	_	_
+
+25	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 186
+
+#text = W lěće 1933 bu Pawoł Nedo předsyda Domowiny, kotryž so za strukturnu reformu zasadźi.
+
+1	W	_	_	_	_	_	_	_	_
+
+2	lěće	_	_	_	_	_	_	_	_
+
+3	1933	1933	NUM	_	_	_	_	_	_
+
+4	bu	_	_	_	_	_	_	_	_
+
+5	Pawoł	_	_	_	_	_	_	_	_
+
+6	Nedo	_	_	_	_	_	_	_	_
+
+7	předsyda	_	_	_	_	_	_	_	_
+
+8	Domowiny	_	_	_	_	_	_	_	_
+
+9	,	_	_	_	_	_	_	_	_
+
+10	kotryž	kotryž	NOUN	_	Possible inflectional characteristics. Gender=f1: f1,nom,sg, f1,acc,sg, f1,voc,sg. Gender=m: m,nom,sg, m,acc,sg. 	_	_	_	_
+
+11	so	_	_	_	_	_	_	_	_
+
+12	za	_	_	_	_	_	_	_	_
+
+13	strukturnu	_	_	_	_	_	_	_	_
+
+14	reformu	reforma	NOUN	_	Possible inflectional characteristics. Gender=f: f,acc,sg, f,instr,sg. 	_	_	_	_
+
+15	zasadźi	_	_	_	_	_	_	_	_
+
+16	.	_	_	_	_	_	_	_	_
+
+
+
+#sent_id = 187
+
+#text = Při tym běše předwidźane, towarstwowe sobustawstwo na direktne (jednotliwe) čłonstwo přestajić, zo by so Domowina w nutru skrućiła.
+
+1	Při	_	_	_	_	_	_	_	_
+
+2	tym	_	_	_	_	_	_	_	_
+
+3	běše	_	_	_	_	_	_	_	_
+
+4	předwidźane	_	_	_	_	_	_	_	_
+
+5	,	_	_	_	_	_	_	_	_
+
+6	towarstwowe	_	_	_	_	_	_	_	_
+
+7	sobustawstwo	_	_	_	_	_	_	_	_
+
+8	na	_	_	_	_	_	_	_	_
+
+9	direktne	_	_	_	_	_	_	_	_
+
+10	(	_	_	_	_	_	_	_	_
+
+11	jednotliwe	_	_	_	_	_	_	_	_
+
+12	)	_	_	_	_	_	_	_	_
+
+13	čłonstwo	_	_	_	_	_	_	_	_
+
+14	přestajić	_	_	_	_	_	_	_	_
+
+15	,	_	_	_	_	_	_	_	_
+
+16	zo	_	_	_	_	_	_	_	_
+
+17	by	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,252 @@
+#sent_id = 1
+#text = Hłowna strona:
+1	Hłowna	_	_	_	_	_	_	_	_
+2	strona	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+#sent_id = 2
+#text = Benedikt XVI.:
+1	Benedikt	_	_	_	_	_	_	_	_
+2	XVI	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+
+#sent_id = 3
+#text = Benedikt XVI.
+1	Benedikt	_	_	_	_	_	_	_	_
+2	XVI	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+#sent_id = 4
+#text = (łaćonsce "Benedictus PP.
+1	(	_	_	_	_	_	_	_	_
+2	łaćonsce	_	_	_	_	_	_	_	_
+3	"Benedictus	_	_	_	_	_	_	_	_
+4	PP	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+#sent_id = 5
+#text = XVI"), z byrgarskim mjenom Josef Alois Ratzinger (* 16.
+1	XVI	_	_	_	_	_	_	_	_
+2	"	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	z	_	_	_	_	_	_	_	_
+6	byrgarskim	_	_	_	_	_	_	_	_
+7	mjenom	_	_	_	_	_	_	_	_
+8	Josef	_	_	_	_	_	_	_	_
+9	Alois	_	_	_	_	_	_	_	_
+10	Ratzinger	_	_	_	_	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	*	_	_	_	_	_	_	_	_
+13	16	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+#sent_id = 6
+#text = apryla 1927 w Marktl am Inn), běše wot 19.
+1	apryla	_	_	_	_	_	_	_	_
+2	1927	_	_	_	_	_	_	_	_
+3	w	_	_	_	_	_	_	_	_
+4	Marktl	_	_	_	_	_	_	_	_
+5	am	_	_	_	_	_	_	_	_
+6	Inn	_	_	_	_	_	_	_	_
+7	)	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	běše	_	_	_	_	_	_	_	_
+10	wot	_	_	_	_	_	_	_	_
+11	19	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+#sent_id = 7
+#text = apryla 2005 do 28.
+1	apryla	_	_	_	_	_	_	_	_
+2	2005	_	_	_	_	_	_	_	_
+3	do	_	_	_	_	_	_	_	_
+4	28	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+#sent_id = 8
+#text = februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a Watikana.
+1	februara	_	_	_	_	_	_	_	_
+2	2013	_	_	_	_	_	_	_	_
+3	bamž	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	z	_	_	_	_	_	_	_	_
+6	tym	_	_	_	_	_	_	_	_
+7	nawoda	_	_	_	_	_	_	_	_
+8	romsko-katolskeje	_	_	_	_	_	_	_	_
+9	cyrkwje	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Watikana	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+#sent_id = 9
+#text = Wón bě hakle třeći bamž w cyrkwinskich stawiznach, kiž wotstupi.
+1	Wón	_	_	_	_	_	_	_	_
+2	bě	_	_	_	_	_	_	_	_
+3	hakle	_	_	_	_	_	_	_	_
+4	třeći	_	_	_	_	_	_	_	_
+5	bamž	_	_	_	_	_	_	_	_
+6	w	_	_	_	_	_	_	_	_
+7	cyrkwinskich	_	_	_	_	_	_	_	_
+8	stawiznach	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	kiž	_	_	_	_	_	_	_	_
+11	wotstupi	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+#sent_id = 10
+#text = Wón wuzwoli so 19.
+1	Wón	_	_	_	_	_	_	_	_
+2	wuzwoli	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+#sent_id = 11
+#text = apryla 2005 wot 115 wobdźělenych kardinalow w štwórtym wólbnym kole po jenož 26 hodźin trajacej konklawje za naslědnika Jana Pawoła II..
+1	apryla	_	_	_	_	_	_	_	_
+2	2005	_	_	_	_	_	_	_	_
+3	wot	_	_	_	_	_	_	_	_
+4	115	_	_	_	_	_	_	_	_
+5	wobdźělenych	_	_	_	_	_	_	_	_
+6	kardinalow	_	_	_	_	_	_	_	_
+7	w	_	_	_	_	_	_	_	_
+8	štwórtym	_	_	_	_	_	_	_	_
+9	wólbnym	_	_	_	_	_	_	_	_
+10	kole	_	_	_	_	_	_	_	_
+11	po	_	_	_	_	_	_	_	_
+12	jenož	_	_	_	_	_	_	_	_
+13	26	_	_	_	_	_	_	_	_
+14	hodźin	_	_	_	_	_	_	_	_
+15	trajacej	_	_	_	_	_	_	_	_
+16	konklawje	_	_	_	_	_	_	_	_
+17	za	_	_	_	_	_	_	_	_
+18	naslědnika	_	_	_	_	_	_	_	_
+19	Jana	_	_	_	_	_	_	_	_
+20	Pawoła	_	_	_	_	_	_	_	_
+21	II	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+#sent_id = 12
+#text = Wón wobsedźi němske a watikanske staćanstwo.
+1	Wón	_	_	_	_	_	_	_	_
+2	wobsedźi	_	_	_	_	_	_	_	_
+3	němske	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	watikanske	_	_	_	_	_	_	_	_
+6	staćanstwo	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+#sent_id = 13
+#text = Do swojeho wuzwolenja na bamža bě Benedikt XVI.
+1	Do	_	_	_	_	_	_	_	_
+2	swojeho	_	_	_	_	_	_	_	_
+3	wuzwolenja	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	bamža	_	_	_	_	_	_	_	_
+6	bě	_	_	_	_	_	_	_	_
+7	Benedikt	_	_	_	_	_	_	_	_
+8	XVI	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+#sent_id = 14
+#text = dekan kardinalskeho kolegija a prefekt kongregacije za wučbu wěry.
+1	dekan	_	_	_	_	_	_	_	_
+2	kardinalskeho	_	_	_	_	_	_	_	_
+3	kolegija	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	prefekt	_	_	_	_	_	_	_	_
+6	kongregacije	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	wučbu	_	_	_	_	_	_	_	_
+9	wěry	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+#sent_id = 15
+#text = Płaćeše jako jedyn z najwuznamnišich kardinalow a wopisowaše so husto jako teologiska a cyrkwinopolitiska prawa ruka bamža Jana Pawoła II.
+1	Płaćeše	_	_	_	_	_	_	_	_
+2	jako	_	_	_	_	_	_	_	_
+3	jedyn	_	_	_	_	_	_	_	_
+4	z	_	_	_	_	_	_	_	_
+5	najwuznamnišich	_	_	_	_	_	_	_	_
+6	kardinalow	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	wopisowaše	_	_	_	_	_	_	_	_
+9	so	_	_	_	_	_	_	_	_
+10	husto	_	_	_	_	_	_	_	_
+11	jako	_	_	_	_	_	_	_	_
+12	teologiska	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	cyrkwinopolitiska	_	_	_	_	_	_	_	_
+15	prawa	_	_	_	_	_	_	_	_
+16	ruka	_	_	_	_	_	_	_	_
+17	bamža	_	_	_	_	_	_	_	_
+18	Jana	_	_	_	_	_	_	_	_
+19	Pawoła	_	_	_	_	_	_	_	_
+20	II	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+#sent_id = 16
+#text = W zjawnosći płaći Benedikt XVI.
+1	W	_	_	_	_	_	_	_	_
+2	zjawnosći	_	_	_	_	_	_	_	_
+3	płaći	_	_	_	_	_	_	_	_
+4	Benedikt	_	_	_	_	_	_	_	_
+5	XVI	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+#sent_id = 17
+#text = jako konserwatiwny.
+1	jako	_	_	_	_	_	_	_	_
+2	konserwatiwny	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+#sent_id = 18
+#text = Budyšin:
+1	Budyšin	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+
+#sent_id = 19
+#text = Budyšin ma něhdźe 40.000 wobydlerjow, z čimž je zdobom najwjetše město wokrjesa a druhe najwjetše w Hornjej Łužicy.
+1	Budyšin	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	něhdźe	_	_	_	_	_	_	_	_
+4	40	_	_	_	_	_	_	_	_
+5	.000	_	_	_	_	_	_	_	_
+6	wobydlerjow	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	z	_	_	_	_	_	_	_	_
+9	čimž	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	zdobom	_	_	_	_	_	_	_	_
+12	najwjetše	_	_	_	_	_	_	_	_
+13	město	_	_	_	_	_	_	_	_
+14	wokrjesa	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	druhe	_	_	_	_	_	_	_	_
+17	najwjetše	_	_	_	_	_	_	_	_
+18	w	_	_	_	_	_	_	_	_
+19	Hornjej	_	_	_	_	_	_	_	_
+20	Łužicy	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+#sent_id = 20
+#text = Něhdyša stolica Hornjeje Łužicy płaći jako kulturelne srjedźišćo Serbow a leži w serbskim sydlenskim rumje.
+1	Něhdyša	_	_	_	_	_	_	_	_
+2	stolica	_	_	_	_	_	_	_	_
+3	Hornjeje	_	_	_	_	_	_	_	_
+4	Łužicy	_	_	_	_	_	_	_	_
+5	płaći	_	_	_	_	_	_	_	_
+6	jako	_	_	_	_	_	_	_	_
+7	kulturelne	_	_	_	_	_	_	_	_
+8	srjedźišćo	_	_	_	_	_	_	_	_
+9	Serbow	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	leži	_	_	_	_	_	_	_	_
+12	w	_	_	_	_	_	_	_	_
+13	serbskim	_	_	_	_	_	_	_	_
+14	sydlenskim	_	_	_	_	_	_	_	_
+15	rumje	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
