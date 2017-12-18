@@ -1,8 +1,5 @@
 import sys
 
-def hasNumbers(inputString):
-	return any(char.isdigit() for char in inputString)
-
 stems = {}
 f = open('corpus/stems_cz.txt', 'r')
 for line in f:
@@ -154,7 +151,7 @@ for i in range(len(text)):
 			line_array = text[i].split('\t')
 			word = str(line_array[1])
 			morphology = str(line_array[5])
-			if hasNumbers(word) == True:
+			if word.isdigit() == True:
 				line_array[3] = 'NUM'
 				line_array[2] = word
 			for lemma in annotated_clear:
